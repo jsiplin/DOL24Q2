@@ -130,11 +130,11 @@ Maryland,2022Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and 
 Maryland,2022Q3,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,TBD
 Maryland,2022Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD
 Maryland,2022Q3,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD
-Maryland,2021Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
-Maryland,2021Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
-Maryland,2022Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
-Maryland,2022Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
-Maryland,2021Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
+Maryland,2021Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2021Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2022Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2022Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2021Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
 Maryland,2022Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD
 Maryland,2022Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD
 Maryland,2022Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,TBD
@@ -184,6 +184,8 @@ Maryland,2018,Employment Status By Disability Status,Disabled,,Labor Force,,1553
 Maryland,2018,Employment Status By Disability Status,Non Disabled,,Labor Force,,2849397
 Maryland,2019,Employment Status By Disability Status,Disabled,,Labor Force,,156487
 Maryland,2019,Employment Status By Disability Status,Non Disabled,,Labor Force,,2843711
+Maryland,2020,Employment Status By Disability Status,Non Disabled,,Labor Force,,2836409
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Labor Force,,2871952
 Maryland,2019,Employment Status By Poverty Status,Below Poverty,,Employed,,119071,
 Maryland,2016,Employment Status By Poverty Status,Below Poverty,,Employed,,125186,
 Maryland,2015,Median Household Income,,,,,74551,
