@@ -709,7 +709,7 @@ import * as dimple from 'dimple';
     createChart(createThese)
 
     //
-    //Chart 6 - QCEW  - Disablity and Povery
+    //Chart 6 - QCEW  - Disablity and Poverty
     //
 
     // Retrieve Elements
@@ -895,7 +895,7 @@ import * as dimple from 'dimple';
         "xtitle": "Employment Status",
         "order": false,
         "measureAxis": ["y", "Amount"],
-        "ytitle": "Povery Status",
+        "ytitle": "Poverty Status",
         "tickFormat": ',.0f',
         "series": "Indicator_Status",
         "lineMarkers": false,
@@ -907,7 +907,7 @@ import * as dimple from 'dimple';
         "xtitle": "Employment Status",
         "order": false,
         "measureAxis": ["y", "Amount"],
-        "ytitle": "Povery Status",
+        "ytitle": "Poverty Status",
         "tickFormat": ',.0f',
         "series": "Indicator_Status",
         "lineMarkers": false,
