@@ -27,7 +27,7 @@ export let wdaDropdowns = `
 
 let wdaFooter = `
 <div class="Footer">
-  <p id= "wda_footer">Notes:<br>"TBD" represents values that are yet to be determined.<br>For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.<br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on March 18, 2023<br></p>
+  <p id= "wda_footer">Notes:<br>"TBD" represents values that are yet to be determined.<br>For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.<br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
 </div>
 `
 

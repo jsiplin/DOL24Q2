@@ -61,7 +61,7 @@ export let counties_pop = `
       </table>
     <div class="Footer">
       <div class="FootLeft">
-        <p>Source: American Community Survey 5-Year Estimates (Date Last Accessed: March 18, 2023)</p>
+        <p>Source: American Community Survey 5-Year Estimates (Date Last Accessed: June 7, 2023)</p>
       </div>
     </div>
     </div>
@@ -82,7 +82,7 @@ export let counties_empl_edu_gend = `
       <table id ="empl_edu_gend_table">
       </table>
     <div class="Footer">
-      <p id ="bottom part1">Note: NIL are individuals who are not in the labor force; this includes retirees and others who are not looking for work <br> <br> Source: American Community Survey 5-Year Estimates (Date Last Accessed: March 18, 2023) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
+      <p id ="bottom part1">Note: NIL are individuals who are not in the labor force; this includes retirees and others who are not looking for work <br> <br> Source: American Community Survey 5-Year Estimates (Date Last Accessed: June 7, 2023) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
     </div>
     </div>
   </div>
@@ -101,7 +101,7 @@ export let counties_empl_race_ethn = `
       <table id="empl_race_ethn_table">
       </table>
     <div class="Footer">
-      <p id="empl_race_ethn_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: March 18, 2023) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
+      <p id="empl_race_ethn_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: June 7, 2023) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
     </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ export let counties_empl_vet = `
       <table id="empl_vet_table">
       </table>
       <div class="Footer">
-        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: March 18, 2023)<br><br>"S" Represents suppressed counts that are less than 3.</p>
+        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: June 7, 2023)<br><br>"S" Represents suppressed counts that are less than 3.</p>
       </div>
     </div>
   </div>
@@ -166,7 +166,7 @@ export let counties_tanf = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: May 15, 2023) <br><br> "--" means data is not available. </p>
+          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: June 7, 2023) <br><br> "--" means data is not available. </p>
         </div>
       </div>
     </div>

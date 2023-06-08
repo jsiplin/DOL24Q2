@@ -23,8 +23,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     //
     // Filter Data
     //
-    let fullYears = ['2015', '2016', '2017', '2018', '2019', '2020','2021']
-    let fullQuarters =  ["2015Q1", "2015Q2", "2015Q3", "2015Q4", "2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2","2020Q3","2020Q4","2021Q1", "2021Q2", "2021Q3", "2021Q4"]
+    let fullYears = ['2015', '2016', '2017', '2018', '2019', '2020','2021','2022']
+    let fullQuarters =  ["2015Q1", "2015Q2", "2015Q3", "2015Q4", "2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2","2020Q3","2020Q4","2021Q1", "2021Q2", "2021Q3", "2021Q4","2022Q1", "2022Q2", "2022Q3", "2022Q4"]
     
     // Tab - Pop & MHHI
     let mhhi = dimple.filterData(data, "Indicator", "Median Household Income")
@@ -264,6 +264,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [ptanf_attainment_chart, ptanf_perc_chart, ptanf_rate_chart, ptanf_data],
         'svgName': '#tanf_chart',
         'data': {
+            data22: [tanfAttainment2022, tanfPerc2022, tanfRate2022, tanfData2022],
             data21: [tanfAttainment2021, tanfPerc2021, tanfRate2021, tanfData2021],
 			data20: [tanfAttainment2020, tanfPerc2020, tanfRate2020, tanfData2020],
             data19: [tanfAttainment2019, tanfPerc2019, tanfRate2019, tanfData2019],

@@ -346,6 +346,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!turnOverData2021Q2[0] ? '' : displayAvgQuarterTab3('2021Q2', turnOverData2021Q2, turnOverDatg2021Q2)}
      ${!turnOverData2021Q3[0] ? '' : displayAvgQuarterTab3('2021Q3', turnOverData2021Q3, turnOverDatg2021Q3)}
      ${!turnOverData2021Q4[0] ? '' : displayAvgQuarterTab3('2021Q4', turnOverData2021Q4, turnOverDatg2021Q4)}
+     ${!turnOverData2022Q1[0] ? '' : displayAvgQuarterTab3('2022Q1', turnOverData2022Q1, turnOverDatg2022Q1)}
 
   `
     // Tab 4 Industry Metrics
@@ -1028,6 +1029,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pwChart, pavgChart],
         'svgName': '#Chart3',
         'data': {
+            data22q2: [workData2022Q2, workDatg2022Q2, averageData2022Q2, averageDatg2022Q2],
             data22q1: [workData2022Q1, workDatg2022Q1, averageData2022Q1, averageDatg2022Q1],
             data21q4: [workData2021Q4, workDatg2021Q4, averageData2021Q4, averageDatg2021Q4],
             data21q3: [workData2021Q3, workDatg2021Q3, averageData2021Q3, averageDatg2021Q3],
@@ -1061,6 +1063,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
+            data22q2: [newHireDatc2022Q2, newHireDatg2022Q2, jobDatc2022Q2, jobDatg2022Q2],
             data22q1: [newHireDatc2022Q1, newHireDatg2022Q1, jobDatc2022Q1, jobDatg2022Q1],
             data21q4: [newHireDatc2021Q4, newHireDatg2021Q4, jobDatc2021Q4, jobDatg2021Q4],
             data21q3: [newHireDatc2021Q3, newHireDatg2021Q3, jobDatc2021Q3, jobDatg2021Q3],
@@ -1094,6 +1097,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pturnChart],
         'svgName': '#ChartFive',
         'data': {
+            data22q1: [turnOverData2022Q1, turnOverDatg2022Q1],
             data21q4: [turnOverData2021Q4, turnOverDatg2021Q4],
             data21q3: [turnOverData2021Q3, turnOverDatg2021Q3],
             data21q2: [turnOverData2021Q2, turnOverDatg2021Q2],

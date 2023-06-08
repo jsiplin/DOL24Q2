@@ -34,7 +34,7 @@ import 'chardin.ts/chardinjs.scss';
         './data/boundary_marylands_counties.json')
         document.querySelector("#body").innerHTML = `
         <div class="Title">
-			<p>Welcome to the Maryland Area Explorer! (Last Updated 3/18/2023)</p>
+			<p>Welcome to the Maryland Area Explorer! (Last Updated 6/7/2023)</p>
         </div>
         <div class="Body">
 			<p>The Maryland Area Explorer turns complex labor market information data into easy-to-understand charts and graphs. To get started, select a county from the dropdown menus or from the map below.</p>
@@ -95,6 +95,8 @@ import 'chardin.ts/chardinjs.scss';
 				  <option value='data19'>2019</option>
 				  <option value='data20'>2020</option>
 				  <option value='data21' selected="selected">2021</option>
+				  <option value='data22'>2022</option>
+
 				</select>
 				<select  id='dropdownMenuQ' style="display:inline">
 				  <option value='data16q2'>2016-Q2</option>
@@ -121,6 +123,7 @@ import 'chardin.ts/chardinjs.scss';
           <option value='data21q3'>2021-Q3</option>
           <option value='data21q4' selected="selected">2021-Q4</option>
           <option value='data22q1'>2022-Q1</option>
+          <option value='data22q2'>2022-Q2</option>
 				</select>
 			</div>
 		</div>
