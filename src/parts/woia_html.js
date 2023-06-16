@@ -27,7 +27,10 @@ export let wdaDropdowns = `
 
 let wdaFooter = `
 <div class="Footer">
-  <p id= "wda_footer">Notes:<br><a style="color:blue" href="https://docs.google.com/document/d/1__DIUwbdgH1OjSu5wXaWoEOkTnGQkCuLRbuf7AMDoWs/edit?usp=drive_link" target="_blank">Maryland Separation Data 2018 Q2 and prior</a><br>"TBD" represents values that are yet to be determined.<br>For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.<br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
+  <p id= "wda_footer">Notes:<br>1. For Maryland Separation data up until 2018Q2, please click <a style="color:blue" href="https://docs.google.com/document/d/1__DIUwbdgH1OjSu5wXaWoEOkTnGQkCuLRbuf7AMDoWs/edit?usp=drive_link" target="_blank">here.</a>
+    <br>2. "TBD" represents values that are yet to be determined.
+    <br>3. For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.
+    <br><br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
 
    
   </div>
