@@ -27,8 +27,10 @@ export let wdaDropdowns = `
 
 let wdaFooter = `
 <div class="Footer">
-  <p id= "wda_footer">Notes:<br>"TBD" represents values that are yet to be determined.<br>For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.<br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
-</div>
+  <p id= "wda_footer">Notes:<br><a style="color:blue" href="https://docs.google.com/document/d/1__DIUwbdgH1OjSu5wXaWoEOkTnGQkCuLRbuf7AMDoWs/edit?usp=drive_link" target="_blank">Maryland Separation Data Prior to 2018 Q2</a><br>"TBD" represents values that are yet to be determined.<br>For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.<br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
+
+   
+  </div>
 `
 
 export let wdaCollapse1 = `
