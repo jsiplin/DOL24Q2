@@ -737,7 +737,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     document.getElementById('table15').innerHTML = `
        ${notMdisepdata}
        <thead>
-        <tr> <th class="HeadRow">Separations by Gender</th> 
+        <tr> <th class="HeadRow">SeparationS by Gender</th> 
           <th class="HeadRow">2018Q3</th>
           <th class="HeadRow">2018Q4</th>
           <th class="HeadRow">2019Q1</th>
