@@ -1,4 +1,222 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
+
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2557
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,9796
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1580
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,13963
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,1094
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,5194
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",88
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",821
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",278
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1974
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,23,Construction,862
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,23,Construction,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,23,Construction,10527
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,826
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,11929
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,255
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,4089
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,51,Information,112
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,51,Information,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,51,Information,1048
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,54
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,428
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,549
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,6156
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",60
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),498
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3940
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",1413
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",13053
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,279
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,4328
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,91
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,881
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,TBD
+Job change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,2503
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,13313
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,366
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,1590
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,6
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,TBD
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,22,Utilities,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,22,Utilities,139
+Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,TBD
+New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,253
+Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,3766
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,TBD
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A01,14-18,3595
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A02,19-21,4559
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A03,22-24,5660
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A04,25-34,21705
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A05,35-44,22369
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A06,45-54,21378
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A07,55-64,19395
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A01,14-18,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A02,19-21,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A03,22-24,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A04,25-34,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A05,35-44,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A06,45-54,TBD
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A07,55-64,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,TBD
+Workers,Frederick WIA,Maryland Workers by Gender,2022Q4,1,Male,52387
+Workers,Frederick WIA,Maryland Workers by Gender,2022Q4,2,Female,54607
+Separations,Frederick WIA,Maryland Separations by Gender,2022Q4,1,Male,TBD
+Separations,Frederick WIA,Maryland Separations by Gender,2022Q4,2,Female,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1603
+New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",2676
+New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,2927
+New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,2511
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Separations,Frederick WIA,Maryland Separations by Gender All,2022Q4,0,All,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,TBD
+New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),3953
+Workers,Frederick WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,106994
+Job Change,Frederick WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,TBD
+Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A08,65-99,8333
+Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A08,65-99,TBD
+Workers,Frederick WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,106994
+New Hires,Frederick WIA,Maryland New Hires by Gender,2022Q4,1,Male,6600
+New Hires,Frederick WIA,Maryland New Hires by Gender,2022Q4,2,Female,7070
+Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,TBD
+Job change,Frederick WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Frederick WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,TBD
+Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,TBD
+Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,TBD
+Separations,Frederick WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,TBD
+Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,TBD
+
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q2,62,Health Care and Social Assistance,4411
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1530
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1570
@@ -31,7 +249,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,72,Accommoda
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,72,Accommodation and Food Services,1969
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,72,Accommodation and Food Services,2128
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2418
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,72,Accommodation and Food Services,160
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,72,Accommodation and Food Services,140
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,72,Accommodation and Food Services,279
@@ -63,7 +280,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,72,Accommoda
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,72,Accommodation and Food Services,-166
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,72,Accommodation and Food Services,-71
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,72,Accommodation and Food Services,-37
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,72,Accommodation and Food Services,1763
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,72,Accommodation and Food Services,1951
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,72,Accommodation and Food Services,2214
@@ -95,7 +311,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,72,Accommodation a
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,72,Accommodation and Food Services,2424
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,72,Accommodation and Food Services,1797
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,2776
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2557
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,72,Accommodation and Food Services,1899
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,72,Accommodation and Food Services,2090
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,72,Accommodation and Food Services,2270
@@ -127,7 +342,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,72,Accommodati
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,72,Accommodation and Food Services,2794
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,72,Accommodation and Food Services,2267
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,72,Accommodation and Food Services,3004
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,72,Accommodation and Food Services,15.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,14.899999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,14.099999999999998
@@ -151,7 +365,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,72,Accommodatio
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,72,Accommodation and Food Services,15.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,72,Accommodation and Food Services,11.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,72,Accommodation and Food Services,20
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,72,Accommodation and Food Services,14.499999999999998
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,72,Accommodation and Food Services,14.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,72,Accommodation and Food Services,14.299999999999999
@@ -159,7 +372,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommodatio
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,72,Accommodation and Food Services,23.200000000000003
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,18.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,17.599999999999998
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,9367
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,72,Accommodation and Food Services,9649
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,72,Accommodation and Food Services,9764
@@ -191,7 +403,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,72,Accommodation and F
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,72,Accommodation and Food Services,10535
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,72,Accommodation and Food Services,8461
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,72,Accommodation and Food Services,9338
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,9796
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,62,Health Care and Social Assistance,3610
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,62,Health Care and Social Assistance,3873
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,62,Health Care and Social Assistance,4341
@@ -222,7 +433,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q4,62,Health Ca
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,62,Health Care and Social Assistance,4153
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,62,Health Care and Social Assistance,5022
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,62,Health Care and Social Assistance,5261
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,62,Health Care and Social Assistance,45
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,62,Health Care and Social Assistance,88
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,62,Health Care and Social Assistance,179
@@ -254,7 +464,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,62,Health Ca
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,62,Health Care and Social Assistance,81
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,62,Health Care and Social Assistance,-338
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,62,Health Care and Social Assistance,341
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,62,Health Care and Social Assistance,1108
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,62,Health Care and Social Assistance,1327
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,62,Health Care and Social Assistance,1113
@@ -287,7 +496,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,62,Health Care and
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,62,Health Care and Social Assistance,1440
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,62,Health Care and Social Assistance,1211
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,62,Health Care and Social Assistance,1158
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1580
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,62,Health Care and Social Assistance,1435
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q1,62,Health Care and Social Assistance,1361
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q1,62,Health Care and Social Assistance,1277
@@ -318,7 +526,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educational
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),0.227,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.215,
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,1454
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,1356
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,62,Health Care and Social Assistance,1417
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,1570
@@ -347,7 +554,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,62,Health Care and Social Assistance,7.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Care and Social Assistance,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,62,Health Care and Social Assistance,9.1
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,62,Health Care and Social Assistance,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,62,Health Care and Social Assistance,8.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,62,Health Care and Social Assistance,7.3
@@ -356,7 +562,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Care 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Care and Social Assistance,8.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,62,Health Care and Social Assistance,7.9
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,11729
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,13309
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,62,Health Care and Social Assistance,13968
@@ -376,7 +581,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2021Q2,62,Health Care and Soc
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q3,62,Health Care and Social Assistance,11943
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q3,62,Health Care and Social Assistance,13566
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q3,62,Health Care and Social Assistance,13131
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,0
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q3,62,Health Care and Social Assistance,13535
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q3,62,Health Care and Social Assistance,12204
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q3,62,Health Care and Social Assistance,12655
@@ -385,7 +589,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2015Q4,62,Health Care and Soc
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q4,62,Health Care and Social Assistance,14162
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,62,Health Care and Social Assistance,14588
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,62,Health Care and Social Assistance,13672
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,13963
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,62,Health Care and Social Assistance,12397
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,62,Health Care and Social Assistance,13216
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q2,62,Health Care and Social Assistance,9.5
@@ -420,7 +623,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,56,Administr
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,3848
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,4236
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,4817
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q4,62,Health Care and Social Assistance,13616
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,97
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,-92
@@ -452,7 +654,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q4,56,Administr
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,-21
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,-189
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,374
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,1296
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,1330
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,1377
@@ -484,7 +685,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,56,Administrative 
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,1315
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,1406
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,2146
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,1094
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,1323
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,1585
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,1547
@@ -516,7 +716,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2017Q4,56,Administrat
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,1696
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,1654
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,1659
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,1987
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,13.900000000000002
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,15.8
@@ -541,7 +740,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrati
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,16.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,14.899999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,56,Administrative and Support and Waste Management and Remediation Services,18.6
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,56,Administrative and Support and Waste Management and Remediation Services,14.299999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,14.499999999999998
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,56,Administrative and Support and Waste Management and Remediation Services,15.2
@@ -549,7 +747,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,56,Administrati
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,15.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,13.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,15.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,5153
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,5162
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,5073
@@ -582,7 +779,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,56,Administrative and 
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,5151
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,5376
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,4779
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,5194
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",3139
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",3017
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",3174
@@ -615,7 +811,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,11,"Agricult
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",3800
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",4395
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",-12
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",-6
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",8
@@ -646,7 +841,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q4,11,"Agricult
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",-118
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",-294
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",-304
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",37
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",31
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",44
@@ -678,7 +872,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,11,"Agriculture, F
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",87
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",218
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",115
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",88
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",58
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",30
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",45
@@ -711,7 +904,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,11,"Agricultur
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",429
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",446
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.3
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",8.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",7.3
@@ -734,14 +926,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,11,"Agriculture
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",18.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,11,"Agriculture, Forestry, Fishing and Hunting",15.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,11,"Agriculture, Forestry, Fishing and Hunting",16.8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",5.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.6000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",9.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.1
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",486
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",462
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",458
@@ -772,7 +962,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2022Q2,11,"Agriculture, Fores
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",508
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",576
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",764
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",821
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",739
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1310
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1356
@@ -807,7 +996,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,71,"Arts, En
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",1987
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",71
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",60
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",61
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",65
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q3,71,"Arts, Entertainment, and Recreation",2155
@@ -834,7 +1022,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q3,71,"Arts, En
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",-226
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q4,71,"Arts, Entertainment, and Recreation",-230
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",-275
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-176
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",192
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",176
@@ -866,7 +1053,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,71,"Arts, Entertai
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",244
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",235
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",251
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",278
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",173
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",-36
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",-226
@@ -902,7 +1088,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,71,"Arts, Ente
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",369
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",556
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",553
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",10.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",11.799999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",9.9
@@ -924,14 +1109,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Enter
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,71,"Arts, Entertainment, and Recreation",19.900000000000002
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",18.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,71,"Arts, Entertainment, and Recreation",25
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,71,"Arts, Entertainment, and Recreation",11.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",11.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,71,"Arts, Entertainment, and Recreation",9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",9.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",20.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",13.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1342
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1448
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1430
@@ -963,7 +1146,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,71,"Arts, Entertainmen
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",1022
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",1950
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",1539
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1974
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,23,Construction,4618
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,23,Construction,5054
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,23,Construction,5681
@@ -996,7 +1178,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,23,Construct
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,23,Construction,5974
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q4,23,Construction,5473
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,23,Construction,6910
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,23,Construction,-46
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,23,Construction,50
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,23,Construction,47
@@ -1031,7 +1212,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,23,Construct
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,23,Construction,-241
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,23,Construction,-285
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,23,Construction,1129
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,23,Construction,986
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q1,23,Construction,1079
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,23,Construction,1173
@@ -1062,7 +1242,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q4,23,Construction,11
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,23,Construction,977
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,23,Construction,977
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,23,Construction,1110
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,23,Construction,862
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,23,Construction,1257
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,23,Construction,1188
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q1,23,Construction,1192
@@ -1094,7 +1273,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,23,Constructio
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,23,Construction,1451
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,23,Construction,1523
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,23,Construction,1564
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,23,Construction,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,23,Construction,8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,8.799999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,8
@@ -1117,14 +1295,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,23,Construction
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,23,Construction,7.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,23,Construction,8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,23,Construction,9.9
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,23,Construction,8.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,23,Construction,8.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,23,Construction,7.3999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,23,Construction,7.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,23,Construction,8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,23,Construction,7.199999999999999
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,7.7
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,23,Construction,8690
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,23,Construction,9595
@@ -1156,7 +1332,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,23,Construction,10731
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q4,23,Construction,10374
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,23,Construction,10665
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,23,Construction,10299
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,23,Construction,10527
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,23,Construction,10483
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,61,Educational Services,3536
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,61,Educational Services,3540
@@ -1189,7 +1364,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,61,Education
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,61,Educational Services,4832
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,61,Educational Services,4140
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,61,Educational Services,4784
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,61,Educational Services,185
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,61,Educational Services,263
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,61,Educational Services,229
@@ -1221,7 +1395,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,61,Education
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,61,Educational Services,221
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,61,Educational Services,237
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,61,Educational Services,220
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,61,Educational Services,641
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,61,Educational Services,498
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,61,Educational Services,581
@@ -1253,7 +1426,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q4,61,Educational Ser
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,61,Educational Services,742
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,61,Educational Services,622
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,61,Educational Services,353
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,826
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,61,Educational Services,828
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,61,Educational Services,565
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,61,Educational Services,658
@@ -1286,7 +1458,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,61,Educational
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,61,Educational Services,943
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,61,Educational Services,851
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,61,Educational Services,524
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educational Services,6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,6.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,6.2
@@ -1311,14 +1482,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,61,Educational 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,61,Educational Services,1.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,61,Educational Services,3.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,61,Educational Services,4.7
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,61,Educational Services,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,61,Educational Services,5.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educational Services,5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,61,Educational Services,9.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,6.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,11250
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,11542
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,61,Educational Services,11660
@@ -1350,7 +1519,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,61,Educational Service
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,61,Educational Services,11684
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,61,Educational Services,9773
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,61,Educational Services,11020
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,11929
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,52,Finance and Insurance,7463
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,52,Finance and Insurance,7189
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,52,Finance and Insurance,7871
@@ -1382,7 +1550,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,52,Finance a
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,52,Finance and Insurance,8164
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,52,Finance and Insurance,9551
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,52,Finance and Insurance,8991
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,52,Finance and Insurance,-43
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,52,Finance and Insurance,-39
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,52,Finance and Insurance,-36
@@ -1415,7 +1582,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,52,Finance a
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,52,Finance and Insurance,-4
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,52,Finance and Insurance,-52
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,52,Finance and Insurance,275
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,52,Finance and Insurance,221
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,52,Finance and Insurance,241
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q1,52,Finance and Insurance,211
@@ -1446,7 +1612,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,52,Finance and Ins
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,52,Finance and Insurance,156
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,52,Finance and Insurance,155
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,52,Finance and Insurance,305
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,255
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,52,Finance and Insurance,281
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,52,Finance and Insurance,348
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,52,Finance and Insurance,303
@@ -1478,7 +1643,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,52,Finance and
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,52,Finance and Insurance,232
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,52,Finance and Insurance,350
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,52,Finance and Insurance,516
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,52,Finance and Insurance,5.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,5.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,5.4
@@ -1501,7 +1665,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,52,Finance and Insurance,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,52,Finance and Insurance,3.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,52,Finance and Insurance,6.2
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,52,Finance and Insurance,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,52,Finance and Insurance,5.8999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,52,Finance and Insurance,6
@@ -1509,7 +1672,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,52,Finance and 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,4.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,4767
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,52,Finance and Insurance,4306
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,4615
@@ -1541,7 +1703,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,52,Finance and Insuran
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,52,Finance and Insurance,3491
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,52,Finance and Insurance,3307
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,52,Finance and Insurance,3256
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,4089
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,51,Information,6029
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,51,Information,7115
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,51,Information,6745
@@ -1574,7 +1735,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,51,Informati
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,51,Information,7937
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,51,Information,7056
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,51,Information,10401
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,51,Information,-36
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,51,Information,-10
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,51,Information,39
@@ -1605,7 +1765,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,51,Informati
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,51,Information,-16
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,51,Information,-39
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,51,Information,-113
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,51,Information,64
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,51,Information,88
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,51,Information,104
@@ -1636,7 +1795,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q4,51,Information,76
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,51,Information,48
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,51,Information,78
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,51,Information,135
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,51,Information,112
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,51,Information,132
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,51,Information,88
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,51,Information,101
@@ -1668,7 +1826,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,51,Information
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,51,Information,93
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,51,Information,269
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,51,Information,116
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,51,Information,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,51,Information,6.6000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,7.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,51,Information,7.3999999999999995
@@ -1692,7 +1849,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,51,Information,
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,51,Information,84
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,51,Information,7.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,51,Information,18.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,51,Information,6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,51,Information,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,51,Information,5.7
@@ -1700,7 +1856,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,51,Information,
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,9.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,7.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,51,Information,7.8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,51,Information,1118
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,51,Information,1127
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,51,Information,1035
@@ -1746,7 +1901,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q2,55,Managemen
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q2,55,Management of Companies and Enterprises,10209
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q2,55,Management of Companies and Enterprises,4793
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q2,55,Management of Companies and Enterprises,5292
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,51,Information,1048
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,4672
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,6327
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q2,55,Management of Companies and Enterprises,5820
@@ -1766,7 +1920,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,55,Managemen
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,55,Management of Companies and Enterprises,4895
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,55,Management of Companies and Enterprises,5840
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,55,Management of Companies and Enterprises,7159
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,55,Management of Companies and Enterprises,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,55,Management of Companies and Enterprises,43
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,55,Management of Companies and Enterprises,-1
@@ -1797,7 +1950,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,55,Managemen
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,55,Management of Companies and Enterprises,-17
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,55,Management of Companies and Enterprises,8
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,55,Management of Companies and Enterprises,40
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,55,Management of Companies and Enterprises,59
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,55,Management of Companies and Enterprises,81
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q1,55,Management of Companies and Enterprises,43
@@ -1827,7 +1979,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,55,Management of C
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,55,Management of Companies and Enterprises,51
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,55,Management of Companies and Enterprises,52
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,55,Management of Companies and Enterprises,69
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,54
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,55,Management of Companies and Enterprises,66
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,55,Management of Companies and Enterprises,53
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q3,55,Management of Companies and Enterprises,33
@@ -1862,7 +2013,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,55,Management 
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,55,Management of Companies and Enterprises,66
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,55,Management of Companies and Enterprises,13.100000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,55,Management of Companies and Enterprises,8.200000000000001
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,7.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,11.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q1,55,Management of Companies and Enterprises,11.1
@@ -1884,7 +2034,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,55,Management o
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,55,Management of Companies and Enterprises,9.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,55,Management of Companies and Enterprises,11.600000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,55,Management of Companies and Enterprises,6.3
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,55,Management of Companies and Enterprises,7.3999999999999995
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q2,55,Management of Companies and Enterprises,78
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,55,Management of Companies and Enterprises,7.3
@@ -1892,7 +2041,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,55,Management o
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,55,Management of Companies and Enterprises,14.000000000000002
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,55,Management of Companies and Enterprises,10.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,55,Management of Companies and Enterprises,11.600000000000001
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,55,Management of Companies and Enterprises,652
 Separations,Frederick WIA,Maryland Separations by Industry,2022Q2,55,Management of Companies and Enterprises,72
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,55,Management of Companies and Enterprises,614
@@ -1925,7 +2073,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,55,Management of Compa
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,55,Management of Companies and Enterprises,465
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,55,Management of Companies and Enterprises,359
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,55,Management of Companies and Enterprises,435
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,428
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,31-33,Manufacturing,5025
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,31-33,Manufacturing,4775
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,31-33,Manufacturing,4889
@@ -1956,7 +2103,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,31-33,Manufa
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,31-33,Manufacturing,5009
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,31-33,Manufacturing,5046
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,31-33,Manufacturing,5601
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,31-33,Manufacturing,57
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,31-33,Manufacturing,-30
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,31-33,Manufacturing,81
@@ -1990,7 +2136,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,31-33,Manufa
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,31-33,Manufacturing,168
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,31-33,Manufacturing,-7
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,31-33,Manufacturing,18
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,31-33,Manufacturing,329
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,31-33,Manufacturing,374
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,31-33,Manufacturing,295
@@ -2021,7 +2166,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q4,31-33,Manufacturin
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,31-33,Manufacturing,360
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,31-33,Manufacturing,358
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,31-33,Manufacturing,558
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,549
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,31-33,Manufacturing,358
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,31-33,Manufacturing,536
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,31-33,Manufacturing,325
@@ -2054,7 +2198,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2017Q4,31-33,Manufact
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,31-33,Manufacturing,371
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,31-33,Manufacturing,460
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,31-33,Manufacturing,636
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufacturing,5.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manufacturing,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufacturing,5.3
@@ -2077,7 +2220,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufactu
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,31-33,Manufacturing,5.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,31-33,Manufacturing,6.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,31-33,Manufacturing,5.7
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,31-33,Manufacturing,8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,31-33,Manufacturing,5.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,31-33,Manufacturing,5.4
@@ -2086,7 +2228,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,31-33,Manufactu
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufacturing,6.800000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,Manufacturing,6.3
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,31-33,Manufacturing,5405
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,31-33,Manufacturing,5440
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,31-33,Manufacturing,5271
@@ -2118,7 +2259,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,31-33,Manufacturing,54
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,31-33,Manufacturing,5387
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,31-33,Manufacturing,5562
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,31-33,Manufacturing,5934
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,6156
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4439
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6176
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6787
@@ -2150,7 +2290,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,21,"Mining, 
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5477
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5522
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6065
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2182,7 +2321,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,21,"Mining, 
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2214,7 +2352,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarry
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2244,7 +2381,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Qu
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2268,14 +2404,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Qua
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2309,7 +2443,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Quarrying,
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",56
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",60
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,81,Other Services (except Public Administration),3161
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,81,Other Services (except Public Administration),3066
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,81,Other Services (except Public Administration),3361
@@ -2339,7 +2472,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,81,Other Ser
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,81,Other Services (except Public Administration),3609
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,81,Other Services (except Public Administration),4106
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,81,Other Services (except Public Administration),3735
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),0
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,81,Other Services (except Public Administration),4151
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,81,Other Services (except Public Administration),29
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,81,Other Services (except Public Administration),116
@@ -2372,7 +2504,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,81,Other Ser
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q4,81,Other Services (except Public Administration),-108
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,81,Other Services (except Public Administration),-44
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,81,Other Services (except Public Administration),53
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,81,Other Services (except Public Administration),360
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,81,Other Services (except Public Administration),424
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,81,Other Services (except Public Administration),417
@@ -2406,7 +2537,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,81,Other Services 
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,81,Other Services (except Public Administration),466
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,81,Other Services (except Public Administration),467
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,81,Other Services (except Public Administration),578
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),498
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,81,Other Services (except Public Administration),382
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,81,Other Services (except Public Administration),394
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,81,Other Services (except Public Administration),420
@@ -2444,7 +2574,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Servic
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,81,Other Services (except Public Administration),599
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),8.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),12.3
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q1,81,Other Services (except Public Administration),13.600000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),9.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.6
@@ -2462,7 +2591,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,81,Other Servic
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,81,Other Services (except Public Administration),11
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,81,Other Services (except Public Administration),9.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,81,Other Services (except Public Administration),7.9
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,81,Other Services (except Public Administration),8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,81,Other Services (except Public Administration),8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,81,Other Services (except Public Administration),8.5
@@ -2470,7 +2598,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,81,Other Servic
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,81,Other Services (except Public Administration),7.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,81,Other Services (except Public Administration),11.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),10.8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),3499
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,81,Other Services (except Public Administration),3920
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,81,Other Services (except Public Administration),3759
@@ -2502,7 +2629,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,81,Other Services (exc
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,81,Other Services (except Public Administration),4246
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,81,Other Services (except Public Administration),3747
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,81,Other Services (except Public Administration),4326
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3940
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",6182
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",6402
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",6113
@@ -2535,7 +2661,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,54,"Professi
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",7521
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",8751
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",480
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",238
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",591
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",64
@@ -2566,7 +2691,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,54,"Professi
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",-70
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",300
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",-41
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",1434
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",1043
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",965
@@ -2597,7 +2721,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,54,"Professional, 
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",1042
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",926
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",1257
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",1413
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",1135
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",1009
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",991
@@ -2628,7 +2751,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2017Q4,54,"Profession
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",1422
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",1524
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",1107
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",8.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",7.199999999999999
@@ -2651,7 +2773,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,54,"Professiona
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7.3999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,54,"Professional, Scientific, and Technical Services",8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,54,"Professional, Scientific, and Technical Services",9.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,54,"Professional, Scientific, and Technical Services",6.7
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q3,54,"Professional, Scientific, and Technical Services",1309
@@ -2661,7 +2782,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,54,"Professiona
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",9.1
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",9564
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",9884
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",9502
@@ -2694,7 +2814,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,54,"Professional, Scie
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",10766
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",10469
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",11768
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",13053
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,92,Public Administration,4267
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,92,Public Administration,4342
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,92,Public Administration,3955
@@ -2726,7 +2845,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,92,Public Ad
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,92,Public Administration,4322
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,92,Public Administration,5241
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,92,Public Administration,5296
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,92,Public Administration,3
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,92,Public Administration,19
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,92,Public Administration,19
@@ -2757,7 +2875,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,92,Public Ad
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,92,Public Administration,26
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,92,Public Administration,456
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,92,Public Administration,-117
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,92,Public Administration,83
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,92,Public Administration,117
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,92,Public Administration,125
@@ -2788,7 +2905,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,92,Public Administ
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,92,Public Administration,360
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,92,Public Administration,185
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,92,Public Administration,260
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,279
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,92,Public Administration,110
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,92,Public Administration,134
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,92,Public Administration,129
@@ -2821,7 +2937,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,92,Public Admi
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,92,Public Administration,198
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,92,Public Administration,49
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,92,Public Administration,418
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,4.3999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,4.3999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,4.1000000000000005
@@ -2844,7 +2959,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Admin
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,92,Public Administration,3.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,92,Public Administration,4.1000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,92,Public Administration,3.4000000000000004
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,92,Public Administration,6.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,92,Public Administration,3.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,92,Public Administration,3.5999999999999996
@@ -2852,7 +2966,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,92,Public Admin
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,92,Public Administration,6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,92,Public Administration,4.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,6
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,3453
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,3471
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,92,Public Administration,3602
@@ -2884,7 +2997,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,92,Public Administrati
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,92,Public Administration,3822
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,92,Public Administration,3602
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,92,Public Administration,4254
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,4328
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,53,Real Estate and Rental and Leasing,5851
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,53,Real Estate and Rental and Leasing,6135
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q1,53,Real Estate and Rental and Leasing,6047
@@ -2917,7 +3029,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,53,Real Esta
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,53,Real Estate and Rental and Leasing,5326
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,53,Real Estate and Rental and Leasing,6725
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,53,Real Estate and Rental and Leasing,6690
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,53,Real Estate and Rental and Leasing,-11
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,53,Real Estate and Rental and Leasing,27
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,53,Real Estate and Rental and Leasing,19
@@ -2950,7 +3061,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,53,Real Esta
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q2,53,Real Estate and Rental and Leasing,14
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,53,Real Estate and Rental and Leasing,30
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,53,Real Estate and Rental and Leasing,-10
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,53,Real Estate and Rental and Leasing,85
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,53,Real Estate and Rental and Leasing,88
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,53,Real Estate and Rental and Leasing,58
@@ -2981,7 +3091,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,53,Real Estate and
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,53,Real Estate and Rental and Leasing,156
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,53,Real Estate and Rental and Leasing,88
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,53,Real Estate and Rental and Leasing,89
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,91
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,53,Real Estate and Rental and Leasing,78
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,53,Real Estate and Rental and Leasing,81
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,53,Real Estate and Rental and Leasing,63
@@ -3012,7 +3121,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,53,Real Estate
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,53,Real Estate and Rental and Leasing,130
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,53,Real Estate and Rental and Leasing,214
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,53,Real Estate and Rental and Leasing,120
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,7.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,7.6
@@ -3035,7 +3143,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,53,Real Estate and Rental and Leasing,8.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,53,Real Estate and Rental and Leasing,12.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,53,Real Estate and Rental and Leasing,8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,53,Real Estate and Rental and Leasing,8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,53,Real Estate and Rental and Leasing,6.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,53,Real Estate and Rental and Leasing,9.2
@@ -3054,7 +3161,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2021Q1,53,Real Estate and Ren
 Workers,Frederick WIA,Maryland Workers by Industry,2022Q1,53,Real Estate and Rental and Leasing,882
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q2,53,Real Estate and Rental and Leasing,768
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q2,53,Real Estate and Rental and Leasing,900
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q2,53,Real Estate and Rental and Leasing,946
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q2,53,Real Estate and Rental and Leasing,996
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q2,53,Real Estate and Rental and Leasing,1085
@@ -3077,7 +3183,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,53,Real Estate and Ren
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,53,Real Estate and Rental and Leasing,863
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,53,Real Estate and Rental and Leasing,935
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,12.7
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,881
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,44-45,Retail Trade,2612
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,44-45,Retail Trade,2701
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,44-45,Retail Trade,2851
@@ -3109,7 +3214,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,44-45,Retail
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,44-45,Retail Trade,3687
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q4,44-45,Retail Trade,3026
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,44-45,Retail Trade,3952
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q2,53,Real Estate and Rental and Leasing,822
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,44-45,Retail Trade,-673
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,44-45,Retail Trade,-375
@@ -3142,7 +3246,6 @@ Job change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,44-45,Retail
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,44-45,Retail Trade,425
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,44-45,Retail Trade,336
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,44-45,Retail Trade,169
-Job change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,44-45,Retail Trade,1297
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,44-45,Retail Trade,1597
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,44-45,Retail Trade,1476
@@ -3172,7 +3275,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q4,44-45,Retail Trade
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,44-45,Retail Trade,2449
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,44-45,Retail Trade,2245
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,44-45,Retail Trade,2682
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,2503
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,44-45,Retail Trade,3002
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,44-45,Retail Trade,2123
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,44-45,Retail Trade,2075
@@ -3203,7 +3305,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,44-45,Retail T
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,44-45,Retail Trade,2249
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,44-45,Retail Trade,2712
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,44-45,Retail Trade,3117
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,44-45,Retail Trade,11.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,11.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail Trade,10.4
@@ -3229,7 +3330,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,44-45,Retail Trade,9.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,44-45,Retail Trade,10.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,44-45,Retail Trade,12.8
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,44-45,Retail Trade,10
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,44-45,Retail Trade,9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,11.700000000000001
@@ -3238,7 +3338,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,44-45,Retail Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,11.5
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q1,44-45,Retail Trade,1971
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,11
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,12318
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,12047
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,44-45,Retail Trade,12377
@@ -3270,7 +3369,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,44-45,Retail Trade,125
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,44-45,Retail Trade,12219
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,44-45,Retail Trade,12613
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,44-45,Retail Trade,13243
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,13313
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,48-49,Transportation and Warehousing,3458
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,48-49,Transportation and Warehousing,3252
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q1,48-49,Transportation and Warehousing,3759
@@ -3302,7 +3400,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,48-49,Transp
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,48-49,Transportation and Warehousing,4328
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,48-49,Transportation and Warehousing,5053
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,48-49,Transportation and Warehousing,5682
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,48-49,Transportation and Warehousing,-147
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,48-49,Transportation and Warehousing,-102
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q1,48-49,Transportation and Warehousing,-135
@@ -3332,7 +3429,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,48-49,Transp
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2018Q4,48-49,Transportation and Warehousing,29
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,48-49,Transportation and Warehousing,62
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,48-49,Transportation and Warehousing,76
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,48-49,Transportation and Warehousing,141
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,48-49,Transportation and Warehousing,170
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,48-49,Transportation and Warehousing,174
@@ -3365,7 +3461,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,48-49,Transportati
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q3,48-49,Transportation and Warehousing,259
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,48-49,Transportation and Warehousing,362
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,48-49,Transportation and Warehousing,475
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,366
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,48-49,Transportation and Warehousing,358
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,48-49,Transportation and Warehousing,262
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,48-49,Transportation and Warehousing,372
@@ -3397,7 +3492,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,48-49,Transpor
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,48-49,Transportation and Warehousing,275
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,48-49,Transportation and Warehousing,346
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,48-49,Transportation and Warehousing,429
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transportation and Warehousing,11.600000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transportation and Warehousing,10.100000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,11.200000000000001
@@ -3422,13 +3516,11 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,48-49,Transport
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,48-49,Transportation and Warehousing,9.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,48-49,Transportation and Warehousing,8.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transportation and Warehousing,11.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,48-49,Transportation and Warehousing,10.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transportation and Warehousing,9.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,Transportation and Warehousing,11.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,9.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,11
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,1571
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,48-49,Transportation and Warehousing,1459
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q1,48-49,Transportation and Warehousing,1481
@@ -3461,7 +3553,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,48-49,Transportation a
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,48-49,Transportation and Warehousing,1320
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,48-49,Transportation and Warehousing,1259
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,48-49,Transportation and Warehousing,1411
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,1590
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,22,Utilities,8620
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,22,Utilities,8949
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,22,Utilities,9929
@@ -3494,7 +3585,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q4,22,Utilities
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,22,Utilities,9517
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,22,Utilities,7385
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,22,Utilities,8421
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,22,Utilities,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,22,Utilities,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2017Q1,22,Utilities,-2
@@ -3557,7 +3647,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,22,Utilities,3
 New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,22,Utilities,10
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,22,Utilities,3
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,22,Utilities,5
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,6
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,22,Utilities,5
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,22,Utilities,6
 Separations,Frederick WIA,Maryland Separations by Industry,2017Q1,22,Utilities,4
@@ -3588,8 +3677,6 @@ Separations,Frederick WIA,Maryland Separations by Industry,2016Q4,22,Utilities,0
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q4,22,Utilities,0
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,22,Utilities,4
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,22,Utilities,9
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,0
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,0
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,22,Utilities,6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,0
@@ -3613,7 +3700,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,22,Utilities,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,22,Utilities,2.4
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,22,Utilities,2.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,22,Utilities,2.8000000000000003
@@ -3622,7 +3708,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,22,Utilities,3.
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,22,Utilities,2.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities,5.1
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,22,Utilities,107
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,22,Utilities,112
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q1,22,Utilities,126
@@ -3653,7 +3738,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,22,Utilities,134
 Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,22,Utilities,147
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,22,Utilities,130
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,22,Utilities,144
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,22,Utilities,139
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2015Q1,42,Wholesale Trade,5390
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q1,42,Wholesale Trade,5485
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2017Q1,42,Wholesale Trade,5628
@@ -3685,7 +3769,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2018Q4,42,Wholesale
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2019Q4,42,Wholesale Trade,6520
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2020Q4,42,Wholesale Trade,7502
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2021Q4,42,Wholesale Trade,8844
-Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,0
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2016Q3,42,Wholesale Trade,5618
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2015Q1,42,Wholesale Trade,37
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2016Q1,42,Wholesale Trade,-42
@@ -3718,7 +3801,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2019Q4,42,Wholesale
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2020Q4,42,Wholesale Trade,-92
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q4,42,Wholesale Trade,-135
 New Hires,Frederick WIA,Maryland New Hires by Industry,2015Q1,42,Wholesale Trade,283
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2016Q1,42,Wholesale Trade,231
 New Hires,Frederick WIA,Maryland New Hires by Industry,2017Q1,42,Wholesale Trade,330
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q1,42,Wholesale Trade,273
@@ -3749,7 +3831,6 @@ New Hires,Frederick WIA,Maryland New Hires by Industry,2019Q4,42,Wholesale Trade
 New Hires,Frederick WIA,Maryland New Hires by Industry,2020Q4,42,Wholesale Trade,204
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,42,Wholesale Trade,285
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q4,42,Wholesale Trade,333
-New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,253
 Separations,Frederick WIA,Maryland Separations by Industry,2015Q1,42,Wholesale Trade,273
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q1,42,Wholesale Trade,294
 Separations,Frederick WIA,Maryland Separations by Industry,2018Q1,42,Wholesale Trade,352
@@ -3782,7 +3863,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2021Q3,42,Wholesale
 Separations,Frederick WIA,Maryland Separations by Industry,2019Q4,42,Wholesale Trade,319
 Separations,Frederick WIA,Maryland Separations by Industry,2021Q4,42,Wholesale Trade,518
 Separations,Frederick WIA,Maryland Separations by Industry,2020Q4,42,Wholesale Trade,359
-Separations,Frederick WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q1,42,Wholesale Trade,6.6000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,6.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,6.2
@@ -3803,7 +3883,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,42,Wholesale Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,6.6000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,42,Wholesale Trade,6.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,42,Wholesale Trade,6.4
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q1,42,Wholesale Trade,6.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,42,Wholesale Trade,7.1
@@ -3813,7 +3892,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,42,Wholesale Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,42,Wholesale Trade,7.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q4,42,Wholesale Trade,6.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,5.5
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Frederick WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,3197
 Workers,Frederick WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,3336
 Workers,Frederick WIA,Maryland Workers by Industry,2017Q1,42,Wholesale Trade,3366
@@ -3845,7 +3923,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2019Q4,42,Wholesale Trade,354
 Workers,Frederick WIA,Maryland Workers by Industry,2020Q4,42,Wholesale Trade,3467
 Workers,Frederick WIA,Maryland Workers by Industry,2018Q4,42,Wholesale Trade,3414
 Workers,Frederick WIA,Maryland Workers by Industry,2021Q4,42,Wholesale Trade,3534
-Workers,Frederick WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,3766
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A01,14-18,596
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A01,14-18,585
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A01,14-18,642
@@ -3878,7 +3955,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A01,14-18
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A01,14-18,722
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A01,14-18,962
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A01,14-18,982
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A02,19-21,1135
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A02,19-21,1160
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A02,19-21,1317
@@ -3909,7 +3985,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A02,19-21
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1426
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A02,19-21,1988
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A02,19-21,2012
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A03,22-24,1891
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A03,22-24,1953
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A03,22-24,2138
@@ -3942,7 +4017,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A03,22-24
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A03,22-24,3992
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A03,22-24,3152
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A04,25-34,3261
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A04,25-34,3279
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A04,25-34,3482
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q1,A04,25-34,3564
@@ -3973,7 +4047,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A04,25-34
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A04,25-34,3886
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A04,25-34,4392
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A04,25-34,4671
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A05,35-44,4587
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A05,35-44,4728
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A05,35-44,4910
@@ -4004,7 +4077,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q4,A05,35-44
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A05,35-44,5030
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A05,35-44,5349
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A05,35-44,6249
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A05,35-44,6031
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A06,45-54,5128
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A06,45-54,5167
@@ -4039,7 +4111,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A06,45-54
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A06,45-54,6616
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A06,45-54,7049
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A07,55-64,4885
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A07,55-64,5078
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q1,A07,55-64,5329
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q1,A07,55-64,5360
@@ -4069,7 +4140,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q4,A07,55-64
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A07,55-64,5617
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A07,55-64,6716
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A07,55-64,6809
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,0
 Workers,Frederick WIA,Maryland Workers by Age,2015Q1,A01,14-18,2438
 Workers,Frederick WIA,Maryland Workers by Age,2016Q1,A01,14-18,2627
 Workers,Frederick WIA,Maryland Workers by Age,2017Q1,A01,14-18,2766
@@ -4101,7 +4171,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2018Q4,A01,14-18,3040
 Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A01,14-18,3037
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A01,14-18,2904
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A01,14-18,3498
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A01,14-18,3595
 Workers,Frederick WIA,Maryland Workers by Age,2015Q1,A02,19-21,4373
 Workers,Frederick WIA,Maryland Workers by Age,2016Q1,A02,19-21,4309
 Workers,Frederick WIA,Maryland Workers by Age,2017Q1,A02,19-21,4413
@@ -4150,7 +4219,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2020Q2,A03,22-24,4799
 Workers,Frederick WIA,Maryland Workers by Age,2021Q2,A03,22-24,4977
 Workers,Frederick WIA,Maryland Workers by Age,2019Q2,A03,22-24,5589
 Workers,Frederick WIA,Maryland Workers by Age,2022Q2,A03,22-24,5421
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A02,19-21,4559
 Workers,Frederick WIA,Maryland Workers by Age,2015Q3,A03,22-24,5779
 Workers,Frederick WIA,Maryland Workers by Age,2016Q3,A03,22-24,5754
 Workers,Frederick WIA,Maryland Workers by Age,2017Q3,A03,22-24,5737
@@ -4166,7 +4234,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2018Q4,A03,22-24,5619
 Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A03,22-24,5478
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A03,22-24,4930
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A03,22-24,5314
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A03,22-24,5660
 Workers,Frederick WIA,Maryland Workers by Age,2015Q1,A04,25-34,19630
 Workers,Frederick WIA,Maryland Workers by Age,2016Q1,A04,25-34,20452
 Workers,Frederick WIA,Maryland Workers by Age,2018Q1,A04,25-34,21435
@@ -4197,7 +4264,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A04,25-34,21296
 Workers,Frederick WIA,Maryland Workers by Age,2018Q4,A04,25-34,21566
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A04,25-34,19171
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A04,25-34,20432
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A04,25-34,21705
 Workers,Frederick WIA,Maryland Workers by Age,2015Q1,A05,35-44,18953
 Workers,Frederick WIA,Maryland Workers by Age,2016Q1,A05,35-44,19660
 Workers,Frederick WIA,Maryland Workers by Age,2017Q1,A05,35-44,19623
@@ -4227,7 +4293,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2017Q4,A05,35-44,19870
 Workers,Frederick WIA,Maryland Workers by Age,2016Q4,A05,35-44,19653
 Workers,Frederick WIA,Maryland Workers by Age,2018Q4,A05,35-44,20348
 Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A05,35-44,20653
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A05,35-44,22369
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A05,35-44,19471
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A05,35-44,20697
 Workers,Frederick WIA,Maryland Workers by Age,2020Q2,A05,35-44,19471
@@ -4261,7 +4326,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A06,45-54,21440
 Workers,Frederick WIA,Maryland Workers by Age,2022Q2,A06,45-54,20810
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A06,45-54,19589
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A06,45-54,20457
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A06,45-54,21378
 Workers,Frederick WIA,Maryland Workers by Age,2015Q1,A07,55-64,15678
 Workers,Frederick WIA,Maryland Workers by Age,2016Q1,A07,55-64,16528
 Workers,Frederick WIA,Maryland Workers by Age,2017Q1,A07,55-64,16903
@@ -4293,7 +4357,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2018Q4,A07,55-64,17951
 Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A07,55-64,18347
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A07,55-64,17457
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A07,55-64,18737
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A07,55-64,19395
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A01,14-18,663
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A01,14-18,675
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A01,14-18,730
@@ -4326,7 +4389,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A01,14-18,1056
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A01,14-18,1103
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A01,14-18,1230
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A01,14-18,1459
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A01,14-18,0
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A02,19-21,1281
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A02,19-21,1319
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A02,19-21,1380
@@ -4358,7 +4420,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A02,19-21,1370
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A02,19-21,1437
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A02,19-21,1756
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A02,19-21,1579
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A02,19-21,0
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A03,22-24,1306
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A03,22-24,1233
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A03,22-24,1312
@@ -4387,7 +4448,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2015Q4,A03,22-24,1610
 Separations,Frederick WIA,Maryland Separations by Age,2016Q4,A03,22-24,1538
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A03,22-24,1422
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A03,22-24,1621
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A03,22-24,0
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A04,25-34,2852
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A04,25-34,3001
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A04,25-34,3137
@@ -4418,7 +4478,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A04,25-34,3816
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A04,25-34,3801
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A04,25-34,3299
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A04,25-34,4316
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A04,25-34,0
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A05,35-44,2019
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A05,35-44,1953
 Separations,Frederick WIA,Maryland Separations by Age,2018Q1,A05,35-44,2041
@@ -4451,7 +4510,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A05,35-44,2643
 Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A05,35-44,2490
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A05,35-44,2482
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A05,35-44,3227
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A05,35-44,0
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A06,45-54,1826
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A06,45-54,1891
 Separations,Frederick WIA,Maryland Separations by Age,2018Q1,A06,45-54,1859
@@ -4481,7 +4539,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2017Q4,A06,45-54,2263
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A06,45-54,2204
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A06,45-54,2041
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A06,45-54,2490
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A06,45-54,0
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A07,55-64,1197
 Separations,Frederick WIA,Maryland Separations by Age,2016Q1,A07,55-64,1296
 Separations,Frederick WIA,Maryland Separations by Age,2017Q1,A07,55-64,1292
@@ -4513,7 +4570,6 @@ Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A07,55-64,1684
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A07,55-64,1666
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A07,55-64,1673
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A07,55-64,2091
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A07,55-64,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2015Q1,1,Male,4829
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2016Q1,1,Male,4970
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2017Q1,1,Male,5157
@@ -4547,7 +4603,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2018Q4,1,Male
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2019Q4,1,Male,5619
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2020Q4,1,Male,6506
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2021Q4,1,Male,6668
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2015Q1,2,Female,3297
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2016Q1,2,Female,3330
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2018Q1,2,Female,3651
@@ -4579,7 +4634,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Fema
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Female,3834
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2021Q4,2,Female,4679
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2020Q4,2,Female,4523
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,0
 Workers,Frederick WIA,Maryland Workers by Gender,2015Q1,1,Male,46316
 Workers,Frederick WIA,Maryland Workers by Gender,2016Q1,1,Male,47936
 Workers,Frederick WIA,Maryland Workers by Gender,2017Q1,1,Male,48364
@@ -4611,7 +4665,6 @@ Workers,Frederick WIA,Maryland Workers by Gender,2018Q4,1,Male,50068
 Workers,Frederick WIA,Maryland Workers by Gender,2019Q4,1,Male,50456
 Workers,Frederick WIA,Maryland Workers by Gender,2020Q4,1,Male,47205
 Workers,Frederick WIA,Maryland Workers by Gender,2021Q4,1,Male,50150
-Workers,Frederick WIA,Maryland Workers by Gender,2022Q4,1,Male,52387
 Workers,Frederick WIA,Maryland Workers by Gender,2015Q1,2,Female,48146
 Workers,Frederick WIA,Maryland Workers by Gender,2016Q1,2,Female,49931
 Workers,Frederick WIA,Maryland Workers by Gender,2017Q1,2,Female,50700
@@ -4644,7 +4697,6 @@ Workers,Frederick WIA,Maryland Workers by Gender,2020Q4,2,Female,47256
 Workers,Frederick WIA,Maryland Workers by Gender,2021Q4,2,Female,51057
 Separations,Frederick WIA,Maryland Separations by Age,2018Q4,A06,45-54,2330
 Separations,Frederick WIA,Maryland Separations by Age,2016Q4,A06,45-54,2335
-Workers,Frederick WIA,Maryland Workers by Gender,2022Q4,2,Female,54607
 Separations,Frederick WIA,Maryland Separations by Gender,2015Q1,1,Male,6182
 Separations,Frederick WIA,Maryland Separations by Gender,2016Q1,1,Male,6456
 Separations,Frederick WIA,Maryland Separations by Gender,2017Q1,1,Male,6503
@@ -4676,7 +4728,6 @@ Separations,Frederick WIA,Maryland Separations by Gender,2016Q3,1,Male,8659
 Separations,Frederick WIA,Maryland Separations by Gender,2019Q4,1,Male,7952
 Separations,Frederick WIA,Maryland Separations by Gender,2020Q4,1,Male,7799
 Separations,Frederick WIA,Maryland Separations by Gender,2021Q4,1,Male,9290
-Separations,Frederick WIA,Maryland Separations by Gender,2022Q4,1,Male,0
 Separations,Frederick WIA,Maryland Separations by Gender,2015Q1,2,Female,5414
 Separations,Frederick WIA,Maryland Separations by Gender,2017Q1,2,Female,5847
 Separations,Frederick WIA,Maryland Separations by Gender,2016Q1,2,Female,5684
@@ -4709,7 +4760,6 @@ Separations,Frederick WIA,Maryland Separations by Gender,2018Q4,2,Female,7053
 Separations,Frederick WIA,Maryland Separations by Gender,2019Q4,2,Female,7339
 Separations,Frederick WIA,Maryland Separations by Gender,2020Q4,2,Female,6887
 Separations,Frederick WIA,Maryland Separations by Gender,2021Q4,2,Female,8902
-Separations,Frederick WIA,Maryland Separations by Gender,2022Q4,2,Female,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2015Q1,E1,Less than High school,-66
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q1,E1,Less than High school,-39
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2017Q1,E1,Less than High school,-5
@@ -4742,7 +4792,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Education,2017Q4,E1,Less tha
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2020Q4,E1,Less than High school,-43
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2019Q4,E1,Less than High school,-120
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q4,E1,Less than High school,-57
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2015Q1,E2,"High school or equivalent, no college",-197
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q1,E2,"High school or equivalent, no college",-116
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q1,E2,"High school or equivalent, no college",-18
@@ -4773,7 +4822,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q4,E2,"High sc
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2019Q4,E2,"High school or equivalent, no college",-214
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2020Q4,E2,"High school or equivalent, no college",1
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2015Q1,E3,Some college or Associate degree,-86
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q4,E2,"High school or equivalent, no college",-136
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q1,E3,Some college or Associate degree,-170
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2017Q1,E3,Some college or Associate degree,-7
@@ -4805,7 +4853,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q4,E3,Some col
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2019Q4,E3,Some college or Associate degree,-135
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2020Q4,E3,Some college or Associate degree,167
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q4,E3,Some college or Associate degree,-135
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2015Q1,E4,Bachelor's degree or advanced degree,359
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q1,E4,Bachelor's degree or advanced degree,-25
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q1,E4,Bachelor's degree or advanced degree,210
@@ -4837,7 +4884,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q4,E4,Bachelor
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2020Q4,E4,Bachelor's degree or advanced degree,229
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2019Q4,E4,Bachelor's degree or advanced degree,-174
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q4,E4,Bachelor's degree or advanced degree,-156
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q1,E1,Less than High school,1104
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q4,E2,"High school or equivalent, no college",-325
 New Hires,Frederick WIA,Maryland New Hires by Education,2017Q1,E1,Less than High school,1316
@@ -4869,7 +4915,6 @@ New Hires,Frederick WIA,Maryland New Hires by Education,2017Q4,E1,Less than High
 New Hires,Frederick WIA,Maryland New Hires by Education,2018Q4,E1,Less than High school,1549
 New Hires,Frederick WIA,Maryland New Hires by Education,2019Q4,E1,Less than High school,1490
 New Hires,Frederick WIA,Maryland New Hires by Education,2020Q4,E1,Less than High school,1346
-New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1603
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q1,E2,"High school or equivalent, no college",1975
 New Hires,Frederick WIA,Maryland New Hires by Education,2016Q1,E2,"High school or equivalent, no college",2176
 New Hires,Frederick WIA,Maryland New Hires by Education,2018Q1,E2,"High school or equivalent, no college",2223
@@ -4903,7 +4948,6 @@ New Hires,Frederick WIA,Maryland New Hires by Education,2016Q4,E2,"High school o
 New Hires,Frederick WIA,Maryland New Hires by Education,2020Q4,E2,"High school or equivalent, no college",2230
 New Hires,Frederick WIA,Maryland New Hires by Education,2021Q4,E2,"High school or equivalent, no college",3091
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q1,E3,Some college or Associate degree,2109
-New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",2676
 New Hires,Frederick WIA,Maryland New Hires by Education,2016Q1,E3,Some college or Associate degree,2155
 New Hires,Frederick WIA,Maryland New Hires by Education,2018Q1,E3,Some college or Associate degree,2280
 New Hires,Frederick WIA,Maryland New Hires by Education,2017Q1,E3,Some college or Associate degree,2335
@@ -4934,7 +4978,6 @@ New Hires,Frederick WIA,Maryland New Hires by Education,2018Q4,E3,Some college o
 New Hires,Frederick WIA,Maryland New Hires by Education,2019Q4,E3,Some college or Associate degree,2676
 New Hires,Frederick WIA,Maryland New Hires by Education,2020Q4,E3,Some college or Associate degree,2444
 New Hires,Frederick WIA,Maryland New Hires by Education,2021Q4,E3,Some college or Associate degree,3306
-New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,2927
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q1,E4,Bachelor's degree or advanced degree,2157
 New Hires,Frederick WIA,Maryland New Hires by Education,2016Q1,E4,Bachelor's degree or advanced degree,1837
 New Hires,Frederick WIA,Maryland New Hires by Education,2017Q1,E4,Bachelor's degree or advanced degree,1910
@@ -4965,7 +5008,6 @@ New Hires,Frederick WIA,Maryland New Hires by Education,2019Q4,E4,Bachelor's deg
 New Hires,Frederick WIA,Maryland New Hires by Education,2018Q4,E4,Bachelor's degree or advanced degree,2215
 New Hires,Frederick WIA,Maryland New Hires by Education,2020Q4,E4,Bachelor's degree or advanced degree,1940
 New Hires,Frederick WIA,Maryland New Hires by Education,2021Q4,E4,Bachelor's degree or advanced degree,2749
-New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,2511
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less than High school,0.097
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.096
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than High school,0.091
@@ -4989,7 +5031,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than H
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.095
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0.109
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less than High school,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E1,Less than High school,0.088
@@ -4997,7 +5038,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than H
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q4,E1,Less than High school,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.086
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.097
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High school or equivalent, no college",0.078
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.076
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q1,E2,"High school or equivalent, no college",0.072
@@ -5021,7 +5061,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High schoo
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.075
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.068
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0.091
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.069
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.071
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.069
@@ -5029,7 +5068,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q4,E2,"High schoo
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q4,E2,"High school or equivalent, no college",0.096
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.072
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q4,E2,"High school or equivalent, no college",0.083
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.074
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.074
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q4,E4,Bachelor's degree or advanced degree,2211
@@ -5054,7 +5092,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some colleg
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.071
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0.088
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.065
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.066
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E3,Some college or Associate degree,0.068
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.067
@@ -5063,7 +5100,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some colleg
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some college or Associate degree,0.096
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.067
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.083
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachelor's degree or advanced degree,0.069
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0.066
@@ -5085,7 +5121,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's 
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.059
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0.079
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.057
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.059
@@ -5094,7 +5129,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor's 
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.077
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q4,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bachelor's degree or advanced degree,0.061
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,173
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2016Q1,1,Male,41
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,236
@@ -5126,7 +5160,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Gender,2018Q4,1,Male,-342
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2019Q4,1,Male,-425
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2020Q4,1,Male,9
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2021Q4,1,Male,-200
-Job Change,Frederick WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,4344
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2016Q1,0,All,4128
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2018Q1,0,All,4431
@@ -5157,7 +5190,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2018Q4,0,
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2019Q4,0,All,4710
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2020Q4,0,All,5516
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2021Q4,0,All,5669
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.092
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.091
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.085
@@ -5181,7 +5213,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.091
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.091
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0.108
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q4,1,Male,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q4,1,Male,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.083
@@ -5189,7 +5220,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2018Q4,1,Male,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.104
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q4,1,Male,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.095
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q1,2,Female,0.087
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0.087
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.082
@@ -5216,13 +5246,11 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q3,2,Female,0.072
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0.106
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.078
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.08
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2018Q4,2,Female,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2019Q4,2,Female,0.12
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q4,2,Female,0.091
 Separations,Frederick WIA,Maryland Separations by Gender All,2015Q1,0,All,11596
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.101
 Separations,Frederick WIA,Maryland Separations by Gender All,2016Q1,0,All,12140
 Separations,Frederick WIA,Maryland Separations by Gender All,2018Q1,0,All,12511
@@ -5253,7 +5281,6 @@ Separations,Frederick WIA,Maryland Separations by Gender All,2017Q4,0,All,15207
 Separations,Frederick WIA,Maryland Separations by Gender All,2019Q4,0,All,15290
 Separations,Frederick WIA,Maryland Separations by Gender All,2020Q4,0,All,14685
 Separations,Frederick WIA,Maryland Separations by Gender All,2021Q4,0,All,18192
-Separations,Frederick WIA,Maryland Separations by Gender All,2022Q4,0,All,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.089
@@ -5278,7 +5305,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.086
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2019Q3,0,All,0.087
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2020Q3,0,All,0.077
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2021Q3,0,All,0.107
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2015Q4,0,All,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2016Q4,0,All,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2017Q4,0,All,0.081
@@ -5288,7 +5314,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.088
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.098
 New Hires,Frederick WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3236
 New Hires,Frederick WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),2994
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Frederick WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),3273
 New Hires,Frederick WIA,Maryland New Hires by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),3271
 New Hires,Frederick WIA,Maryland New Hires by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),3373
@@ -5318,7 +5343,6 @@ New Hires,Frederick WIA,Maryland New Hires by Education,2018Q4,E5,Educational at
 New Hires,Frederick WIA,Maryland New Hires by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),3912
 New Hires,Frederick WIA,Maryland New Hires by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),4058
 New Hires,Frederick WIA,Maryland New Hires by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),4889
-New Hires,Frederick WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),3953
 Workers,Frederick WIA,Maryland Workers by Gender All,2015Q1,0,All Sexes,94462
 Workers,Frederick WIA,Maryland Workers by Gender All,2016Q1,0,All Sexes,97867
 Workers,Frederick WIA,Maryland Workers by Gender All,2017Q1,0,All Sexes,99064
@@ -5350,7 +5374,6 @@ Workers,Frederick WIA,Maryland Workers by Gender All,2018Q4,0,All Sexes,102036
 Workers,Frederick WIA,Maryland Workers by Gender All,2019Q4,0,All Sexes,102353
 Workers,Frederick WIA,Maryland Workers by Gender All,2020Q4,0,All Sexes,94461
 Workers,Frederick WIA,Maryland Workers by Gender All,2021Q4,0,All Sexes,101207
-Workers,Frederick WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,106994
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2016Q1,2,Female,64
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2015Q1,2,Female,177
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2017Q1,2,Female,291
@@ -5379,7 +5402,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Gender,2016Q4,2,Female,-42
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2017Q4,2,Female,386
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2018Q4,2,Female,416
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2019Q4,2,Female,77
-Job Change,Frederick WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,0
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2021Q4,2,Female,121
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2020Q4,2,Female,666
 Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2016Q1,0,All,105
@@ -5434,7 +5456,6 @@ Workers,Frederick WIA,Maryland Workers by Age,2016Q4,A08,65-99,6158
 Workers,Frederick WIA,Maryland Workers by Age,2019Q4,A08,65-99,7531
 Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2015Q1,0,All,350
 Workers,Frederick WIA,Maryland Workers by Age,2020Q4,A08,65-99,6784
-Workers,Frederick WIA,Maryland Workers by Age,2022Q4,A08,65-99,8333
 Workers,Frederick WIA,Maryland Workers by Age,2021Q4,A08,65-99,7709
 Separations,Frederick WIA,Maryland Separations by Age,2015Q1,A08,65-99,583
 Separations,Frederick WIA,Maryland Separations by Age,2018Q1,A08,65-99,719
@@ -5487,7 +5508,6 @@ Workers,Frederick WIA,Maryland Workers by Age All,2016Q3,A00,All Ages,99719
 Separations,Frederick WIA,Maryland Separations by Age,2019Q4,A08,65-99,1016
 Separations,Frederick WIA,Maryland Separations by Age,2020Q4,A08,65-99,1050
 Separations,Frederick WIA,Maryland Separations by Age,2021Q4,A08,65-99,1232
-Separations,Frederick WIA,Maryland Separations by Age,2022Q4,A08,65-99,0
 New Hires,Frederick WIA,Maryland New Hires by Gender,2015Q1,1,Male,5559
 Workers,Frederick WIA,Maryland Workers by Age All,2017Q3,A00,All Ages,100986
 Workers,Frederick WIA,Maryland Workers by Age All,2018Q3,A00,All Ages,101417
@@ -5528,7 +5548,6 @@ New Hires,Frederick WIA,Maryland New Hires by Gender,2015Q4,1,Male,6801
 New Hires,Frederick WIA,Maryland New Hires by Gender,2022Q3,1,Male,8439
 New Hires,Frederick WIA,Maryland New Hires by Gender,2016Q4,1,Male,6348
 New Hires,Frederick WIA,Maryland New Hires by Gender,2017Q4,1,Male,6671
-Workers,Frederick WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,106994
 New Hires,Frederick WIA,Maryland New Hires by Gender,2020Q4,1,Male,6129
 New Hires,Frederick WIA,Maryland New Hires by Gender,2018Q4,1,Male,6443
 New Hires,Frederick WIA,Maryland New Hires by Gender,2015Q3,1,Male,7219
@@ -5536,7 +5555,6 @@ New Hires,Frederick WIA,Maryland New Hires by Gender,2019Q4,1,Male,6428
 New Hires,Frederick WIA,Maryland New Hires by Gender,2021Q4,1,Male,8002
 New Hires,Frederick WIA,Maryland New Hires by Gender,2017Q1,2,Female,5276
 New Hires,Frederick WIA,Maryland New Hires by Gender,2015Q1,2,Female,4780
-New Hires,Frederick WIA,Maryland New Hires by Gender,2022Q4,1,Male,6600
 New Hires,Frederick WIA,Maryland New Hires by Gender,2019Q1,2,Female,5621
 New Hires,Frederick WIA,Maryland New Hires by Gender,2020Q1,2,Female,5590
 New Hires,Frederick WIA,Maryland New Hires by Gender,2021Q1,2,Female,5014
@@ -5565,7 +5583,6 @@ New Hires,Frederick WIA,Maryland New Hires by Gender,2018Q4,2,Female,6337
 New Hires,Frederick WIA,Maryland New Hires by Gender,2020Q4,2,Female,5881
 New Hires,Frederick WIA,Maryland New Hires by Gender,2021Q4,2,Female,7889
 New Hires,Frederick WIA,Maryland New Hires by Gender,2019Q4,2,Female,6306
-New Hires,Frederick WIA,Maryland New Hires by Gender,2022Q4,2,Female,7070
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q1,A08,65-99,3252
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q1,A08,65-99,3334
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q1,A08,65-99,3602
@@ -5597,7 +5614,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2020Q4,0,All,666
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q3,A08,65-99,4180
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q3,A08,65-99,4684
 Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2021Q4,0,All,121
-Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q4,A08,65-99,3900
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q4,A08,65-99,3751
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q4,A08,65-99,3856
@@ -5606,7 +5622,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q4,A08,65-99
 New Hires,Frederick WIA,Maryland New Hires by Gender,2016Q1,2,Female,4978
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,5020
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q4,A08,65-99,5085
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,0
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,350
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,105
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2017Q1,E0,All Education Categories,527
@@ -5638,7 +5653,6 @@ Job change,Frederick WIA,Maryland Job Net Change by Education All,2018Q4,E0,All 
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2020Q4,E0,All Education Categories,675
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2019Q4,E0,All Education Categories,-348
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2021Q4,E0,All Education Categories,-79
-Job change,Frederick WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,0
 Separations,Frederick WIA,Maryland Separations by Education All,2016Q1,E0,All Education Categories,12140
 Separations,Frederick WIA,Maryland Separations by Education All,2015Q1,E0,All Education Categories,11596
 Separations,Frederick WIA,Maryland Separations by Education All,2017Q1,E0,All Education Categories,12350
@@ -5668,7 +5682,6 @@ Separations,Frederick WIA,Maryland Separations by Education All,2017Q4,E0,All Ed
 Separations,Frederick WIA,Maryland Separations by Education All,2018Q4,E0,All Education Categories,15066
 Separations,Frederick WIA,Maryland Separations by Education All,2019Q4,E0,All Education Categories,15290
 Separations,Frederick WIA,Maryland Separations by Education All,2020Q4,E0,All Education Categories,14685
-Separations,Frederick WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,0
 Separations,Frederick WIA,Maryland Separations by Education,2015Q1,E1,Less than High school,1308
 Separations,Frederick WIA,Maryland Separations by Education,2017Q1,E1,Less than High school,1486
 Separations,Frederick WIA,Maryland Separations by Education,2016Q1,E1,Less than High school,1440
@@ -5699,7 +5712,6 @@ Separations,Frederick WIA,Maryland Separations by Education,2019Q4,E1,Less than 
 Separations,Frederick WIA,Maryland Separations by Education,2020Q4,E1,Less than High school,1757
 Separations,Frederick WIA,Maryland Separations by Education,2021Q4,E1,Less than High school,2173
 Separations,Frederick WIA,Maryland Separations by Education All,2021Q4,E0,All Education Categories,18192
-Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,0
 Separations,Frederick WIA,Maryland Separations by Education,2015Q1,E2,"High school or equivalent, no college",2461
 Separations,Frederick WIA,Maryland Separations by Education,2016Q1,E2,"High school or equivalent, no college",2578
 Separations,Frederick WIA,Maryland Separations by Education,2017Q1,E2,"High school or equivalent, no college",2600
@@ -5733,7 +5745,6 @@ Separations,Frederick WIA,Maryland Separations by Education,2018Q4,E2,"High scho
 Separations,Frederick WIA,Maryland Separations by Education,2019Q4,E2,"High school or equivalent, no college",3155
 Separations,Frederick WIA,Maryland Separations by Education,2020Q4,E2,"High school or equivalent, no college",3005
 Separations,Frederick WIA,Maryland Separations by Education,2021Q4,E2,"High school or equivalent, no college",3702
-Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",0
 Separations,Frederick WIA,Maryland Separations by Education,2015Q1,E3,Some college or Associate degree,2507
 Separations,Frederick WIA,Maryland Separations by Education,2016Q1,E3,Some college or Associate degree,2630
 Separations,Frederick WIA,Maryland Separations by Education,2017Q1,E3,Some college or Associate degree,2676
@@ -5766,7 +5777,6 @@ Separations,Frederick WIA,Maryland Separations by Education,2017Q4,E3,Some colle
 Separations,Frederick WIA,Maryland Separations by Education,2019Q4,E3,Some college or Associate degree,3356
 Separations,Frederick WIA,Maryland Separations by Education,2020Q4,E3,Some college or Associate degree,3176
 Separations,Frederick WIA,Maryland Separations by Education,2021Q4,E3,Some college or Associate degree,4011
-Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,0
 Separations,Frederick WIA,Maryland Separations by Education,2016Q1,E4,Bachelor's degree or advanced degree,2204
 Separations,Frederick WIA,Maryland Separations by Education,2015Q1,E4,Bachelor's degree or advanced degree,2130
 Separations,Frederick WIA,Maryland Separations by Education,2017Q1,E4,Bachelor's degree or advanced degree,2166
@@ -5796,7 +5806,6 @@ Separations,Frederick WIA,Maryland Separations by Education,2017Q4,E4,Bachelor's
 Separations,Frederick WIA,Maryland Separations by Education,2018Q4,E4,Bachelor's degree or advanced degree,2942
 Separations,Frederick WIA,Maryland Separations by Education,2019Q4,E4,Bachelor's degree or advanced degree,2974
 Separations,Frederick WIA,Maryland Separations by Education,2020Q4,E4,Bachelor's degree or advanced degree,2592
-Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Separations,Frederick WIA,Maryland Separations by Education,2021Q4,E4,Bachelor's degree or advanced degree,3471
 Separations,Frederick WIA,Maryland Separations by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),3189
 Separations,Frederick WIA,Maryland Separations by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3289
@@ -5829,7 +5838,6 @@ Separations,Frederick WIA,Maryland Separations by Education,2018Q4,E5,Educationa
 Separations,Frederick WIA,Maryland Separations by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),3962
 Separations,Frederick WIA,Maryland Separations by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),4835
 Separations,Frederick WIA,Maryland Separations by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),4190
-Separations,Frederick WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),340
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),454
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),441
@@ -5860,7 +5868,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Education,2018Q4,E5,Educatio
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),296
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),321
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),405
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),0.187,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),0.184,
@@ -5884,7 +5891,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),0.196,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),0.197,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0.253,
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,4043
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,4128
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,4431
@@ -5916,7 +5922,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2019Q4,A00,A
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2020Q4,A00,All Ages,5516
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2018Q4,A00,All Ages,4579
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2021Q4,A00,All Ages,5669
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,0
 Separations,Frederick WIA,Maryland Separations by Age All,2016Q1,A00,All Ages,12140
 Separations,Frederick WIA,Maryland Separations by Age All,2015Q1,A00,All Ages,11596
 Separations,Frederick WIA,Maryland Separations by Age All,2017Q1,A00,All Ages,12350
@@ -5950,7 +5955,6 @@ Separations,Frederick WIA,Maryland Separations by Age All,2018Q4,A00,All Ages,15
 Separations,Frederick WIA,Maryland Separations by Age All,2021Q4,A00,All Ages,18192
 Separations,Frederick WIA,Maryland Separations by Age All,2019Q4,A00,All Ages,15290
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2021Q2,E5,Educational attainment not available (workers aged 24 or younger),2292
-Separations,Frederick WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.084
@@ -5974,14 +5978,12 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Edu
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.086
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2020Q3,E0,All Education Categories,0.077
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2021Q3,E0,All Education Categories,0.107
-Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2015Q4,E0,All Education Categories,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All Education Categories,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All Education Categories,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2018Q4,E0,All Education Categories,0.082
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.112
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.088
-Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4009
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4156
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4051

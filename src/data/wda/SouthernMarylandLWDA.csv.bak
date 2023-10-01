@@ -1,5 +1,192 @@
-Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2782
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,11092
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1541
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,11522
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,632
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,3893
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",11
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",98
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",195
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",979
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,23,Construction,834
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,23,Construction,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,23,Construction,7284
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,842
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,10957
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,97
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,1598
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,51,Information,61
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,51,Information,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,51,Information,690
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,56
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,412
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,104
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,1264
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",13
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),473
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3377
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",1173
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",14694
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,479
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,6173
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,94
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,899
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,TBD
+Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,3066
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,13789
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,458
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,3118
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,60
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,22,Utilities,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,22,Utilities,1465
+Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,103
+Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,1453
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A01,14-18,3966
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A02,19-21,5132
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A03,22-24,5205
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A04,25-34,19003
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A05,35-44,18770
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A06,45-54,17771
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A07,55-64,17332
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A01,14-18,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A02,19-21,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A03,22-24,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A04,25-34,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A05,35-44,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A06,45-54,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A07,55-64,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Gender,2022Q4,1,Male,45362
+Workers,Southern Maryland WIA,Maryland Workers by Gender,2022Q4,2,Female,49407
+Separations,Southern Maryland WIA,Maryland Separations by Gender,2022Q4,1,Male,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Gender,2022Q4,2,Female,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1559
+New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",2584
+New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,2727
+New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,1961
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Gender All,2022Q4,0,All,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),4228
+Workers,Southern Maryland WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,94769
+Workers,Southern Maryland WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,94769
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,TBD
+Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A08,65-99,7591
+Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A08,65-99,TBD
+New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2022Q4,1,Male,6016
+New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2022Q4,2,Female,7043
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,TBD
+Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Separations,Southern Maryland WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
+
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,23,Construction,2032
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q1,23,Construction,771
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q2,23,Construction,1546
@@ -36,7 +223,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,72,A
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,72,Accommodation and Food Services,1712
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,72,Accommodation and Food Services,1883
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2097
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,72,Accommodation and Food Services,177
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,72,Accommodation and Food Services,202
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,72,Accommodation and Food Services,325
@@ -80,7 +266,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q2,72,Accommo
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q3,72,Accommodation and Food Services,-258
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q2,72,Accommodation and Food Services,3407
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q2,72,Accommodation and Food Services,3334
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q2,72,Accommodation and Food Services,3675
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q2,72,Accommodation and Food Services,1686
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q2,72,Accommodation and Food Services,3995
@@ -100,7 +285,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,72,Accommo
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,72,Accommodation and Food Services,3017
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,72,Accommodation and Food Services,2348
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,3218
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2782
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,72,Accommodation and Food Services,2114
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,72,Accommodation and Food Services,2421
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,72,Accommodation and Food Services,2838
@@ -132,7 +316,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,72,Acc
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,72,Accommodation and Food Services,3947
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,72,Accommodation and Food Services,2808
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,72,Accommodation and Food Services,3610
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,72,Accommodation and Food Services,16.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,15.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,16.2
@@ -164,7 +347,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,72,Acco
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,18.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommodation and Food Services,15.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,17.5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,10116
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,72,Accommodation and Food Services,11033
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,72,Accommodation and Food Services,10843
@@ -195,7 +377,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,72,Accommodati
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,72,Accommodation and Food Services,12128
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,72,Accommodation and Food Services,9908
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,72,Accommodation and Food Services,11098
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,11092
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,62,Health Care and Social Assistance,3579
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,62,Health Care and Social Assistance,3669
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,62,Health Care and Social Assistance,3875
@@ -225,7 +406,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,62,H
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,62,Health Care and Social Assistance,4594
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,62,Health Care and Social Assistance,5978
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,62,Health Care and Social Assistance,4714
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,62,Health Care and Social Assistance,-41
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,62,Health Care and Social Assistance,87
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,62,Health Care and Social Assistance,40
@@ -260,7 +440,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,62,H
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,62,Health Care and Social Assistance,36
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,62,Health Care and Social Assistance,121
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,62,Health Care and Social Assistance,-196
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,62,Health Care and Social Assistance,1181
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,62,Health Care and Social Assistance,1186
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,62,Health Care and Social Assistance,1057
@@ -291,7 +470,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,62,Health 
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,62,Health Care and Social Assistance,1414
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,62,Health Care and Social Assistance,1438
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,62,Health Care and Social Assistance,1374
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1541
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,62,Health Care and Social Assistance,1594
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,62,Health Care and Social Assistance,1233
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,62,Health Care and Social Assistance,1307
@@ -324,13 +502,11 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E5,Edu
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),0.24,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),0.225,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.222,
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,1459
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,1397
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,62,Health Care and Social Assistance,1521
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,62,Health Care and Social Assistance,1597
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,62,Health Care and Social Assistance,1976
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,1466
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,62,Health Care and Social Assistance,8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,8.4
@@ -362,7 +538,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,62,Heal
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Care and Social Assistance,10.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Care and Social Assistance,11.200000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,10
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,12207
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,12081
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,62,Health Care and Social Assistance,12180
@@ -395,7 +570,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,62,Health Care
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,8.9
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,62,Health Care and Social Assistance,12809
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,62,Health Care and Social Assistance,11536
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,11522
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,62,Health Care and Social Assistance,11562
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,3646
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,3331
@@ -426,7 +600,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,56,A
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,4065
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,4456
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,4839
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,139
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,39
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,139
@@ -461,7 +634,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,56,A
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,-46
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,646
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,178
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,650
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,703
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,666
@@ -490,7 +662,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q4,56,Adminis
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,590
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,574
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,620
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,632
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,1023
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,554
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,590
@@ -525,7 +696,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,56,Adm
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,696
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,921
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,12.5
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,11.700000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,12.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,10.8
@@ -556,7 +726,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,56,Admi
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,13.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,10.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,12.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2910
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,3011
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,3254
@@ -588,7 +757,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,56,Administrat
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,3640
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,2991
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,3199
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,3893
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",1966
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",2081
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",1898
@@ -620,7 +788,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,11,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",2163
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",3132
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",3790
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",-12
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
@@ -651,7 +818,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q4,11,"
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",-7
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",-6
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",4
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",-6
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",11
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",19
@@ -684,7 +850,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,11,"Agricu
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",34
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",17
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",10
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",11
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",11
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",21
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",32
@@ -716,7 +881,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,11,"Ag
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",43
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",19
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",19
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",8.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",7.000000000000001
@@ -748,7 +912,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agr
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.799999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",12.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.4
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",98
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",98
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",94
@@ -780,7 +943,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q2,11,"Agricultur
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",120
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",105
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",119
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",98
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1642
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1636
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1721
@@ -812,7 +974,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,71,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",2718
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",2685
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",2096
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",68
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",35
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",98
@@ -844,7 +1005,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,71,"
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",-25
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",-134
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",-164
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",150
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",159
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",245
@@ -875,7 +1035,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,71,"Arts, 
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",190
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",253
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",141
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",195
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",159
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",194
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",184
@@ -907,7 +1066,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q4,71,"Ar
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",335
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",461
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",352
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",220
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",17.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",11.899999999999999
@@ -940,7 +1098,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Art
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",25.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",14.299999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",22.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1023
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1094
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1156
@@ -972,7 +1129,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,71,"Arts, Ente
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",1032
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",823
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",993
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",979
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,23,Construction,4111
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,23,Construction,4820
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,23,Construction,5750
@@ -1003,7 +1159,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,23,C
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,23,Construction,5712
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,23,Construction,5258
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,23,Construction,5991
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,0
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,23,Construction,6293
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,23,Construction,128
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,23,Construction,674
@@ -1034,7 +1189,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q4,23,C
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,23,Construction,-1137
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,23,Construction,-290
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,23,Construction,-250
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,23,Construction,-164
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,23,Construction,-122
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,23,Construction,1731
@@ -1066,7 +1220,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,23,Constru
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,23,Construction,942
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,23,Construction,904
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,23,Construction,750
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,23,Construction,834
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,23,Construction,1793
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,23,Construction,2099
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,23,Construction,2909
@@ -1096,7 +1249,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,23,Con
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,23,Construction,1388
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,23,Construction,1073
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,23,Construction,1263
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,23,Construction,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,23,Construction,10.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,12.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,14.799999999999999
@@ -1129,7 +1281,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,23,Cons
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,8.799999999999999
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,23,Construction,7634
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,23,Construction,8868
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,23,Construction,10686
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,23,Construction,8046
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q1,23,Construction,7430
@@ -1159,7 +1310,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,23,Constructio
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,23,Construction,7290
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,23,Construction,7728
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,23,Construction,7372
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,23,Construction,7284
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,61,Educational Services,4330
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,61,Educational Services,4318
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,61,Educational Services,4035
@@ -1190,7 +1340,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,61,E
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,61,Educational Services,4852
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,61,Educational Services,5654
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,61,Educational Services,5315
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,61,Educational Services,81
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,61,Educational Services,133
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,61,Educational Services,111
@@ -1222,7 +1371,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,61,E
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,61,Educational Services,392
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,61,Educational Services,520
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,61,Educational Services,379
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,61,Educational Services,429
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,61,Educational Services,465
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,61,Educational Services,586
@@ -1255,7 +1403,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,61,Educati
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,61,Educational Services,268
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,61,Educational Services,739
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,61,Educational Services,866
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,842
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,61,Educational Services,565
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,61,Educational Services,535
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,61,Educational Services,618
@@ -1286,7 +1433,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,61,Edu
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,61,Educational Services,805
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,61,Educational Services,797
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,61,Educational Services,349
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,61,Educational Services,778
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educational Services,6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,6.6000000000000005
@@ -1319,7 +1465,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educ
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,61,Educational Services,7.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,4.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,5.5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,11072
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,61,Educational Services,11146
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,11065
@@ -1350,7 +1495,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,61,Educational
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,61,Educational Services,10962
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,61,Educational Services,10451
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,61,Educational Services,9813
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,10957
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,52,Finance and Insurance,5607
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,52,Finance and Insurance,5642
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,52,Finance and Insurance,6082
@@ -1384,7 +1528,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,52,F
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,52,Finance and Insurance,7575
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,52,Finance and Insurance,23
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,52,Finance and Insurance,7253
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,52,Finance and Insurance,-9
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,52,Finance and Insurance,-6
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,52,Finance and Insurance,29
@@ -1415,7 +1558,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,52,F
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,52,Finance and Insurance,4
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,52,Finance and Insurance,65
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,52,Finance and Insurance,-48
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,52,Finance and Insurance,110
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,52,Finance and Insurance,93
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,52,Finance and Insurance,86
@@ -1447,7 +1589,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,52,Finance
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,52,Finance and Insurance,99
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,52,Finance and Insurance,179
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,52,Finance and Insurance,128
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,97
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,52,Finance and Insurance,104
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,52,Finance and Insurance,98
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,52,Finance and Insurance,102
@@ -1479,7 +1620,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,52,Fin
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,52,Finance and Insurance,133
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,52,Finance and Insurance,115
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,52,Finance and Insurance,194
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,52,Finance and Insurance,5.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,52,Finance and Insurance,5.6000000000000005
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and Insurance,5.5
@@ -1511,7 +1651,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,52,Fina
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,5.6000000000000005
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,4.3999999999999995
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,6.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,1389
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,1392
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,52,Finance and Insurance,1395
@@ -1543,7 +1682,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,52,Finance and
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,52,Finance and Insurance,1371
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,52,Finance and Insurance,1406
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,52,Finance and Insurance,1506
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,1598
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,51,Information,4271
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,51,Information,4457
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,51,Information,4730
@@ -1574,7 +1712,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q4,51,I
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,51,Information,4253
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,51,Information,5025
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,51,Information,6175
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,0
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,51,Information,5728
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,51,Information,4
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,51,Information,13
@@ -1606,7 +1743,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,51,I
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,51,Information,-1
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,51,Information,-20
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,51,Information,11
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,51,Information,17
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,51,Information,69
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,51,Information,46
@@ -1640,7 +1776,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,51,Informa
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,51,Information,45
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,51,Information,79
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,51,Information,69
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,51,Information,61
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,51,Information,83
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,51,Information,54
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q1,51,Information,58
@@ -1670,7 +1805,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,51,Inf
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,51,Information,84
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,51,Information,57
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,51,Information,66
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,51,Information,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,51,Information,6.6000000000000005
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,51,Information,71
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,51,Information,7.3
@@ -1703,7 +1837,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,51,Info
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,4.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,8.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,51,Information,8.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,51,Information,932
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,51,Information,809
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,51,Information,697
@@ -1735,7 +1868,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q4,51,Information
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,51,Information,658
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,51,Information,732
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,51,Information,643
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,51,Information,690
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,55,Management of Companies and Enterprises,2606
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,55,Management of Companies and Enterprises,2346
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q1,55,Management of Companies and Enterprises,3074
@@ -1765,7 +1897,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,55,M
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,55,Management of Companies and Enterprises,3780
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,55,Management of Companies and Enterprises,7316
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,55,Management of Companies and Enterprises,4281
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,55,Management of Companies and Enterprises,4329
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,55,Management of Companies and Enterprises,-5
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,55,Management of Companies and Enterprises,10
@@ -1799,7 +1930,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,55,M
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,55,Management of Companies and Enterprises,-5
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,55,Management of Companies and Enterprises,-3
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,55,Management of Companies and Enterprises,13
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,55,Management of Companies and Enterprises,41
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,55,Management of Companies and Enterprises,24
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,55,Management of Companies and Enterprises,53
@@ -1831,7 +1961,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,55,Managem
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,55,Management of Companies and Enterprises,79
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,55,Management of Companies and Enterprises,53
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,55,Management of Companies and Enterprises,42
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,56
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,55,Management of Companies and Enterprises,32
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,55,Management of Companies and Enterprises,43
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,55,Management of Companies and Enterprises,47
@@ -1861,7 +1990,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q3,55,Man
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,55,Management of Companies and Enterprises,56
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,55,Management of Companies and Enterprises,82
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,55,Management of Companies and Enterprises,89
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,55,Management of Companies and Enterprises,47
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,55,Management of Companies and Enterprises,54
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,55,Management of Companies and Enterprises,8.1
@@ -1895,7 +2023,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,55,Mana
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,55,Management of Companies and Enterprises,12
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,55,Management of Companies and Enterprises,9.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,55,Management of Companies and Enterprises,9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,55,Management of Companies and Enterprises,434
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,55,Management of Companies and Enterprises,437
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,55,Management of Companies and Enterprises,457
@@ -1928,7 +2055,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,55,Management 
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,55,Management of Companies and Enterprises,393
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,55,Management of Companies and Enterprises,459
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,31-33,Manufacturing,3953
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,412
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,31-33,Manufacturing,3862
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,31-33,Manufacturing,4595
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q1,31-33,Manufacturing,4497
@@ -1963,7 +2089,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,31-3
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,31-33,Manufacturing,7075
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,31-33,Manufacturing,56
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,31-33,Manufacturing,-81
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q1,31-33,Manufacturing,-39
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q1,31-33,Manufacturing,-35
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q1,31-33,Manufacturing,-5
@@ -1990,7 +2115,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,31-3
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,31-33,Manufacturing,-20
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,31-33,Manufacturing,-43
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,31-33,Manufacturing,-30
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,31-33,Manufacturing,120
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,31-33,Manufacturing,99
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,31-33,Manufacturing,127
@@ -2023,7 +2147,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q4,31-33,Manu
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,31-33,Manufacturing,134
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,31-33,Manufacturing,108
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,31-33,Manufacturing,131
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,104
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,31-33,Manufacturing,131
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,31-33,Manufacturing,107
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,31-33,Manufacturing,223
@@ -2054,7 +2177,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,31-33,
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,31-33,Manufacturing,162
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,31-33,Manufacturing,164
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,31-33,Manufacturing,191
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manufacturing,5.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufacturing,7.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,7.000000000000001
@@ -2087,7 +2209,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,M
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,6.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufacturing,8.3
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,31-33,Manufacturing,1504
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,31-33,Manufacturing,1513
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,31-33,Manufacturing,1472
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,31-33,Manufacturing,1553
@@ -2119,7 +2240,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,31-33,Manufact
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q4,31-33,Manufacturing,200
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,31-33,Manufacturing,1507
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,31-33,Manufacturing,1447
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,1264
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4050
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4457
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5832
@@ -2151,7 +2271,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,21,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7597
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6758
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6800
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-25
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",1
@@ -2183,7 +2302,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q4,21,"
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2214,7 +2332,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,21,"Mining
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2247,7 +2364,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,21,"Mi
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2279,7 +2395,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Min
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",41
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",48
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",40
@@ -2311,7 +2426,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Qu
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",13
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,81,Other Services (except Public Administration),2489
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,81,Other Services (except Public Administration),2512
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,81,Other Services (except Public Administration),2741
@@ -2343,7 +2457,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,81,O
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,81,Other Services (except Public Administration),3656
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,81,Other Services (except Public Administration),3303
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,81,Other Services (except Public Administration),4214
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,81,Other Services (except Public Administration),52
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,81,Other Services (except Public Administration),44
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,81,Other Services (except Public Administration),80
@@ -2375,7 +2488,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,81,O
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,81,Other Services (except Public Administration),-93
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,81,Other Services (except Public Administration),35
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,81,Other Services (except Public Administration),-171
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,81,Other Services (except Public Administration),380
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,81,Other Services (except Public Administration),386
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,81,Other Services (except Public Administration),462
@@ -2407,7 +2519,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,81,Other S
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,81,Other Services (except Public Administration),467
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,81,Other Services (except Public Administration),363
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,81,Other Services (except Public Administration),493
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),473
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,81,Other Services (except Public Administration),389
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,81,Other Services (except Public Administration),416
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,81,Other Services (except Public Administration),397
@@ -2439,7 +2550,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,81,Oth
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,81,Other Services (except Public Administration),639
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,81,Other Services (except Public Administration),447
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,81,Other Services (except Public Administration),712
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),9.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Services (except Public Administration),9.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,81,Other Services (except Public Administration),9.4
@@ -2472,7 +2582,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,81,Othe
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,81,Other Services (except Public Administration),9.700000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),10.8
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),3149
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,81,Other Services (except Public Administration),3198
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,81,Other Services (except Public Administration),3195
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,81,Other Services (except Public Administration),3136
@@ -2503,7 +2612,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,81,Other Servi
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,81,Other Services (except Public Administration),2890
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,81,Other Services (except Public Administration),3343
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,81,Other Services (except Public Administration),3083
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3377
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",7209
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",7298
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",7556
@@ -2534,7 +2642,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,54,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",8076
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",8703
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",9662
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",80
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",9389
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",256
@@ -2566,7 +2673,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q3,54,"
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",3
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",202
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",-362
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",149
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",1081
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",1177
@@ -2599,7 +2705,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,54,"Profes
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",1366
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",1612
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",1344
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",1173
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",1176
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",1142
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",1229
@@ -2631,7 +2736,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,54,"Pr
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",1421
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",1700
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",1961
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",8.200000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",8.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",8.799999999999999
@@ -2664,7 +2768,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,54,"Pro
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",7.199999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",7.1
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",11987
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",11638
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",11297
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",11668
@@ -2695,7 +2798,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,54,"Profession
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",12306
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",14682
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",13686
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",14694
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,92,Public Administration,3807
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,92,Public Administration,3654
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q1,92,Public Administration,4308
@@ -2727,7 +2829,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,92,P
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,92,Public Administration,5520
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,92,Public Administration,4266
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,92,Public Administration,5684
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,92,Public Administration,46
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,92,Public Administration,53
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,92,Public Administration,43
@@ -2760,7 +2861,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,92,P
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,92,Public Administration,-41
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,92,Public Administration,135
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,92,Public Administration,-447
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,92,Public Administration,165
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,92,Public Administration,222
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,92,Public Administration,190
@@ -2791,7 +2891,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,92,Public 
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,92,Public Administration,368
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,92,Public Administration,453
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,92,Public Administration,357
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,479
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,92,Public Administration,167
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,92,Public Administration,211
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,92,Public Administration,227
@@ -2822,7 +2921,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,92,Pub
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,92,Public Administration,345
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,92,Public Administration,399
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,92,Public Administration,842
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,4.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,3.8
@@ -2855,7 +2953,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,92,Publ
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,92,Public Administration,4.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,92,Public Administration,6.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,7.199999999999999
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,4774
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,4783
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,92,Public Administration,4890
@@ -2887,7 +2984,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,92,Public Admi
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,92,Public Administration,5086
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,92,Public Administration,5398
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,92,Public Administration,5595
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,6173
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,53,Real Estate and Rental and Leasing,3651
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,53,Real Estate and Rental and Leasing,3739
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,53,Real Estate and Rental and Leasing,3761
@@ -2919,7 +3015,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,53,R
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,53,Real Estate and Rental and Leasing,5650
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,53,Real Estate and Rental and Leasing,4747
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,53,Real Estate and Rental and Leasing,5162
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,53,Real Estate and Rental and Leasing,19
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,53,Real Estate and Rental and Leasing,26
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,53,Real Estate and Rental and Leasing,19
@@ -2952,7 +3047,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,53,R
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,53,Real Estate and Rental and Leasing,-13
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,53,Real Estate and Rental and Leasing,-1
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,53,Real Estate and Rental and Leasing,105
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,53,Real Estate and Rental and Leasing,102
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,53,Real Estate and Rental and Leasing,137
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,53,Real Estate and Rental and Leasing,100
@@ -2983,7 +3077,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,53,Real Es
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,53,Real Estate and Rental and Leasing,101
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,53,Real Estate and Rental and Leasing,77
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,53,Real Estate and Rental and Leasing,114
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,94
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,53,Real Estate and Rental and Leasing,102
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,53,Real Estate and Rental and Leasing,106
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,53,Real Estate and Rental and Leasing,130
@@ -3015,7 +3108,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,53,Rea
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,53,Real Estate and Rental and Leasing,172
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,53,Real Estate and Rental and Leasing,148
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,53,Real Estate and Rental and Leasing,158
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,8.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,7.000000000000001
@@ -3047,7 +3139,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,53,Real
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,53,Real Estate and Rental and Leasing,11.700000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,53,Real Estate and Rental and Leasing,7.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,53,Real Estate and Rental and Leasing,9.8
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,53,Real Estate and Rental and Leasing,982
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,53,Real Estate and Rental and Leasing,998
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,53,Real Estate and Rental and Leasing,1040
@@ -3079,7 +3170,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,53,Real Estate
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,53,Real Estate and Rental and Leasing,922
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,53,Real Estate and Rental and Leasing,846
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,53,Real Estate and Rental and Leasing,879
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,899
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,44-45,Retail Trade,2439
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,44-45,Retail Trade,2331
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,44-45,Retail Trade,2622
@@ -3113,7 +3203,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,44-4
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,44-45,Retail Trade,3887
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,44-45,Retail Trade,-984
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,44-45,Retail Trade,-449
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,0
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,44-45,Retail Trade,-693
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q1,44-45,Retail Trade,-535
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q1,44-45,Retail Trade,-1021
@@ -3143,7 +3232,6 @@ Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,44-4
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,44-45,Retail Trade,345
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,44-45,Retail Trade,229
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,44-45,Retail Trade,1684
-Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,44-45,Retail Trade,1798
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,44-45,Retail Trade,1844
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,44-45,Retail Trade,1943
@@ -3174,7 +3262,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,44-45,Reta
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q4,44-45,Retail Trade,3091
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,44-45,Retail Trade,3102
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,44-45,Retail Trade,3280
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,3066
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,44-45,Retail Trade,3975
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,44-45,Retail Trade,2878
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,44-45,Retail Trade,2446
@@ -3208,7 +3295,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,44-45,
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,44-45,Retail Trade,4152
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,44-45,Retail Trade,12.5
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,44-45,Retail Trade,3485
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,14.000000000000002
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail Trade,12.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.600000000000001
@@ -3239,7 +3325,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,44-45,R
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,13.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,12.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,12.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,14567
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,14396
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,44-45,Retail Trade,14444
@@ -3271,7 +3356,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,44-45,Retail T
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,44-45,Retail Trade,13773
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,44-45,Retail Trade,13597
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,44-45,Retail Trade,14159
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,13789
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,48-49,Transportation and Warehousing,5366
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,48-49,Transportation and Warehousing,4419
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,48-49,Transportation and Warehousing,4511
@@ -3303,7 +3387,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,48-4
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q4,48-49,Transportation and Warehousing,5208
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,48-49,Transportation and Warehousing,5322
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,48-49,Transportation and Warehousing,5856
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,48-49,Transportation and Warehousing,-106
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,48-49,Transportation and Warehousing,-45
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,48-49,Transportation and Warehousing,-93
@@ -3336,7 +3419,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,48-4
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,48-49,Transportation and Warehousing,79
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,48-49,Transportation and Warehousing,147
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,48-49,Transportation and Warehousing,238
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,48-49,Transportation and Warehousing,186
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,48-49,Transportation and Warehousing,192
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,48-49,Transportation and Warehousing,252
@@ -3367,7 +3449,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,48-49,Tran
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,48-49,Transportation and Warehousing,481
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,48-49,Transportation and Warehousing,434
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,48-49,Transportation and Warehousing,399
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,458
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,48-49,Transportation and Warehousing,283
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,48-49,Transportation and Warehousing,333
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,48-49,Transportation and Warehousing,696
@@ -3396,7 +3477,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q3,48-49,
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q3,48-49,Transportation and Warehousing,653
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,48-49,Transportation and Warehousing,406
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,48-49,Transportation and Warehousing,460
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,48-49,Transportation and Warehousing,479
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,48-49,Transportation and Warehousing,436
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,48-49,Transportation and Warehousing,660
@@ -3432,7 +3512,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,T
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,6.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,9.2
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,3609
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,48-49,Transportation and Warehousing,3272
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,48-49,Transportation and Warehousing,3352
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,48-49,Transportation and Warehousing,3223
@@ -3463,7 +3542,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,48-49,Transpor
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,48-49,Transportation and Warehousing,2822
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,48-49,Transportation and Warehousing,3311
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,48-49,Transportation and Warehousing,3203
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,3118
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,22,Utilities,24054
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,22,Utilities,25083
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,22,Utilities,26452
@@ -3495,7 +3573,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,22,U
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,22,Utilities,11058
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,22,Utilities,11417
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,22,Utilities,11689
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,22,Utilities,9
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,22,Utilities,-15
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q1,22,Utilities,-9
@@ -3528,7 +3605,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,22,U
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,22,Utilities,6
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,22,Utilities,17
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,22,Utilities,73
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,22,Utilities,46
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,22,Utilities,154
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q1,22,Utilities,60
@@ -3559,7 +3635,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,22,Utiliti
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,22,Utilities,38
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,22,Utilities,97
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,22,Utilities,82
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,60
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,22,Utilities,74
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,22,Utilities,191
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,22,Utilities,82
@@ -3591,7 +3666,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q4,22,Uti
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,22,Utilities,98
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,22,Utilities,47
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,22,Utilities,69
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,22,Utilities,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,2
@@ -3623,7 +3697,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,22,Util
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,22,Utilities,2.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,2.8000000000000003
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities,3
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,22,Utilities,2131
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,22,Utilities,2106
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q1,22,Utilities,2085
@@ -3654,7 +3727,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q4,22,Utilities,2
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,22,Utilities,2067
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,22,Utilities,1502
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,22,Utilities,1476
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,22,Utilities,1465
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,42,Wholesale Trade,5141
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,22,Utilities,1399
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,42,Wholesale Trade,5054
@@ -3686,7 +3758,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q4,42,W
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2018Q4,42,Wholesale Trade,6156
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2019Q4,42,Wholesale Trade,6266
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2020Q4,42,Wholesale Trade,7784
-Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,0
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2021Q4,42,Wholesale Trade,8426
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q1,42,Wholesale Trade,12
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q1,42,Wholesale Trade,24
@@ -3719,7 +3790,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2018Q4,42,W
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,42,Wholesale Trade,51
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q4,42,Wholesale Trade,21
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q4,42,Wholesale Trade,-17
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2016Q1,42,Wholesale Trade,163
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2015Q1,42,Wholesale Trade,115
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2017Q1,42,Wholesale Trade,142
@@ -3752,7 +3822,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,42,Wholesa
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,42,Wholesale Trade,131
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,42,Wholesale Trade,123
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,42,Wholesale Trade,122
-New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,103
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,42,Wholesale Trade,156
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q1,42,Wholesale Trade,125
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,42,Wholesale Trade,170
@@ -3783,7 +3852,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q4,42,Who
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q4,42,Wholesale Trade,84
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,42,Wholesale Trade,160
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,145
-Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,8.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,7.000000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale Trade,7.199999999999999
@@ -3815,7 +3883,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,42,Whol
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,5.6000000000000005
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,42,Wholesale Trade,8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,42,Wholesale Trade,6.2
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,1440
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,1342
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,42,Wholesale Trade,1448
@@ -3846,7 +3913,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2016Q4,42,Wholesale T
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2018Q4,42,Wholesale Trade,1416
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q4,42,Wholesale Trade,1355
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2020Q4,42,Wholesale Trade,1348
-Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,1453
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A01,14-18,680
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2021Q4,42,Wholesale Trade,1463
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A01,14-18,623
@@ -3877,7 +3943,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q3,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q4,A01,14-18,726
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A01,14-18,799
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A01,14-18,758
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A01,14-18,1028
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A01,14-18,1001
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A02,19-21,1112
@@ -3910,7 +3975,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A02,19-21,1467
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A02,19-21,1523
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A02,19-21,1757
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A03,22-24,1995
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A03,22-24,2030
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A03,22-24,2246
@@ -3944,7 +4008,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A03,22-24,3238
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A03,22-24,2446
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A04,25-34,3674
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A04,25-34,3633
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A04,25-34,3938
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A04,25-34,3829
@@ -3975,7 +4038,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A04,25-34,4015
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A04,25-34,4812
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A04,25-34,4898
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A05,35-44,5233
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A05,35-44,5069
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A05,35-44,5527
@@ -4007,7 +4069,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A05,35-44,5409
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A05,35-44,6179
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A05,35-44,6431
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A06,45-54,5481
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A06,45-54,5508
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A06,45-54,5869
@@ -4039,7 +4100,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A06,45-54,5788
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A06,45-54,6899
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A06,45-54,7117
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A07,55-64,5245
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A07,55-64,5776
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A07,55-64,5320
@@ -4071,7 +4131,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,5777
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A07,55-64,7119
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A07,55-64,7084
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,0
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A01,14-18,2777
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A01,14-18,2974
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A01,14-18,3303
@@ -4103,7 +4162,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A01,14-18,3257
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A01,14-18,3475
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A01,14-18,3993
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A01,14-18,3238
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A01,14-18,3966
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A02,19-21,5102
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A02,19-21,5141
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q1,A02,19-21,5100
@@ -4136,7 +4194,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A02,19-21,5118
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A02,19-21,4711
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A02,19-21,5035
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A03,22-24,5953
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A02,19-21,5132
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A03,22-24,5824
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A03,22-24,5717
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q1,A03,22-24,5499
@@ -4165,7 +4222,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q4,A03,22-24,5571
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A03,22-24,5430
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A03,22-24,4986
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A03,22-24,5571
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A03,22-24,5205
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A03,22-24,5324
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A04,25-34,19410
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A04,25-34,19721
@@ -4198,7 +4254,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A04,25-34,19441
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A04,25-34,19811
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A04,25-34,17918
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A04,25-34,18960
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A04,25-34,19003
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A05,35-44,17525
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A05,35-44,17987
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q1,A05,35-44,17522
@@ -4230,7 +4285,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A05,35-44,18189
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A05,35-44,17850
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A05,35-44,17269
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A05,35-44,18239
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A05,35-44,18770
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A06,45-54,21182
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A06,45-54,21235
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A06,45-54,21314
@@ -4265,7 +4319,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A06,45-54,17816
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q1,A07,55-64,14628
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A07,55-64,15182
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A07,55-64,15936
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A06,45-54,17771
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q1,A07,55-64,15939
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A05,35-44,17575
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q1,A07,55-64,17100
@@ -4295,7 +4348,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A07,55-64,16512
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A07,55-64,16754
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A07,55-64,16227
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A07,55-64,17052
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A07,55-64,17332
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A01,14-18,689
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A01,14-18,773
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q1,A01,14-18,849
@@ -4326,7 +4378,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q4,A01,14-18,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A01,14-18,1122
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A01,14-18,1266
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A01,14-18,1153
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A01,14-18,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A01,14-18,1728
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A02,19-21,1503
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A02,19-21,1470
@@ -4357,7 +4408,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q4,A02,19-21,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2017Q4,A02,19-21,1666
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A02,19-21,1540
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A02,19-21,1676
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A02,19-21,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A02,19-21,1625
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A02,19-21,2021
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A03,22-24,1394
@@ -4391,7 +4441,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A03,22-24,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A03,22-24,1457
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A03,22-24,1687
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A03,22-24,1299
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A03,22-24,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A04,25-34,2881
 Separations,Southern Maryland WIA,Maryland Separations by Age,2017Q1,A04,25-34,3471
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A04,25-34,2961
@@ -4425,7 +4474,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A04,25-34,3
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A04,25-34,4438
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A05,35-44,1958
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A05,35-44,1975
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A04,25-34,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2017Q1,A05,35-44,2418
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q1,A05,35-44,1986
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q1,A05,35-44,2087
@@ -4455,7 +4503,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A05,35-44,2
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A05,35-44,2199
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A05,35-44,2423
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A05,35-44,3033
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A05,35-44,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A06,45-54,1967
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A06,45-54,1989
 Separations,Southern Maryland WIA,Maryland Separations by Age,2017Q1,A06,45-54,2384
@@ -4487,7 +4534,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A06,45-54,2
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A06,45-54,2020
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A06,45-54,1919
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A06,45-54,2404
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A06,45-54,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A07,55-64,1284
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A07,55-64,1305
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q1,A07,55-64,1394
@@ -4518,7 +4564,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A07,55-64,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A07,55-64,2059
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A07,55-64,1674
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A07,55-64,1639
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A07,55-64,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q1,1,Male,5494
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q1,1,Male,5579
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q1,1,Male,6044
@@ -4549,7 +4594,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q4,1,Male,5884
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q4,1,Male,5698
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q4,1,Male,6900
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q4,1,Male,6869
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q1,2,Female,3279
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q1,2,Female,3259
@@ -4581,7 +4625,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Female,3894
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q4,2,Female,3755
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q4,2,Female,4599
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q4,2,Female,4718
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2015Q1,1,Male,43992
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2017Q1,1,Male,46536
@@ -4614,7 +4657,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Gender,2020Q4,1,Male,42608
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2019Q4,1,Male,44611
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2022Q2,1,Male,44580
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2021Q4,1,Male,45066
-Workers,Southern Maryland WIA,Maryland Workers by Gender,2022Q4,1,Male,45362
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2015Q1,2,Female,47737
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2017Q1,2,Female,48755
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2016Q1,2,Female,48128
@@ -4646,7 +4688,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Gender,2018Q4,2,Female,49085
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2019Q4,2,Female,49668
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2020Q4,2,Female,45447
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2021Q4,2,Female,48191
-Workers,Southern Maryland WIA,Maryland Workers by Gender,2022Q4,2,Female,49407
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2015Q1,1,Male,6608
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2016Q1,1,Male,6567
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2017Q1,1,Male,8193
@@ -4678,7 +4719,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Gender,2018Q4,1,Male,7
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2019Q4,1,Male,7435
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2020Q4,1,Male,6621
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2021Q4,1,Male,8864
-Separations,Southern Maryland WIA,Maryland Separations by Gender,2022Q4,1,Male,0
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2015Q1,2,Female,5602
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2016Q1,2,Female,5800
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2017Q1,2,Female,6310
@@ -4712,7 +4752,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Gender,2019Q4,2,Female
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2021Q4,2,Female,9607
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2015Q1,E1,Less than High school,-62
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q1,E1,Less than High school,-49
-Separations,Southern Maryland WIA,Maryland Separations by Gender,2022Q4,2,Female,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2016Q1,E1,Less than High school,63
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2017Q1,E1,Less than High school,-173
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2019Q1,E1,Less than High school,-35
@@ -4741,7 +4780,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2016Q4,E1,
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q4,E1,Less than High school,-122
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2019Q4,E1,Less than High school,-86
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2020Q4,E1,Less than High school,51
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2021Q4,E1,Less than High school,-167
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2015Q1,E2,"High school or equivalent, no college",-174
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2016Q1,E2,"High school or equivalent, no college",182
@@ -4774,7 +4812,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q4,E2,
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2019Q4,E2,"High school or equivalent, no college",-94
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2020Q4,E2,"High school or equivalent, no college",47
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2021Q4,E2,"High school or equivalent, no college",-346
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2015Q1,E3,Some college or Associate degree,-180
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2017Q1,E3,Some college or Associate degree,-272
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2016Q1,E3,Some college or Associate degree,211
@@ -4806,7 +4843,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2019Q4,E3,
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q4,E3,Some college or Associate degree,-171
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2020Q4,E3,Some college or Associate degree,149
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2021Q4,E3,Some college or Associate degree,-349
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2015Q1,E4,Bachelor's degree or advanced degree,-45
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q1,E4,Bachelor's degree or advanced degree,36
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2017Q1,E4,Bachelor's degree or advanced degree,-83
@@ -4838,7 +4874,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2018Q4,E4,
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2019Q4,E4,Bachelor's degree or advanced degree,-2
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2021Q4,E4,Bachelor's degree or advanced degree,-370
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2020Q4,E4,Bachelor's degree or advanced degree,175
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2015Q1,E1,Less than High school,1187
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2016Q1,E1,Less than High school,1367
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q1,E1,Less than High school,1458
@@ -4870,7 +4905,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2020Q4,E1,Less t
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2018Q4,E1,Less than High school,1494
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2019Q4,E1,Less than High school,1552
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2021Q4,E1,Less than High school,1817
-New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1559
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q1,E2,"High school or equivalent, no college",2575
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2016Q1,E2,"High school or equivalent, no college",2489
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2015Q1,E2,"High school or equivalent, no college",2124
@@ -4900,7 +4934,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2016Q4,E2,"High 
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q4,E2,"High school or equivalent, no college",2444
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2018Q4,E2,"High school or equivalent, no college",2538
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2019Q4,E2,"High school or equivalent, no college",2621
-New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",2584
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2020Q4,E2,"High school or equivalent, no college",2293
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2021Q4,E2,"High school or equivalent, no college",2969
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2015Q1,E3,Some college or Associate degree,2155
@@ -4934,7 +4967,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q4,E3,Some c
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2019Q4,E3,Some college or Associate degree,2710
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2020Q4,E3,Some college or Associate degree,2394
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2021Q4,E3,Some college or Associate degree,3147
-New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,2727
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2015Q1,E4,Bachelor's degree or advanced degree,1536
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2016Q1,E4,Bachelor's degree or advanced degree,1714
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q1,E4,Bachelor's degree or advanced degree,1749
@@ -4966,7 +4998,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2018Q4,E4,Bachel
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2020Q4,E4,Bachelor's degree or advanced degree,1761
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2019Q4,E4,Bachelor's degree or advanced degree,1905
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2021Q4,E4,Bachelor's degree or advanced degree,2269
-New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,1961
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less than High school,0.099
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.106
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E1,Less than High school,0.106
@@ -4999,7 +5030,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E1,Les
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than High school,0.113
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.088
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.096
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.081
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High school or equivalent, no college",0.084
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E2,"High school or equivalent, no college",0.089
@@ -5033,7 +5063,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E2,"Hi
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.076
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.081
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.078
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.084
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.078
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.077
@@ -5062,7 +5091,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E3,Som
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some college or Associate degree,0.072
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some college or Associate degree,0.091
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some college or Associate degree,0.074
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.079
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.067
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.07
@@ -5094,7 +5122,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E4,Bac
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor's degree or advanced degree,0.081
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E4,Bachelor's degree or advanced degree,0.065
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,-43
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.068
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,-525
@@ -5128,7 +5155,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2019Q4,1,Male
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2020Q4,1,Male,402
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2021Q4,1,Male,-728
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q1,0,All,4327
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q1,0,All,4369
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2019Q1,0,All,4560
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,4713
@@ -5159,7 +5185,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2019Q4,0,All,4827
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q4,0,All,5687
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2021Q4,0,All,5765
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.094
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.103
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.1
@@ -5191,7 +5216,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2018Q4,1,Male,0.
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.105
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2020Q4,1,Male,0.088
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.094
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2015Q1,2,Female,0.093
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0.096
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.096
@@ -5222,7 +5246,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2019Q4,2,Female,0.118
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2018Q4,2,Female,0.089
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2020Q4,2,Female,0.099
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.101
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2015Q1,0,All,12210
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2018Q1,0,All,12983
@@ -5256,7 +5279,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Gender All,2019Q4,0,Al
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2020Q4,0,All,13878
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2021Q4,0,All,18471
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.094
-Separations,Southern Maryland WIA,Maryland Separations by Gender All,2022Q4,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.098
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.099
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.092
@@ -5288,7 +5310,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2019Q4,0,All
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.093
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.098
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),3161
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),3709
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3591
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),3575
@@ -5318,7 +5339,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2017Q4,E5,Educat
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2018Q4,E5,Educational attainment not available (workers aged 24 or younger),4294
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),4467
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),5135
-New Hires,Southern Maryland WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),4228
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),4338
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2015Q1,0,All Sexes,91729
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2016Q1,0,All Sexes,93050
@@ -5351,7 +5371,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Gender All,2018Q4,0,All Sexes,
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2019Q4,0,All Sexes,94279
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2020Q4,0,All Sexes,88055
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2021Q4,0,All Sexes,93257
-Workers,Southern Maryland WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,94769
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2016Q1,A00,All Ages,93050
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2015Q1,A00,All Ages,91729
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2017Q1,A00,All Ages,95292
@@ -5399,7 +5418,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age All,2020Q4,A00,All Ages,88
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2022Q2,2,Female,1005
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2021Q2,2,Female,1879
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2021Q4,A00,All Ages,93257
-Workers,Southern Maryland WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,94769
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-528
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-413
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2019Q3,2,Female,-495
@@ -5415,7 +5433,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2018Q4,2,Fema
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2019Q4,2,Female,433
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2020Q4,2,Female,742
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2021Q4,2,Female,-423
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2016Q1,0,All,1246
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2015Q1,0,All,-267
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2017Q1,0,All,-523
@@ -5463,7 +5480,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2021Q4,0,
 Workers,Southern Maryland WIA,Maryland Workers by Age,2015Q3,A08,65-99,5333
 Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q2,A08,65-99,7070
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2015Q4,0,All,643
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,0
 Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q3,A08,65-99,5599
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q2,A08,65-99,5967
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q3,A08,65-99,6276
@@ -5478,7 +5494,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q4,A08,65-99,6375
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q4,A08,65-99,5755
 Workers,Southern Maryland WIA,Maryland Workers by Age,2020Q4,A08,65-99,6138
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q4,A08,65-99,6839
-Workers,Southern Maryland WIA,Maryland Workers by Age,2022Q4,A08,65-99,7591
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A08,65-99,550
 Separations,Southern Maryland WIA,Maryland Separations by Age,2016Q1,A08,65-99,557
 Separations,Southern Maryland WIA,Maryland Separations by Age,2017Q1,A08,65-99,639
@@ -5509,7 +5524,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q4,A08,65-99,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2019Q4,A08,65-99,872
 Separations,Southern Maryland WIA,Maryland Separations by Age,2020Q4,A08,65-99,985
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q4,A08,65-99,1101
-Separations,Southern Maryland WIA,Maryland Separations by Age,2022Q4,A08,65-99,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2016Q1,1,Male,6414
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2015Q1,1,Male,5638
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2017Q1,1,Male,6576
@@ -5541,7 +5555,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2017Q4,1,Male,5995
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2019Q4,1,Male,6142
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2020Q4,1,Male,5729
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2015Q1,2,Female,4525
-New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2022Q4,1,Male,6016
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2021Q4,1,Male,7144
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2018Q1,2,Female,5500
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2017Q1,2,Female,5473
@@ -5575,7 +5588,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2020Q4,2,Female,645
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2021Q4,2,Female,8193
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A08,65-99,3491
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A08,65-99,3538
-New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2022Q4,2,Female,7043
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A08,65-99,3670
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q1,A08,65-99,4589
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A08,65-99,3756
@@ -5603,7 +5615,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A08,65-99,4174
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,5908
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A08,65-99,5494
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,0
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,-267
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,1246
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2017Q1,E0,All Education Categories,-523
@@ -5635,7 +5646,6 @@ Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2018Q4
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2019Q4,E0,All Education Categories,187
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2020Q4,E0,All Education Categories,1144
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2021Q4,E0,All Education Categories,-1151
-Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,0
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2015Q1,E0,All Education Categories,12210
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2016Q1,E0,All Education Categories,12368
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2017Q1,E0,All Education Categories,14502
@@ -5670,7 +5680,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q3,A
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2018Q1,E0,All Education Categories,12983
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2020Q4,E0,All Education Categories,13878
 Separations,Southern Maryland WIA,Maryland Separations by Education,2016Q1,E1,Less than High school,1506
-Separations,Southern Maryland WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,0
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2021Q4,E0,All Education Categories,18471
 Separations,Southern Maryland WIA,Maryland Separations by Education,2015Q1,E1,Less than High school,1416
 Separations,Southern Maryland WIA,Maryland Separations by Education,2017Q1,E1,Less than High school,1822
@@ -5702,7 +5711,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Education,2018Q4,E1,Le
 Separations,Southern Maryland WIA,Maryland Separations by Education,2019Q4,E1,Less than High school,1880
 Separations,Southern Maryland WIA,Maryland Separations by Education,2021Q4,E1,Less than High school,2201
 Separations,Southern Maryland WIA,Maryland Separations by Education,2020Q4,E1,Less than High school,1674
-Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,0
 Separations,Southern Maryland WIA,Maryland Separations by Education,2015Q1,E2,"High school or equivalent, no college",2630
 Separations,Southern Maryland WIA,Maryland Separations by Education,2017Q1,E2,"High school or equivalent, no college",3357
 Separations,Southern Maryland WIA,Maryland Separations by Education,2016Q1,E2,"High school or equivalent, no college",2737
@@ -5734,7 +5742,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Education,2018Q4,E2,"H
 Separations,Southern Maryland WIA,Maryland Separations by Education,2019Q4,E2,"High school or equivalent, no college",3204
 Separations,Southern Maryland WIA,Maryland Separations by Education,2020Q4,E2,"High school or equivalent, no college",2914
 Separations,Southern Maryland WIA,Maryland Separations by Education,2021Q4,E2,"High school or equivalent, no college",3763
-Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",0
 Separations,Southern Maryland WIA,Maryland Separations by Education,2018Q1,E3,Some college or Associate degree,2836
 Separations,Southern Maryland WIA,Maryland Separations by Education,2016Q1,E3,Some college or Associate degree,2643
 Separations,Southern Maryland WIA,Maryland Separations by Education,2015Q1,E3,Some college or Associate degree,2696
@@ -5766,7 +5773,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Education,2017Q4,E3,So
 Separations,Southern Maryland WIA,Maryland Separations by Education,2019Q4,E3,Some college or Associate degree,3319
 Separations,Southern Maryland WIA,Maryland Separations by Education,2020Q4,E3,Some college or Associate degree,2988
 Separations,Southern Maryland WIA,Maryland Separations by Education,2021Q4,E3,Some college or Associate degree,3967
-Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,0
 Separations,Southern Maryland WIA,Maryland Separations by Education,2015Q1,E4,Bachelor's degree or advanced degree,1914
 Separations,Southern Maryland WIA,Maryland Separations by Education,2016Q1,E4,Bachelor's degree or advanced degree,1885
 Separations,Southern Maryland WIA,Maryland Separations by Education,2017Q1,E4,Bachelor's degree or advanced degree,2158
@@ -5798,7 +5804,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Education,2018Q4,E4,Ba
 Separations,Southern Maryland WIA,Maryland Separations by Education,2019Q4,E4,Bachelor's degree or advanced degree,2438
 Separations,Southern Maryland WIA,Maryland Separations by Education,2020Q4,E4,Bachelor's degree or advanced degree,2246
 Separations,Southern Maryland WIA,Maryland Separations by Education,2021Q4,E4,Bachelor's degree or advanced degree,3105
-Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Separations,Southern Maryland WIA,Maryland Separations by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),3553
 Separations,Southern Maryland WIA,Maryland Separations by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),3929
 Separations,Southern Maryland WIA,Maryland Separations by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3597
@@ -5830,7 +5835,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Education,2018Q4,E5,Ed
 Separations,Southern Maryland WIA,Maryland Separations by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),4400
 Separations,Southern Maryland WIA,Maryland Separations by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),4077
 Separations,Southern Maryland WIA,Maryland Separations by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),5436
-Separations,Southern Maryland WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),194
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),615
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),395
@@ -5923,7 +5927,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2018
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q4,A00,All Ages,4827
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q4,A00,All Ages,5687
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q4,A00,All Ages,5765
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,0
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2015Q1,A00,All Ages,12210
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2016Q1,A00,All Ages,12368
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2017Q1,A00,All Ages,14502
@@ -5945,7 +5948,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age All,2017Q3,A00,All
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2018Q3,A00,All Ages,17022
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2019Q3,A00,All Ages,16625
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2020Q3,A00,All Ages,13771
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),81
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2020Q3,E5,Educational attainment not available (workers aged 24 or younger),1052
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2021Q3,A00,All Ages,17602
@@ -5957,7 +5959,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Age All,2018Q4,A00,All
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2019Q4,A00,All Ages,15241
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2020Q4,A00,All Ages,13878
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2021Q4,A00,All Ages,18471
-Separations,Southern Maryland WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.094
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.098
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.099
@@ -5987,7 +5988,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2018Q4,E0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.112
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.093
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Education Categories,0.098
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.098
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.094
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.088

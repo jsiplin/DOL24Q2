@@ -1,4 +1,222 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
+
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,1498
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,6692
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1225
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,7395
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,578
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,3364
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",70
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",846
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",163
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1560
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,23,Construction,387
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,23,Construction,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,23,Construction,4175
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,756
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,6230
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,117
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,1339
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,51,Information,85
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,51,Information,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,51,Information,797
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,25
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,292
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,916
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,7154
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",21
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),290
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),2321
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",304
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",3155
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,400
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,3237
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,54
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,576
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,TBD
+Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,1488
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,7714
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,272
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,2464
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,5
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,22,Utilities,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,22,Utilities,165
+Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,225
+Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,2547
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,TBD
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A01,14-18,2518
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A02,19-21,2900
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A03,22-24,3237
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A04,25-34,11718
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A05,35-44,11926
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A06,45-54,11490
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A07,55-64,11816
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A01,14-18,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A02,19-21,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A03,22-24,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A04,25-34,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A05,35-44,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A06,45-54,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A07,55-64,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,TBD
+Workers,Upper Shore WIA,Maryland Workers by Gender,2022Q4,1,Male,30106
+Workers,Upper Shore WIA,Maryland Workers by Gender,2022Q4,2,Female,31937
+Separations,Upper Shore WIA,Maryland Separations by Gender,2022Q4,1,Male,TBD
+Separations,Upper Shore WIA,Maryland Separations by Gender,2022Q4,2,Female,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1071
+New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",1881
+New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,1936
+New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,1373
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Separations,Upper Shore WIA,Maryland Separations by Gender All,2022Q4,0,All,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),2603
+Workers,Upper Shore WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,62043
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,TBD
+Workers,Upper Shore WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,62043
+Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A08,65-99,6438
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A08,65-99,TBD
+New Hires,Upper Shore WIA,Maryland New Hires by Gender,2022Q4,1,Male,3930
+New Hires,Upper Shore WIA,Maryland New Hires by Gender,2022Q4,2,Female,4933
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,TBD
+Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Upper Shore WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,TBD
+Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,TBD
+Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,TBD
+Separations,Upper Shore WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,TBD
+Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,TBD
+
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1466
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1484
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,72,Accommodation and Food Services,1543
@@ -30,7 +248,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,72,Accommo
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,72,Accommodation and Food Services,1934
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,72,Accommodation and Food Services,2108
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2366
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,72,Accommodation and Food Services,34
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,72,Accommodation and Food Services,-31
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,72,Accommodation and Food Services,56
@@ -62,7 +279,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,72,Accommo
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,72,Accommodation and Food Services,-780
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,72,Accommodation and Food Services,-770
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,72,Accommodation and Food Services,-869
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,72,Accommodation and Food Services,1065
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,72,Accommodation and Food Services,1203
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q1,72,Accommodation and Food Services,1291
@@ -95,7 +311,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,72,Accommodation
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,72,Accommodation and Food Services,1130
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,1708
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,72,Accommodation and Food Services,1229
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,1498
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,72,Accommodation and Food Services,1414
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,72,Accommodation and Food Services,1531
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,72,Accommodation and Food Services,1638
@@ -126,7 +341,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,72,Accommoda
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,72,Accommodation and Food Services,2691
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,72,Accommodation and Food Services,2170
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,72,Accommodation and Food Services,14.7
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,72,Accommodation and Food Services,2619
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,14.799999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,14.299999999999999
@@ -152,14 +366,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,72,Accommodat
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,72,Accommodation and Food Services,28.599999999999998
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,72,Accommodation and Food Services,14.799999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,72,Accommodation and Food Services,15
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,72,Accommodation and Food Services,14.000000000000002
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommodation and Food Services,15.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,72,Accommodation and Food Services,22
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,17
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,6342
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,19.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,72,Accommodation and Food Services,6643
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,72,Accommodation and Food Services,6821
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q1,72,Accommodation and Food Services,6920
@@ -192,7 +404,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,72,Accommodation and
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,72,Accommodation and Food Services,6915
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,62,Health Care and Social Assistance,3521
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,62,Health Care and Social Assistance,3470
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,6692
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,62,Health Care and Social Assistance,3704
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q1,62,Health Care and Social Assistance,3786
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q1,62,Health Care and Social Assistance,3860
@@ -223,7 +434,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,62,Health 
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,62,Health Care and Social Assistance,5307
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,62,Health Care and Social Assistance,5013
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,62,Health Care and Social Assistance,-5
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,62,Health Care and Social Assistance,394
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,62,Health Care and Social Assistance,25
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,62,Health Care and Social Assistance,117
@@ -252,7 +462,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q3,62,Health 
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,62,Health Care and Social Assistance,-245
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,62,Health Care and Social Assistance,-6
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,62,Health Care and Social Assistance,-104
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,62,Health Care and Social Assistance,-131
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,62,Health Care and Social Assistance,26
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,62,Health Care and Social Assistance,534
@@ -281,7 +490,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q4,62,Health Care a
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,62,Health Care and Social Assistance,797
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q2,62,Health Care and Social Assistance,786
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,62,Health Care and Social Assistance,847
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1225
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q3,62,Health Care and Social Assistance,925
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,62,Health Care and Social Assistance,788
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,62,Health Care and Social Assistance,647
@@ -317,14 +525,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q4,E5,Education
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),0.222,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),0.235,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.204,
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,866
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,902
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,825
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,62,Health Care and Social Assistance,1133
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,62,Health Care and Social Assistance,957
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,62,Health Care and Social Assistance,927
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,62,Health Care and Social Assistance,6.7
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,62,Health Care and Social Assistance,1088
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health Care and Social Assistance,7.5
@@ -350,7 +556,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Car
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,62,Health Care and Social Assistance,7.3999999999999995
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,62,Health Care and Social Assistance,6.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,62,Health Care and Social Assistance,9
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,62,Health Care and Social Assistance,7.3999999999999995
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,62,Health Care and Social Assistance,7.199999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,62,Health Care and Social Assistance,7.000000000000001
@@ -358,7 +563,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Car
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,62,Health Care and Social Assistance,7.000000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Care and Social Assistance,8.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,8.5
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,8303
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,8310
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,62,Health Care and Social Assistance,8447
@@ -390,7 +594,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q4,62,Health Care and S
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,62,Health Care and Social Assistance,8423
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,62,Health Care and Social Assistance,7504
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,62,Health Care and Social Assistance,7613
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,7395
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2489
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,2270
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,2793
@@ -422,7 +625,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,56,Adminis
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,3487
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,4144
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,4389
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,58
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,102
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,60
@@ -454,7 +656,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,56,Adminis
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,-128
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,-97
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,-130
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,637
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,836
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,938
@@ -485,7 +686,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,56,Administrativ
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,775
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,918
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,909
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,578
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,683
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,941
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,888
@@ -517,7 +717,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,56,Administr
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,1190
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,1243
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,1171
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,1154
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,13.600000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,11.899999999999999
@@ -542,14 +741,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,56,Administra
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,17.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,14.099999999999998
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,56,Administrative and Support and Waste Management and Remediation Services,16.6
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,56,Administrative and Support and Waste Management and Remediation Services,12.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,56,Administrative and Support and Waste Management and Remediation Services,13.900000000000002
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,13.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,12.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,15.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,13.4
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,14.899999999999999
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2399
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,2727
@@ -582,7 +779,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,56,Administrative an
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,3214
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,3320
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,3383
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,3364
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",2874
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",2968
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",3088
@@ -614,7 +810,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,11,"Agricu
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",4223
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",3649
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",4336
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",214
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",107
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",83
@@ -643,7 +838,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q4,11,"Agricu
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",-146
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",-167
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",-131
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",-212
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",-127
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",-130
@@ -679,7 +873,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,11,"Agriculture,
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",57
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",66
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",102
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",70
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",108
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",140
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",135
@@ -711,7 +904,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,11,"Agricult
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",227
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",313
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",5.6000000000000005
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
@@ -734,14 +926,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,11,"Agricultu
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",14.299999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,11,"Agriculture, Forestry, Fishing and Hunting",12.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,11,"Agriculture, Forestry, Fishing and Hunting",17.599999999999998
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",4.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",5.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",5.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",6
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.1
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",1041
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",1064
@@ -774,7 +964,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,11,"Agriculture, For
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",1264
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",1126
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",1150
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",846
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1719
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1872
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1926
@@ -806,7 +995,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,71,"Arts, 
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",2893
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",2224
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",2845
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",24
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",15
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",64
@@ -838,7 +1026,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,71,"Arts, 
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",-157
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",-181
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",-138
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",164
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",135
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",137
@@ -871,7 +1058,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,71,"Arts, Entert
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",152
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",192
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",149
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",163
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",136
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",139
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",417
@@ -904,7 +1090,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,71,"Arts, En
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",387
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",11
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",9.2
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",10.100000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",13.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",8.3
@@ -925,7 +1110,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Ent
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",20
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",18.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,71,"Arts, Entertainment, and Recreation",15.9
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,71,"Arts, Entertainment, and Recreation",22.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,71,"Arts, Entertainment, and Recreation",9.700000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",10
@@ -934,7 +1118,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Arts, Ent
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",16.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",12.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",10.299999999999999
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1203
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1233
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1297
@@ -966,7 +1149,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,71,"Arts, Entertainm
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q4,71,"Arts, Entertainment, and Recreation",1432
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",1473
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",1385
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1560
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,23,Construction,3321
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,23,Construction,3283
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q1,23,Construction,3981
@@ -998,7 +1180,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,23,Constru
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,23,Construction,4567
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,23,Construction,4965
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,23,Construction,5168
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,23,Construction,-19
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,23,Construction,200
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q1,23,Construction,-12
@@ -1030,7 +1211,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,23,Constru
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,23,Construction,-198
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,23,Construction,-44
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,23,Construction,-146
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,23,Construction,519
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,23,Construction,600
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,23,Construction,468
@@ -1060,7 +1240,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q4,23,Construction,
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,23,Construction,526
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,23,Construction,507
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,23,Construction,393
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,23,Construction,387
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,23,Construction,423
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,23,Construction,446
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,23,Construction,470
@@ -1093,7 +1272,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,23,Construct
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,23,Construction,706
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,23,Construction,612
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,23,Construction,663
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,23,Construction,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,9.700000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,23,Construction,8.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,8.1
@@ -1118,7 +1296,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q3,23,Construct
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,23,Construction,11.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,23,Construction,10.299999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,23,Construction,10.7
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,23,Construction,8.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,23,Construction,9.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,23,Construction,9.2
@@ -1126,7 +1303,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,23,Constructi
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,23,Construction,9.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,23,Construction,8.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,7.9
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,23,Construction,3268
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,23,Construction,3313
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,23,Construction,3441
@@ -1158,7 +1334,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q4,23,Construction,3531
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,23,Construction,3949
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,23,Construction,3884
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,23,Construction,4050
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,23,Construction,4175
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,61,Educational Services,3472
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,61,Educational Services,3569
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,61,Educational Services,3740
@@ -1190,7 +1365,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,61,Educati
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,61,Educational Services,4112
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,61,Educational Services,4699
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,61,Educational Services,4950
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,61,Educational Services,98
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,61,Educational Services,104
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,61,Educational Services,120
@@ -1222,7 +1396,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,61,Educati
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,61,Educational Services,163
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,61,Educational Services,250
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,61,Educational Services,144
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,61,Educational Services,280
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,61,Educational Services,276
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,61,Educational Services,308
@@ -1254,7 +1427,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,61,Educational S
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,61,Educational Services,435
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,61,Educational Services,208
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,61,Educational Services,446
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,756
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,61,Educational Services,347
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,61,Educational Services,308
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,61,Educational Services,323
@@ -1286,7 +1458,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q4,61,Education
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,61,Educational Services,487
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,61,Educational Services,304
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,61,Educational Services,479
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educational Services,7.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,8.200000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,7.7
@@ -1309,7 +1480,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educationa
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,61,Educational Services,3.4000000000000004
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,61,Educational Services,2.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,61,Educational Services,3.4000000000000004
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,61,Educational Services,5.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,61,Educational Services,4.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,61,Educational Services,5.2
@@ -1318,7 +1488,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educationa
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,61,Educational Services,7.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,7.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,9.8
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,6360
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,6519
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,61,Educational Services,6461
@@ -1350,7 +1519,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,61,Educational Servi
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,61,Educational Services,6431
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,61,Educational Services,5935
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,61,Educational Services,6345
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,6230
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,52,Finance and Insurance,5469
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,52,Finance and Insurance,5319
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,52,Finance and Insurance,5750
@@ -1382,7 +1550,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,52,Finance
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,52,Finance and Insurance,6209
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,52,Finance and Insurance,6563
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,52,Finance and Insurance,6970
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,52,Finance and Insurance,3
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,52,Finance and Insurance,17
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,52,Finance and Insurance,7
@@ -1414,7 +1581,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,52,Finance
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,52,Finance and Insurance,-9
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,52,Finance and Insurance,-7
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,52,Finance and Insurance,-9
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,52,Finance and Insurance,97
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,52,Finance and Insurance,87
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,52,Finance and Insurance,106
@@ -1445,7 +1611,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,52,Finance and I
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,52,Finance and Insurance,76
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,52,Finance and Insurance,61
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,52,Finance and Insurance,74
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,117
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q2,52,Finance and Insurance,67
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,52,Finance and Insurance,90
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,52,Finance and Insurance,88
@@ -1475,7 +1640,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q4,52,Finance a
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q4,52,Finance and Insurance,108
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,52,Finance and Insurance,119
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,52,Finance and Insurance,102
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,52,Finance and Insurance,84
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,52,Finance and Insurance,5.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,52,Finance and Insurance,5.7
@@ -1501,7 +1665,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance an
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,52,Finance and Insurance,4.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,52,Finance and Insurance,5.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,52,Finance and Insurance,6.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,52,Finance and Insurance,4.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,52,Finance and Insurance,4.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,52,Finance and Insurance,5.3
@@ -1509,7 +1672,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,52,Finance an
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,4.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,5.6000000000000005
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,6.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,1502
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,1519
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q1,52,Finance and Insurance,1453
@@ -1541,7 +1703,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,52,Finance and Insur
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,52,Finance and Insurance,1338
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,52,Finance and Insurance,1139
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,52,Finance and Insurance,1133
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,1339
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,51,Information,4620
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,52,Finance and Insurance,93
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,51,Information,3734
@@ -1574,7 +1735,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,51,Informa
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,51,Information,4697
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,51,Information,5380
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,51,Information,5451
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,51,Information,38
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,51,Information,228
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,51,Information,-10
@@ -1605,7 +1765,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q4,51,Informa
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,51,Information,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,51,Information,-1
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,51,Information,-58
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,51,Information,1
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,51,Information,253
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,51,Information,36
@@ -1638,7 +1797,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,51,Information,6
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,51,Information,59
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,51,Information,39
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,51,Information,79
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,51,Information,85
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,51,Information,112
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,51,Information,99
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,51,Information,94
@@ -1670,7 +1828,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,51,Informati
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,51,Information,74
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,51,Information,114
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,51,Information,86
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,51,Information,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,51,Information,4.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,12
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,51,Information,4.3999999999999995
@@ -1693,7 +1850,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,51,Informatio
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,51,Information,6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,51,Information,6.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,51,Information,7.199999999999999
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,51,Information,9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,51,Information,5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,51,Information,6.4
@@ -1702,7 +1858,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,51,Informatio
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,9.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,51,Information,7.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,7.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,51,Information,788
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,51,Information,922
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,51,Information,1061
@@ -1732,7 +1887,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,51,Information,837
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,51,Information,856
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q4,51,Information,1064
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,51,Information,765
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,51,Information,797
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,51,Information,784
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,55,Management of Companies and Enterprises,4315
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,55,Management of Companies and Enterprises,6202
@@ -1766,7 +1920,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,55,Managem
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,55,Management of Companies and Enterprises,7346
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,55,Management of Companies and Enterprises,9594
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,55,Management of Companies and Enterprises,-8
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,55,Management of Companies and Enterprises,22
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,55,Management of Companies and Enterprises,20
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q1,55,Management of Companies and Enterprises,-1
@@ -1795,7 +1948,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,55,Managem
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,55,Management of Companies and Enterprises,-6
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,55,Management of Companies and Enterprises,3
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,55,Management of Companies and Enterprises,11
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,55,Management of Companies and Enterprises,17
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,55,Management of Companies and Enterprises,53
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,55,Management of Companies and Enterprises,43
@@ -1831,7 +1983,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,55,Management of
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,55,Management of Companies and Enterprises,41
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,55,Management of Companies and Enterprises,34
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,55,Management of Companies and Enterprises,28
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,25
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,55,Management of Companies and Enterprises,26
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,55,Management of Companies and Enterprises,19
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q1,55,Management of Companies and Enterprises,28
@@ -1862,7 +2013,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,55,Managemen
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,55,Management of Companies and Enterprises,40
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,55,Management of Companies and Enterprises,20
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,55,Management of Companies and Enterprises,3.8
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,4.1000000000000005
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,55,Management of Companies and Enterprises,5.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,5.2
@@ -1885,7 +2035,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,55,Management
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,55,Management of Companies and Enterprises,10.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,55,Management of Companies and Enterprises,8.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,55,Management of Companies and Enterprises,10.100000000000001
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,55,Management of Companies and Enterprises,4.3999999999999995
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,55,Management of Companies and Enterprises,4.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,55,Management of Companies and Enterprises,4.9
@@ -1909,7 +2058,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q2,55,Management of Com
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q2,55,Management of Companies and Enterprises,273
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q2,55,Management of Companies and Enterprises,252
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q2,55,Management of Companies and Enterprises,259
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q2,55,Management of Companies and Enterprises,288
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q3,55,Management of Companies and Enterprises,497
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q3,55,Management of Companies and Enterprises,490
@@ -1926,7 +2074,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,55,Management of Com
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,55,Management of Companies and Enterprises,298
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,55,Management of Companies and Enterprises,251
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,55,Management of Companies and Enterprises,281
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,292
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,31-33,Manufacturing,3916
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,31-33,Manufacturing,3515
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,31-33,Manufacturing,3483
@@ -1959,7 +2106,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,31-33,Manu
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,31-33,Manufacturing,5424
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,31-33,Manufacturing,5048
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,31-33,Manufacturing,-72
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,31-33,Manufacturing,-244
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,31-33,Manufacturing,7
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,31-33,Manufacturing,-15
@@ -1989,7 +2135,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,31-33,Manu
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,31-33,Manufacturing,-69
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,31-33,Manufacturing,-27
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,31-33,Manufacturing,234
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,31-33,Manufacturing,595
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,31-33,Manufacturing,492
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,31-33,Manufacturing,598
@@ -2022,7 +2167,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,31-33,Manufactur
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,31-33,Manufacturing,860
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,31-33,Manufacturing,859
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,31-33,Manufacturing,979
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,916
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,31-33,Manufacturing,736
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,31-33,Manufacturing,660
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,31-33,Manufacturing,821
@@ -2054,7 +2198,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,31-33,Manufa
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,31-33,Manufacturing,1140
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,31-33,Manufacturing,976
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,31-33,Manufacturing,1167
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manufacturing,6.800000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufacturing,8.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,7.3
@@ -2078,7 +2221,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufac
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,31-33,Manufacturing,10.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,31-33,Manufacturing,10.100000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,31-33,Manufacturing,9.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,31-33,Manufacturing,7.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,31-33,Manufacturing,6.6000000000000005
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,31-33,Manufacturing,7.000000000000001
@@ -2086,7 +2228,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,Manufac
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,31-33,Manufacturing,6.800000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufacturing,8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,7.5
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,31-33,Manufacturing,5886
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,31-33,Manufacturing,5919
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,31-33,Manufacturing,5754
@@ -2118,7 +2259,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,31-33,Manufacturing,
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,31-33,Manufacturing,6246
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,31-33,Manufacturing,6558
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,31-33,Manufacturing,6627
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,7154
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3766
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3915
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5477
@@ -2150,7 +2290,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,21,"Mining
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4566
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6423
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4835
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-12
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-22
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-5
@@ -2180,7 +2319,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,21,"Mining
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-6
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",19
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6
@@ -2211,7 +2349,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quar
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",45
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",21
@@ -2246,7 +2383,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,21,"Mining, 
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",10.100000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",12.3
@@ -2269,7 +2405,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Q
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",18.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",34.1
@@ -2278,7 +2413,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Q
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",148
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",66
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",103
@@ -2310,7 +2444,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Quarryin
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",32
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",26
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,81,Other Services (except Public Administration),2423
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",21
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,81,Other Services (except Public Administration),2476
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,81,Other Services (except Public Administration),2637
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q1,81,Other Services (except Public Administration),2731
@@ -2342,7 +2475,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,81,Other S
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,81,Other Services (except Public Administration),3484
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,81,Other Services (except Public Administration),3078
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,81,Other Services (except Public Administration),3632
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,81,Other Services (except Public Administration),31
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,81,Other Services (except Public Administration),70
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,81,Other Services (except Public Administration),10
@@ -2372,7 +2504,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,81,Other S
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,81,Other Services (except Public Administration),-34
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,81,Other Services (except Public Administration),-81
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,81,Other Services (except Public Administration),-59
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,81,Other Services (except Public Administration),-46
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,81,Other Services (except Public Administration),219
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,81,Other Services (except Public Administration),236
@@ -2406,7 +2537,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,81,Other Service
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,81,Other Services (except Public Administration),179
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,81,Other Services (except Public Administration),205
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,81,Other Services (except Public Administration),266
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),290
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,81,Other Services (except Public Administration),229
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,81,Other Services (except Public Administration),247
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,81,Other Services (except Public Administration),259
@@ -2439,7 +2569,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,81,Other Ser
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,81,Other Services (except Public Administration),309
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,81,Other Services (except Public Administration),7.6
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,81,Other Services (except Public Administration),355
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),8.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Services (except Public Administration),7.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.1
@@ -2465,12 +2594,10 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,81,Other Serv
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,81,Other Services (except Public Administration),7.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,81,Other Services (except Public Administration),8.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),9.6
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,81,Other Services (except Public Administration),9.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,81,Other Services (except Public Administration),14.2
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,81,Other Services (except Public Administration),2189
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,81,Other Services (except Public Administration),10.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q1,81,Other Services (except Public Administration),2259
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),2114
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q1,81,Other Services (except Public Administration),2265
@@ -2500,7 +2627,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q4,81,Other Services (e
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,81,Other Services (except Public Administration),2286
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,81,Other Services (except Public Administration),2346
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,81,Other Services (except Public Administration),2088
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),2321
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,81,Other Services (except Public Administration),2220
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",4880
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",4507
@@ -2533,7 +2659,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,54,"Profes
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,54,"Professional, Scientific, and Technical Services",5885
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",6160
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",7014
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",6912
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",52
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",91
@@ -2566,7 +2691,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,54,"Profes
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",7
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",17
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",36
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",328
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",312
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",287
@@ -2599,7 +2723,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,54,"Professional
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",266
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",403
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",313
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",304
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",320
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",296
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",322
@@ -2630,7 +2753,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,54,"Professi
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",416
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",342
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",468
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",8.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",9.4
@@ -2655,13 +2777,11 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,54,"Professio
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,54,"Professional, Scientific, and Technical Services",8.799999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,54,"Professional, Scientific, and Technical Services",8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,54,"Professional, Scientific, and Technical Services",11.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,54,"Professional, Scientific, and Technical Services",7.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,54,"Professional, Scientific, and Technical Services",8.200000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",6.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",7.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",9.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",2624
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",9.6
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",2654
@@ -2694,7 +2814,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,54,"Professional, Sc
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",2650
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",2605
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",2969
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",3155
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,92,Public Administration,3571
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,92,Public Administration,3635
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,92,Public Administration,3805
@@ -2726,7 +2845,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,92,Public 
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,92,Public Administration,4378
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,92,Public Administration,4842
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,92,Public Administration,4467
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,92,Public Administration,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,92,Public Administration,-21
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,92,Public Administration,-24
@@ -2757,7 +2875,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q4,92,Public 
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,92,Public Administration,19
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,92,Public Administration,-36
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,92,Public Administration,-490
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,92,Public Administration,151
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,92,Public Administration,152
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,92,Public Administration,148
@@ -2792,7 +2909,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,92,Public Admini
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,92,Public Administration,230
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,92,Public Administration,213
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,92,Public Administration,195
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,400
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,92,Public Administration,236
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,92,Public Administration,230
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q1,92,Public Administration,271
@@ -2821,7 +2937,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,92,Public Ad
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,92,Public Administration,321
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,92,Public Administration,360
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,92,Public Administration,222
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,0
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,92,Public Administration,727
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,4.5
@@ -2845,7 +2960,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,92,Public Adm
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,92,Public Administration,4.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,92,Public Administration,3.6999999999999997
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,92,Public Administration,13.8
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,92,Public Administration,4.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,92,Public Administration,4.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,92,Public Administration,4.5
@@ -2853,7 +2967,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,92,Public Adm
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,92,Public Administration,5.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,92,Public Administration,5.800000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,7.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,3472
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,3511
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,92,Public Administration,3502
@@ -2885,7 +2998,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,92,Public Administra
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,92,Public Administration,3439
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,92,Public Administration,3617
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,92,Public Administration,3154
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,3237
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,53,Real Estate and Rental and Leasing,2711
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,53,Real Estate and Rental and Leasing,3014
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q1,53,Real Estate and Rental and Leasing,3256
@@ -2918,7 +3030,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,53,Real Es
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,53,Real Estate and Rental and Leasing,3947
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,53,Real Estate and Rental and Leasing,4473
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,53,Real Estate and Rental and Leasing,4686
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,53,Real Estate and Rental and Leasing,6
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,53,Real Estate and Rental and Leasing,27
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,53,Real Estate and Rental and Leasing,21
@@ -2950,7 +3061,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,53,Real Es
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,53,Real Estate and Rental and Leasing,-12
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,53,Real Estate and Rental and Leasing,-20
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,53,Real Estate and Rental and Leasing,65
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,53,Real Estate and Rental and Leasing,69
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,53,Real Estate and Rental and Leasing,68
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q1,53,Real Estate and Rental and Leasing,43
@@ -2980,7 +3090,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q4,53,Real Estate a
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,53,Real Estate and Rental and Leasing,52
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,53,Real Estate and Rental and Leasing,42
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,53,Real Estate and Rental and Leasing,77
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,54
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,53,Real Estate and Rental and Leasing,48
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,53,Real Estate and Rental and Leasing,50
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,53,Real Estate and Rental and Leasing,50
@@ -3014,7 +3123,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q4,53,Real Esta
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,53,Real Estate and Rental and Leasing,134
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,53,Real Estate and Rental and Leasing,109
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,53,Real Estate and Rental and Leasing,117
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,9.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,6.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,6.1
@@ -3039,14 +3147,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,53,Real Estat
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,53,Real Estate and Rental and Leasing,7.3999999999999995
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,53,Real Estate and Rental and Leasing,11.200000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,53,Real Estate and Rental and Leasing,9.8
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,53,Real Estate and Rental and Leasing,7.199999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,53,Real Estate and Rental and Leasing,6.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,53,Real Estate and Rental and Leasing,6.6000000000000005
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,53,Real Estate and Rental and Leasing,8.799999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,53,Real Estate and Rental and Leasing,10
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,53,Real Estate and Rental and Leasing,9.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,53,Real Estate and Rental and Leasing,517
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,53,Real Estate and Rental and Leasing,578
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,53,Real Estate and Rental and Leasing,547
@@ -3080,7 +3186,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,53,Real Estate and R
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,53,Real Estate and Rental and Leasing,607
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,44-45,Retail Trade,2398
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,44-45,Retail Trade,2344
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,576
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q1,44-45,Retail Trade,2476
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,44-45,Retail Trade,2338
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q1,44-45,Retail Trade,2595
@@ -3109,7 +3214,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q3,44-45,Reta
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,44-45,Retail Trade,2724
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,44-45,Retail Trade,2672
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,44-45,Retail Trade,3203
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,0
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,44-45,Retail Trade,-409
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,44-45,Retail Trade,-315
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,44-45,Retail Trade,3747
@@ -3143,7 +3247,6 @@ Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,44-45,Reta
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,44-45,Retail Trade,229
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,44-45,Retail Trade,-219
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,44-45,Retail Trade,871
-Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,44-45,Retail Trade,865
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,44-45,Retail Trade,813
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q1,44-45,Retail Trade,964
@@ -3174,7 +3277,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,44-45,Retail Tra
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,44-45,Retail Trade,1495
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,44-45,Retail Trade,1517
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,44-45,Retail Trade,1810
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,1488
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,44-45,Retail Trade,1396
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,44-45,Retail Trade,1214
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,44-45,Retail Trade,1254
@@ -3206,7 +3308,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q4,44-45,Retail
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,44-45,Retail Trade,1505
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,44-45,Retail Trade,1671
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,44-45,Retail Trade,2276
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,44-45,Retail Trade,12.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail Trade,11.600000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,13.200000000000001
@@ -3230,7 +3331,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,44-45,Retail 
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,44-45,Retail Trade,12.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,44-45,Retail Trade,16.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,44-45,Retail Trade,11.799999999999999
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,44-45,Retail Trade,10.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,44-45,Retail Trade,10.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,44-45,Retail Trade,10
@@ -3238,7 +3338,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,44-45,Retail 
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,11.600000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,12.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,11.799999999999999
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,7538
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,7665
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q1,44-45,Retail Trade,7387
@@ -3270,7 +3369,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,44-45,Retail Trade,7
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,44-45,Retail Trade,7368
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,44-45,Retail Trade,7013
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,48-49,Transportation and Warehousing,3480
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,7714
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,44-45,Retail Trade,7706
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,48-49,Transportation and Warehousing,3931
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,48-49,Transportation and Warehousing,3609
@@ -3303,7 +3401,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,48-49,Tran
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,48-49,Transportation and Warehousing,5048
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,48-49,Transportation and Warehousing,-42
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,48-49,Transportation and Warehousing,5901
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,48-49,Transportation and Warehousing,-24
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2017Q1,48-49,Transportation and Warehousing,-16
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q1,48-49,Transportation and Warehousing,10
@@ -3333,7 +3430,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q4,48-49,Tran
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,48-49,Transportation and Warehousing,29
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,48-49,Transportation and Warehousing,61
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,48-49,Transportation and Warehousing,75
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,48-49,Transportation and Warehousing,-58
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,48-49,Transportation and Warehousing,167
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,48-49,Transportation and Warehousing,164
@@ -3365,7 +3461,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q4,48-49,Transporta
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,48-49,Transportation and Warehousing,329
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,48-49,Transportation and Warehousing,406
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,48-49,Transportation and Warehousing,426
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,272
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,48-49,Transportation and Warehousing,229
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,48-49,Transportation and Warehousing,211
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,48-49,Transportation and Warehousing,210
@@ -3397,7 +3492,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q4,48-49,Transp
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,48-49,Transportation and Warehousing,294
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,48-49,Transportation and Warehousing,389
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,48-49,Transportation and Warehousing,522
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transportation and Warehousing,7.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transportation and Warehousing,7.199999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,6.9
@@ -3422,7 +3516,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,48-49,Transpo
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,48-49,Transportation and Warehousing,8.200000000000001
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,48-49,Transportation and Warehousing,7.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transportation and Warehousing,12
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,48-49,Transportation and Warehousing,6.6000000000000005
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,48-49,Transportation and Warehousing,7.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,48-49,Transportation and Warehousing,7.9
@@ -3430,7 +3523,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,Transpo
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transportation and Warehousing,8.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,8.7
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,7.3999999999999995
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,1846
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,48-49,Transportation and Warehousing,1883
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,48-49,Transportation and Warehousing,1877
@@ -3462,7 +3554,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,48-49,Transportation
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,48-49,Transportation and Warehousing,2263
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,48-49,Transportation and Warehousing,2193
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,48-49,Transportation and Warehousing,2552
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,2464
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,22,Utilities,6339
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,22,Utilities,7410
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,22,Utilities,7136
@@ -3493,7 +3584,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,22,Utiliti
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q4,22,Utilities,6479
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,22,Utilities,7019
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,22,Utilities,7861
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,0
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,22,Utilities,8196
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,22,Utilities,20
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,22,Utilities,-2
@@ -3527,7 +3617,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,22,Utiliti
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,22,Utilities,-7
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,22,Utilities,-42
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,22,Utilities,3
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,22,Utilities,30
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,22,Utilities,14
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q1,22,Utilities,5
@@ -3557,7 +3646,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q4,22,Utilities,9
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2018Q4,22,Utilities,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2019Q4,22,Utilities,8
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2020Q4,22,Utilities,7
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,5
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,22,Utilities,6
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,22,Utilities,7
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,22,Utilities,19
@@ -3593,7 +3681,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,22,Utilities
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,6.2
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,0
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,1.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,2.1999999999999997
@@ -3613,7 +3700,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,22,Utilities,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,22,Utilities,3.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,22,Utilities,4.3
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,9.2
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q2,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,22,Utilities,3.3000000000000003
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,22,Utilities,4.7
@@ -3622,7 +3708,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,22,Utilities,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,22,Utilities,5.1
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities,5.800000000000001
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,22,Utilities,222
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,22,Utilities,205
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,22,Utilities,200
@@ -3654,7 +3739,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,22,Utilities,171
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,22,Utilities,191
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,22,Utilities,190
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,22,Utilities,185
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,22,Utilities,165
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2015Q1,42,Wholesale Trade,4744
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2016Q1,42,Wholesale Trade,4846
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q1,42,Wholesale Trade,5505
@@ -3685,7 +3769,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2017Q4,42,Wholesa
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2018Q4,42,Wholesale Trade,6062
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2019Q4,42,Wholesale Trade,6114
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2020Q4,42,Wholesale Trade,6916
-Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,0
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2021Q4,42,Wholesale Trade,10702
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2015Q1,42,Wholesale Trade,105
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2016Q1,42,Wholesale Trade,151
@@ -3718,7 +3801,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2018Q4,42,Wholesa
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2019Q4,42,Wholesale Trade,-193
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2020Q4,42,Wholesale Trade,-84
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2021Q4,42,Wholesale Trade,-161
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2015Q1,42,Wholesale Trade,248
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2017Q1,42,Wholesale Trade,239
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2016Q1,42,Wholesale Trade,325
@@ -3753,7 +3835,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Industry,2021Q4,42,Wholesale Tra
 Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q1,42,Wholesale Trade,275
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q1,42,Wholesale Trade,190
 Separations,Upper Shore WIA,Maryland Separations by Industry,2016Q1,42,Wholesale Trade,224
-New Hires,Upper Shore WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,225
 Separations,Upper Shore WIA,Maryland Separations by Industry,2019Q1,42,Wholesale Trade,192
 Separations,Upper Shore WIA,Maryland Separations by Industry,2018Q1,42,Wholesale Trade,194
 Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q1,42,Wholesale Trade,210
@@ -3782,7 +3863,6 @@ Separations,Upper Shore WIA,Maryland Separations by Industry,2017Q4,42,Wholesale
 Separations,Upper Shore WIA,Maryland Separations by Industry,2015Q4,42,Wholesale Trade,361
 Separations,Upper Shore WIA,Maryland Separations by Industry,2020Q4,42,Wholesale Trade,444
 Separations,Upper Shore WIA,Maryland Separations by Industry,2021Q4,42,Wholesale Trade,504
-Separations,Upper Shore WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,6.5
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,5.8999999999999995
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q1,42,Wholesale Trade,7.000000000000001
@@ -3805,7 +3885,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q3,42,Wholesale 
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,10.299999999999999
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,14.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q3,42,Wholesale Trade,13.3
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q3,42,Wholesale Trade,10.8
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2015Q4,42,Wholesale Trade,6.4
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2016Q4,42,Wholesale Trade,8.3
@@ -3813,7 +3892,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2017Q4,42,Wholesale 
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2019Q4,42,Wholesale Trade,7.6
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2018Q4,42,Wholesale Trade,6.9
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,6.1
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,2281
 Workers,Upper Shore WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,2293
 Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q1,42,Wholesale Trade,2242
@@ -3844,7 +3922,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2017Q4,42,Wholesale Trade,2
 Workers,Upper Shore WIA,Maryland Workers by Industry,2018Q4,42,Wholesale Trade,2358
 Workers,Upper Shore WIA,Maryland Workers by Industry,2021Q4,42,Wholesale Trade,2406
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A01,14-18,531
-Workers,Upper Shore WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,2547
 Workers,Upper Shore WIA,Maryland Workers by Industry,2019Q4,42,Wholesale Trade,2429
 Workers,Upper Shore WIA,Maryland Workers by Industry,2016Q3,42,Wholesale Trade,2583
 Workers,Upper Shore WIA,Maryland Workers by Industry,2020Q4,42,Wholesale Trade,2218
@@ -3874,7 +3951,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q4,A01,14-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q3,A01,14-18,1195
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q4,A01,14-18,638
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A01,14-18,1006
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q4,A01,14-18,654
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A02,19-21,1125
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A02,19-21,1170
@@ -3910,7 +3986,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q4,A02,19-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A02,19-21,1547
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A02,19-21,1835
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A02,19-21,2057
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A03,22-24,1835
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A03,22-24,1863
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q1,A03,22-24,2040
@@ -3942,7 +4017,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A03,22-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A03,22-24,2514
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A03,22-24,2410
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A03,22-24,3007
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A04,25-34,2738
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A04,25-34,2739
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q1,A04,25-34,2926
@@ -3974,7 +4048,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A04,25-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A04,25-34,3364
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A04,25-34,3501
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A04,25-34,4222
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A05,35-44,3709
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A05,35-44,3708
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q1,A05,35-44,3896
@@ -4006,7 +4079,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A05,35-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A05,35-44,4456
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A05,35-44,5550
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A05,35-44,4999
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A06,45-54,3819
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A06,45-54,3873
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q1,A06,45-54,4160
@@ -4034,7 +4106,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q4,A06,45-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A06,45-54,4678
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A06,45-54,4876
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A06,45-54,5425
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A06,45-54,6170
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q1,A07,55-64,3781
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q3,A06,45-54,5081
@@ -4070,7 +4141,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A07,55-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A07,55-64,5870
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A07,55-64,4780
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A07,55-64,5338
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,0
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A01,14-18,1771
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A01,14-18,1625
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A01,14-18,1775
@@ -4101,7 +4171,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2017Q4,A01,14-18,2129
 Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A01,14-18,2189
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q4,A01,14-18,2179
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A01,14-18,2085
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A01,14-18,2518
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A02,19-21,2664
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A01,14-18,2468
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A02,19-21,2903
@@ -4134,7 +4203,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A02,19-21,3021
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A02,19-21,2690
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q4,A02,19-21,2805
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A02,19-21,2977
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A02,19-21,2900
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A03,22-24,3591
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A03,22-24,3602
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A03,22-24,3380
@@ -4167,7 +4235,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A03,22-24,2899
 Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A03,22-24,3231
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A03,22-24,3176
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A04,25-34,11371
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A03,22-24,3237
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A04,25-34,11956
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A04,25-34,12046
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q1,A04,25-34,12169
@@ -4196,7 +4263,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2017Q4,A04,25-34,12555
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q4,A04,25-34,12556
 Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A04,25-34,12737
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A04,25-34,11238
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A04,25-34,11718
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A04,25-34,11707
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A05,35-44,10583
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A05,35-44,10604
@@ -4231,7 +4297,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2016Q2,A05,35-44,10552
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A05,35-44,10776
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A05,35-44,11600
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A06,45-54,13095
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A05,35-44,11926
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q1,A06,45-54,12540
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A06,45-54,12742
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A06,45-54,13189
@@ -4263,7 +4328,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A06,45-54,12277
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A06,45-54,11502
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A06,45-54,11080
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A07,55-64,10967
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A06,45-54,11490
 Workers,Upper Shore WIA,Maryland Workers by Age,2016Q1,A07,55-64,11472
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A07,55-64,11403
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q1,A07,55-64,11566
@@ -4296,7 +4360,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A07,55-64,11358
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A07,55-64,11822
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A01,14-18,454
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A01,14-18,445
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A07,55-64,11816
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A01,14-18,488
 Separations,Upper Shore WIA,Maryland Separations by Age,2018Q1,A01,14-18,481
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q1,A01,14-18,509
@@ -4326,7 +4389,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2016Q4,A01,14-18,795
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A01,14-18,847
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A01,14-18,811
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A01,14-18,1087
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A01,14-18,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A02,19-21,786
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A02,19-21,849
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A02,19-21,908
@@ -4358,7 +4420,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2018Q4,A02,19-21,1060
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A02,19-21,1166
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A02,19-21,1046
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A02,19-21,1216
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A02,19-21,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A03,22-24,766
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A03,22-24,805
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A03,22-24,787
@@ -4390,7 +4451,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A03,22-24,1062
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q4,A03,22-24,1022
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A03,22-24,1131
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A03,22-24,918
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A03,22-24,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A04,25-34,1776
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A04,25-34,1948
 Separations,Upper Shore WIA,Maryland Separations by Age,2018Q1,A04,25-34,1996
@@ -4421,7 +4481,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2018Q4,A04,25-34,2837
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q4,A04,25-34,2735
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A04,25-34,2832
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A04,25-34,2990
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A04,25-34,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A05,35-44,1170
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A05,35-44,1292
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A05,35-44,1239
@@ -4453,7 +4512,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2018Q4,A05,35-44,1845
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A05,35-44,1929
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A05,35-44,1699
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A05,35-44,2229
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A05,35-44,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A06,45-54,1144
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A06,45-54,1191
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A06,45-54,1083
@@ -4485,7 +4543,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2018Q4,A06,45-54,1667
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A06,45-54,1350
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A06,45-54,1564
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A06,45-54,1813
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A06,45-54,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A07,55-64,800
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A07,55-64,813
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A07,55-64,836
@@ -4518,7 +4575,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2018Q4,A07,55-64,1247
 Separations,Upper Shore WIA,Maryland Separations by Age,2019Q4,A07,55-64,1250
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A07,55-64,1275
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A07,55-64,1568
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A07,55-64,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q1,1,Male,3762
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q1,1,Male,3715
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q1,1,Male,4015
@@ -4550,7 +4606,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2018Q4,1,Ma
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q4,1,Male,4747
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q4,1,Male,5856
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q4,1,Male,5338
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q1,2,Female,2751
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q1,2,Female,2711
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q1,2,Female,2912
@@ -4582,7 +4637,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q4,2,Fe
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q4,2,Female,3202
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q4,2,Female,4124
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Female,3380
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,0
 Workers,Upper Shore WIA,Maryland Workers by Gender,2015Q1,1,Male,27333
 Workers,Upper Shore WIA,Maryland Workers by Gender,2016Q1,1,Male,28237
 Workers,Upper Shore WIA,Maryland Workers by Gender,2017Q1,1,Male,27906
@@ -4613,7 +4667,6 @@ Workers,Upper Shore WIA,Maryland Workers by Gender,2017Q4,1,Male,28817
 Workers,Upper Shore WIA,Maryland Workers by Gender,2018Q4,1,Male,29459
 Workers,Upper Shore WIA,Maryland Workers by Gender,2020Q4,1,Male,27819
 Workers,Upper Shore WIA,Maryland Workers by Gender,2019Q4,1,Male,29756
-Workers,Upper Shore WIA,Maryland Workers by Gender,2022Q4,1,Male,30106
 Workers,Upper Shore WIA,Maryland Workers by Gender,2021Q4,1,Male,29473
 Workers,Upper Shore WIA,Maryland Workers by Gender,2015Q1,2,Female,30992
 Workers,Upper Shore WIA,Maryland Workers by Gender,2017Q1,2,Female,31582
@@ -4646,7 +4699,6 @@ Workers,Upper Shore WIA,Maryland Workers by Gender,2018Q4,2,Female,32784
 Workers,Upper Shore WIA,Maryland Workers by Gender,2019Q4,2,Female,33299
 Workers,Upper Shore WIA,Maryland Workers by Gender,2020Q4,2,Female,29654
 Workers,Upper Shore WIA,Maryland Workers by Gender,2021Q4,2,Female,31718
-Workers,Upper Shore WIA,Maryland Workers by Gender,2022Q4,2,Female,31937
 Separations,Upper Shore WIA,Maryland Separations by Gender,2016Q1,1,Male,3884
 Separations,Upper Shore WIA,Maryland Separations by Gender,2015Q1,1,Male,3795
 Separations,Upper Shore WIA,Maryland Separations by Gender,2017Q1,1,Male,3959
@@ -4676,7 +4728,6 @@ Separations,Upper Shore WIA,Maryland Separations by Gender,2016Q4,1,Male,5219
 Separations,Upper Shore WIA,Maryland Separations by Gender,2018Q4,1,Male,5612
 Separations,Upper Shore WIA,Maryland Separations by Gender,2017Q4,1,Male,5436
 Separations,Upper Shore WIA,Maryland Separations by Gender,2021Q4,1,Male,6132
-Separations,Upper Shore WIA,Maryland Separations by Gender,2022Q4,1,Male,0
 Separations,Upper Shore WIA,Maryland Separations by Gender,2020Q4,1,Male,5092
 Separations,Upper Shore WIA,Maryland Separations by Gender,2015Q1,2,Female,3554
 Separations,Upper Shore WIA,Maryland Separations by Gender,2019Q4,1,Male,5595
@@ -4707,7 +4758,6 @@ Separations,Upper Shore WIA,Maryland Separations by Gender,2015Q4,2,Female,5517
 Separations,Upper Shore WIA,Maryland Separations by Gender,2016Q4,2,Female,5292
 Separations,Upper Shore WIA,Maryland Separations by Gender,2017Q4,2,Female,5537
 Separations,Upper Shore WIA,Maryland Separations by Gender,2018Q4,2,Female,5800
-Separations,Upper Shore WIA,Maryland Separations by Gender,2022Q4,2,Female,0
 Separations,Upper Shore WIA,Maryland Separations by Gender,2019Q4,2,Female,5919
 Separations,Upper Shore WIA,Maryland Separations by Gender,2020Q4,2,Female,5430
 Separations,Upper Shore WIA,Maryland Separations by Gender,2021Q4,2,Female,6948
@@ -4741,7 +4791,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2017Q4,E1,Less t
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2018Q4,E1,Less than High school,-324
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q4,E1,Less than High school,-399
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2020Q4,E1,Less than High school,-160
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2021Q4,E1,Less than High school,-435
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2015Q1,E2,"High school or equivalent, no college",-129
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2016Q1,E2,"High school or equivalent, no college",133
@@ -4773,7 +4822,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2017Q4,E2,"High 
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2018Q4,E2,"High school or equivalent, no college",-456
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2020Q4,E2,"High school or equivalent, no college",-197
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2021Q4,E2,"High school or equivalent, no college",-534
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q4,E2,"High school or equivalent, no college",-423
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2016Q1,E3,Some college or Associate degree,182
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2015Q1,E3,Some college or Associate degree,-81
@@ -4806,7 +4854,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2018Q4,E3,Some c
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q4,E3,Some college or Associate degree,-343
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2021Q4,E3,Some college or Associate degree,-571
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2020Q4,E3,Some college or Associate degree,-160
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2015Q1,E4,Bachelor's degree or advanced degree,34
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2017Q1,E4,Bachelor's degree or advanced degree,94
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2016Q1,E4,Bachelor's degree or advanced degree,260
@@ -4837,7 +4884,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2018Q4,E4,Bachel
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2020Q4,E4,Bachelor's degree or advanced degree,-172
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q4,E4,Bachelor's degree or advanced degree,-271
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2021Q4,E4,Bachelor's degree or advanced degree,-413
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2015Q1,E1,Less than High school,751
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2016Q1,E1,Less than High school,988
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q1,E1,Less than High school,894
@@ -4869,7 +4915,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q4,E1,Less than Hi
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2019Q4,E1,Less than High school,1060
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2021Q4,E1,Less than High school,1198
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2020Q4,E1,Less than High school,978
-New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1071
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2015Q1,E2,"High school or equivalent, no college",1318
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2016Q1,E2,"High school or equivalent, no college",1659
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q1,E4,Bachelor's degree or advanced degree,48
@@ -4902,7 +4947,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q4,E2,"High school
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2019Q4,E2,"High school or equivalent, no college",1767
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2021Q4,E2,"High school or equivalent, no college",2012
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2020Q4,E2,"High school or equivalent, no college",1654
-New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",1881
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2015Q1,E3,Some college or Associate degree,1237
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2017Q1,E3,Some college or Associate degree,1496
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2016Q1,E3,Some college or Associate degree,1551
@@ -4933,7 +4977,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q4,E3,Some college
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2019Q4,E3,Some college or Associate degree,1722
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2017Q4,E3,Some college or Associate degree,1636
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2021Q4,E3,Some college or Associate degree,1981
-New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,1936
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2020Q4,E3,Some college or Associate degree,1596
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2015Q1,E4,Bachelor's degree or advanced degree,884
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2016Q1,E4,Bachelor's degree or advanced degree,1119
@@ -4966,7 +5009,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q4,E4,Bachelor's d
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2020Q4,E4,Bachelor's degree or advanced degree,1069
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2021Q4,E4,Bachelor's degree or advanced degree,1312
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2019Q4,E4,Bachelor's degree or advanced degree,1096
-New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,1373
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less than High school,0.088
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.097
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q1,E1,Less than High school,0.09
@@ -4990,7 +5032,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.131
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.109
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0.148
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.087
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q4,E1,Less than High school,0.087
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less than High school,0.087
@@ -4999,7 +5040,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.092
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.099
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.072
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High school or equivalent, no college",0.078
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q1,E2,"High school or equivalent, no college",0.08
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.074
@@ -5022,7 +5062,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High sch
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.089
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.077
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0.108
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.071
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.068
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.069
@@ -5031,7 +5070,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q4,E2,"High sch
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.077
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q4,E2,"High school or equivalent, no college",0.082
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.072
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.077
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.071
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.072
@@ -5054,7 +5092,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some coll
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.085
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.072
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0.106
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.069
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.067
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q4,E3,Some college or Associate degree,0.067
@@ -5063,7 +5100,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some coll
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.083
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some college or Associate degree,0.077
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.067
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q1,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q1,E4,Bachelor's degree or advanced degree,0.072
@@ -5086,7 +5122,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor'
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.076
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0.099
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.06
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q4,E4,Bachelor's degree or advanced degree,0.062
@@ -5094,7 +5129,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bachelor'
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2020Q4,E4,Bachelor's degree or advanced degree,0.075
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.082
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor's degree or advanced degree,0.086
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,103
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2016Q1,1,Male,485
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,304
@@ -5126,7 +5160,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2018Q4,1,Male,-826
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2021Q4,1,Male,-1008
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2019Q4,1,Male,-843
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2020Q4,1,Male,-421
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q1,0,All,3222
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2016Q1,0,All,3181
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,3427
@@ -5158,7 +5191,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2018Q4,
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2019Q4,0,All,4026
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2020Q4,0,All,4553
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2021Q4,0,All,4961
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.087
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.093
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.087
@@ -5182,14 +5214,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.111
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.096
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.11
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0.129
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2015Q4,1,Male,0.085
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2016Q4,1,Male,0.084
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.083
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.104
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2018Q4,1,Male,0.084
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2020Q4,1,Male,0.092
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.095
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2015Q1,2,Female,0.086
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.085
@@ -5214,7 +5244,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2018Q3,2,Female,0.105
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2019Q3,2,Female,0.108
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2020Q3,2,Female,0.09
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0.139
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.084
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.086
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.083
@@ -5225,7 +5254,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.103
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2015Q1,0,All,7350
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2017Q1,0,All,7693
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2016Q1,0,All,7863
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2018Q1,0,All,7757
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2021Q1,0,All,7431
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2020Q1,0,All,12305
@@ -5254,7 +5282,6 @@ Separations,Upper Shore WIA,Maryland Separations by Gender All,2018Q4,0,All,1141
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2019Q4,0,All,11513
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2020Q4,0,All,10521
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.087
-Separations,Upper Shore WIA,Maryland Separations by Gender All,2022Q4,0,All,0
 Separations,Upper Shore WIA,Maryland Separations by Gender All,2021Q4,0,All,13081
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.093
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.086
@@ -5278,7 +5305,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2019Q3,0,All,0.109
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.108
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2020Q3,0,All,0.093
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2021Q3,0,All,0.134
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2015Q4,0,All,0.085
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2016Q4,0,All,0.084
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2018Q4,0,All,0.083
@@ -5286,7 +5312,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2019Q4,0,All,0.112
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2017Q4,0,All,0.083
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.095
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.099
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),1878
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),2020
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),2138
@@ -5319,7 +5344,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Education,2019Q4,E5,Educational 
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2018Q4,E5,Educational attainment not available (workers aged 24 or younger),2432
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),2741
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2015Q1,0,All Sexes,58325
-New Hires,Upper Shore WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),2603
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2016Q1,0,All Sexes,60211
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2017Q1,0,All Sexes,59488
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2018Q1,0,All Sexes,60071
@@ -5350,7 +5374,6 @@ Workers,Upper Shore WIA,Maryland Workers by Gender All,2015Q4,0,All Sexes,61268
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2018Q4,0,All Sexes,62242
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2016Q4,0,All Sexes,61206
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2021Q4,0,All Sexes,61191
-Workers,Upper Shore WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,62043
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2015Q1,2,Female,-80
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2018Q1,2,Female,-85
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2016Q1,2,Female,445
@@ -5379,7 +5402,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2022Q3,2,Female,164
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2016Q4,2,Female,-747
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2019Q4,2,Female,-944
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2020Q4,2,Female,-350
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2018Q4,2,Female,-872
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2017Q4,2,Female,-604
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2021Q4,2,Female,-1379
@@ -5438,7 +5460,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age All,2018Q4,A00,All Ages,62242
 Workers,Upper Shore WIA,Maryland Workers by Age All,2017Q4,A00,All Ages,61431
 Workers,Upper Shore WIA,Maryland Workers by Age All,2019Q4,A00,All Ages,63055
 Workers,Upper Shore WIA,Maryland Workers by Age All,2021Q4,A00,All Ages,61191
-Workers,Upper Shore WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,62043
 Workers,Upper Shore WIA,Maryland Workers by Age,2015Q1,A08,65-99,4428
 Workers,Upper Shore WIA,Maryland Workers by Age,2017Q1,A08,65-99,4899
 Workers,Upper Shore WIA,Maryland Workers by Age,2018Q1,A08,65-99,5196
@@ -5470,7 +5491,6 @@ Workers,Upper Shore WIA,Maryland Workers by Age,2017Q4,A08,65-99,5255
 Workers,Upper Shore WIA,Maryland Workers by Age,2020Q4,A08,65-99,5348
 Workers,Upper Shore WIA,Maryland Workers by Age,2019Q4,A08,65-99,5834
 Workers,Upper Shore WIA,Maryland Workers by Age,2021Q4,A08,65-99,5939
-Workers,Upper Shore WIA,Maryland Workers by Age,2022Q4,A08,65-99,6438
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q1,A08,65-99,449
 Separations,Upper Shore WIA,Maryland Separations by Age,2015Q1,A08,65-99,453
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q1,A08,65-99,462
@@ -5500,7 +5520,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2019Q3,A08,65-99,624
 Separations,Upper Shore WIA,Maryland Separations by Age,2018Q3,A08,65-99,657
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2021Q4,0,All,-1379
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q3,A08,65-99,699
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q3,A08,65-99,796
 Separations,Upper Shore WIA,Maryland Separations by Age,2022Q3,A08,65-99,813
 Separations,Upper Shore WIA,Maryland Separations by Age,2017Q4,A08,65-99,767
@@ -5510,7 +5529,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2015Q4,A08,65-99,727
 Separations,Upper Shore WIA,Maryland Separations by Age,2016Q4,A08,65-99,764
 Separations,Upper Shore WIA,Maryland Separations by Age,2020Q4,A08,65-99,930
 Separations,Upper Shore WIA,Maryland Separations by Age,2021Q4,A08,65-99,1047
-Separations,Upper Shore WIA,Maryland Separations by Age,2022Q4,A08,65-99,0
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2016Q1,1,Male,3725
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2017Q1,1,Male,3668
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2015Q1,1,Male,3211
@@ -5541,7 +5559,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Gender,2018Q4,1,Male,3946
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2019Q4,1,Male,3913
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2020Q4,1,Male,3709
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2021Q4,1,Male,4388
-New Hires,Upper Shore WIA,Maryland New Hires by Gender,2022Q4,1,Male,3930
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2015Q1,2,Female,2857
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2017Q1,2,Female,3448
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2016Q1,2,Female,3613
@@ -5570,7 +5587,6 @@ New Hires,Upper Shore WIA,Maryland New Hires by Gender,2015Q4,2,Female,4331
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2016Q4,2,Female,3762
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2021Q4,2,Female,4856
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2017Q4,2,Female,4162
-New Hires,Upper Shore WIA,Maryland New Hires by Gender,2022Q4,2,Female,4933
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2020Q4,2,Female,3972
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q1,A08,65-99,2641
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2019Q4,2,Female,4207
@@ -5605,7 +5621,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q4,A08,65-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q4,A08,65-99,3568
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,4425
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A08,65-99,3580
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A08,65-99,4338
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,23
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,930
@@ -5639,7 +5654,6 @@ Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2018Q4,E0,Al
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2020Q4,E0,All Education Categories,-772
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2021Q4,E0,All Education Categories,-2386
 Separations,Upper Shore WIA,Maryland Separations by Education All,2015Q1,E0,All Education Categories,7350
-Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,0
 Separations,Upper Shore WIA,Maryland Separations by Education All,2016Q1,E0,All Education Categories,7863
 Separations,Upper Shore WIA,Maryland Separations by Education All,2017Q1,E0,All Education Categories,7693
 Separations,Upper Shore WIA,Maryland Separations by Education All,2018Q1,E0,All Education Categories,7757
@@ -5670,7 +5684,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education All,2020Q4,E0,All 
 Separations,Upper Shore WIA,Maryland Separations by Education All,2019Q4,E0,All Education Categories,11513
 Separations,Upper Shore WIA,Maryland Separations by Education All,2018Q4,E0,All Education Categories,11412
 Separations,Upper Shore WIA,Maryland Separations by Education All,2021Q4,E0,All Education Categories,13081
-Separations,Upper Shore WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,0
 Separations,Upper Shore WIA,Maryland Separations by Education,2015Q1,E1,Less than High school,948
 Separations,Upper Shore WIA,Maryland Separations by Education,2017Q1,E1,Less than High school,1024
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q1,E1,Less than High school,1003
@@ -5701,7 +5714,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2015Q4,E1,Less tha
 Separations,Upper Shore WIA,Maryland Separations by Education,2018Q4,E1,Less than High school,1639
 Separations,Upper Shore WIA,Maryland Separations by Education,2019Q4,E1,Less than High school,1660
 Separations,Upper Shore WIA,Maryland Separations by Education,2021Q4,E1,Less than High school,1821
-Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,0
 Separations,Upper Shore WIA,Maryland Separations by Education,2020Q4,E1,Less than High school,1460
 Separations,Upper Shore WIA,Maryland Separations by Education,2015Q1,E2,"High school or equivalent, no college",1729
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q1,E2,"High school or equivalent, no college",1855
@@ -5733,7 +5745,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2018Q4,E2,"High sc
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q4,E2,"High school or equivalent, no college",2402
 Separations,Upper Shore WIA,Maryland Separations by Education,2019Q4,E2,"High school or equivalent, no college",2576
 Separations,Upper Shore WIA,Maryland Separations by Education,2020Q4,E2,"High school or equivalent, no college",2372
-Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",0
 Separations,Upper Shore WIA,Maryland Separations by Education,2021Q4,E2,"High school or equivalent, no college",2897
 Separations,Upper Shore WIA,Maryland Separations by Education,2015Q1,E3,Some college or Associate degree,1578
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q1,E3,Some college or Associate degree,1724
@@ -5766,7 +5777,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2018Q4,E3,Some col
 Separations,Upper Shore WIA,Maryland Separations by Education,2019Q4,E3,Some college or Associate degree,2461
 Separations,Upper Shore WIA,Maryland Separations by Education,2020Q4,E3,Some college or Associate degree,2270
 Separations,Upper Shore WIA,Maryland Separations by Education,2021Q4,E3,Some college or Associate degree,2910
-Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,0
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q1,E4,Bachelor's degree or advanced degree,1123
 Separations,Upper Shore WIA,Maryland Separations by Education,2015Q1,E4,Bachelor's degree or advanced degree,1088
 Separations,Upper Shore WIA,Maryland Separations by Education,2017Q1,E4,Bachelor's degree or advanced degree,1086
@@ -5798,7 +5808,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2019Q4,E4,Bachelor
 Separations,Upper Shore WIA,Maryland Separations by Education,2018Q4,E4,Bachelor's degree or advanced degree,1755
 Separations,Upper Shore WIA,Maryland Separations by Education,2020Q4,E4,Bachelor's degree or advanced degree,1644
 Separations,Upper Shore WIA,Maryland Separations by Education,2021Q4,E4,Bachelor's degree or advanced degree,2019
-Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Separations,Upper Shore WIA,Maryland Separations by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),2006
 Separations,Upper Shore WIA,Maryland Separations by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),2158
 Separations,Upper Shore WIA,Maryland Separations by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),2124
@@ -5830,7 +5839,6 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2017Q4,E5,Educatio
 Separations,Upper Shore WIA,Maryland Separations by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),3075
 Separations,Upper Shore WIA,Maryland Separations by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),2775
 Separations,Upper Shore WIA,Maryland Separations by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),3433
-Separations,Upper Shore WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),256
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),204
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),351
@@ -5862,7 +5870,6 @@ Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2018Q4,E5,Educat
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),-351
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),-83
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),-433
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),0.187,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),0.197,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),0.183,
@@ -5887,7 +5894,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2019Q3,E5,Education
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0.303,
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,3222
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,3181
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,3519
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2017Q1,A00,All Ages,3427
@@ -5918,7 +5924,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q4,A00
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q4,A00,All Ages,4553
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2019Q4,A00,All Ages,4026
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2021Q4,A00,All Ages,4961
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,0
 Separations,Upper Shore WIA,Maryland Separations by Age All,2015Q1,A00,All Ages,7350
 Separations,Upper Shore WIA,Maryland Separations by Age All,2016Q1,A00,All Ages,7863
 Separations,Upper Shore WIA,Maryland Separations by Age All,2018Q1,A00,All Ages,7757
@@ -5949,7 +5954,6 @@ Separations,Upper Shore WIA,Maryland Separations by Age All,2017Q4,A00,All Ages,
 Separations,Upper Shore WIA,Maryland Separations by Age All,2018Q4,A00,All Ages,11412
 Separations,Upper Shore WIA,Maryland Separations by Age All,2019Q4,A00,All Ages,11513
 Separations,Upper Shore WIA,Maryland Separations by Age All,2021Q4,A00,All Ages,13081
-Separations,Upper Shore WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,0
 Separations,Upper Shore WIA,Maryland Separations by Age All,2020Q4,A00,All Ages,10521
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.093
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.087
@@ -5974,7 +5978,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All E
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Education Categories,0.108
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2020Q3,E0,All Education Categories,0.093
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2021Q3,E0,All Education Categories,0.134
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2015Q4,E0,All Education Categories,0.085
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All Education Categories,0.084
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All Education Categories,0.083
@@ -5982,7 +5985,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All E
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2018Q4,E0,All Education Categories,0.083
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Education Categories,0.099
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.095
-Turnover,Upper Shore WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,3762
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,3407
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,3643

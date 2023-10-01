@@ -1,34 +1,4 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,TBD
-Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
-Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
-
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,TBD
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,TBD
 New Hires,Frederick WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2557
@@ -365,6 +335,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,72,Accommodatio
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,72,Accommodation and Food Services,15.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,72,Accommodation and Food Services,11.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,72,Accommodation and Food Services,20
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,72,Accommodation and Food Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,72,Accommodation and Food Services,14.499999999999998
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,72,Accommodation and Food Services,14.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,72,Accommodation and Food Services,14.299999999999999
@@ -554,6 +525,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,62,Health Care and Social Assistance,7.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Care and Social Assistance,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,62,Health Care and Social Assistance,9.1
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,62,Health Care and Social Assistance,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,62,Health Care and Social Assistance,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,62,Health Care and Social Assistance,8.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,62,Health Care and Social Assistance,7.3
@@ -740,6 +712,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrati
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,16.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,14.899999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,56,Administrative and Support and Waste Management and Remediation Services,18.6
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,56,Administrative and Support and Waste Management and Remediation Services,14.299999999999999
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,14.499999999999998
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,56,Administrative and Support and Waste Management and Remediation Services,15.2
@@ -926,6 +899,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,11,"Agriculture
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",18.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,11,"Agriculture, Forestry, Fishing and Hunting",15.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,11,"Agriculture, Forestry, Fishing and Hunting",16.8
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",5.4
@@ -1109,6 +1083,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Enter
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,71,"Arts, Entertainment, and Recreation",19.900000000000002
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",18.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,71,"Arts, Entertainment, and Recreation",25
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,71,"Arts, Entertainment, and Recreation",11.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",11.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,71,"Arts, Entertainment, and Recreation",9.8
@@ -1295,6 +1270,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,23,Construction
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,23,Construction,7.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,23,Construction,8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,23,Construction,9.9
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,23,Construction,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,23,Construction,8.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,23,Construction,8.200000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,23,Construction,7.3999999999999995
@@ -1482,6 +1458,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,61,Educational 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,61,Educational Services,1.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,61,Educational Services,3.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,61,Educational Services,4.7
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,61,Educational Services,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,61,Educational Services,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,61,Educational Services,5.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educational Services,5
@@ -1665,6 +1642,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,52,Finance and Insurance,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,52,Finance and Insurance,3.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,52,Finance and Insurance,6.2
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,52,Finance and Insurance,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,52,Finance and Insurance,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,52,Finance and Insurance,5.8999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,52,Finance and Insurance,6
@@ -1849,6 +1827,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,51,Information,
 New Hires,Frederick WIA,Maryland New Hires by Industry,2018Q4,51,Information,84
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,51,Information,7.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,51,Information,18.5
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,51,Information,6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,51,Information,7.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,51,Information,5.7
@@ -2034,6 +2013,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,55,Management o
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,55,Management of Companies and Enterprises,9.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,55,Management of Companies and Enterprises,11.600000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,55,Management of Companies and Enterprises,6.3
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,55,Management of Companies and Enterprises,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,55,Management of Companies and Enterprises,7.3999999999999995
 Separations,Frederick WIA,Maryland Separations by Industry,2016Q2,55,Management of Companies and Enterprises,78
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,55,Management of Companies and Enterprises,7.3
@@ -2220,6 +2200,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufactu
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,31-33,Manufacturing,5.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,31-33,Manufacturing,6.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,31-33,Manufacturing,5.7
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,31-33,Manufacturing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,31-33,Manufacturing,8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,31-33,Manufacturing,5.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,31-33,Manufacturing,5.4
@@ -2404,6 +2385,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Qua
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2591,6 +2573,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,81,Other Servic
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,81,Other Services (except Public Administration),11
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,81,Other Services (except Public Administration),9.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,81,Other Services (except Public Administration),7.9
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,81,Other Services (except Public Administration),0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,81,Other Services (except Public Administration),8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,81,Other Services (except Public Administration),8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,81,Other Services (except Public Administration),8.5
@@ -2773,6 +2756,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,54,"Professiona
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7.3999999999999995
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",8.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,54,"Professional, Scientific, and Technical Services",8
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,54,"Professional, Scientific, and Technical Services",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,54,"Professional, Scientific, and Technical Services",9.700000000000001
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,54,"Professional, Scientific, and Technical Services",6.7
 New Hires,Frederick WIA,Maryland New Hires by Industry,2021Q3,54,"Professional, Scientific, and Technical Services",1309
@@ -2959,6 +2943,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Admin
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,92,Public Administration,3.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,92,Public Administration,4.1000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,92,Public Administration,3.4000000000000004
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,92,Public Administration,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,92,Public Administration,6.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,92,Public Administration,3.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,92,Public Administration,3.5999999999999996
@@ -3143,6 +3128,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate 
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,53,Real Estate and Rental and Leasing,8.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,53,Real Estate and Rental and Leasing,12.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,53,Real Estate and Rental and Leasing,8
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,53,Real Estate and Rental and Leasing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q4,53,Real Estate and Rental and Leasing,8.6
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,53,Real Estate and Rental and Leasing,6.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,53,Real Estate and Rental and Leasing,9.2
@@ -3330,6 +3316,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,44-45,Retail Trade,9.9
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,44-45,Retail Trade,10.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,44-45,Retail Trade,12.8
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,44-45,Retail Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,44-45,Retail Trade,10
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,44-45,Retail Trade,9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,11.700000000000001
@@ -3516,6 +3503,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,48-49,Transport
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,48-49,Transportation and Warehousing,9.1
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,48-49,Transportation and Warehousing,8.7
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transportation and Warehousing,11.5
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,48-49,Transportation and Warehousing,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,48-49,Transportation and Warehousing,10.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transportation and Warehousing,9.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,Transportation and Warehousing,11.200000000000001
@@ -3700,6 +3688,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,22,Utilities,5.3
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,22,Utilities,2.4
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,22,Utilities,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,6.5
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,22,Utilities,2.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q4,22,Utilities,2.8000000000000003
@@ -3883,6 +3872,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2017Q3,42,Wholesale Tr
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,6.6000000000000005
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2019Q3,42,Wholesale Trade,6.2
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2020Q3,42,Wholesale Trade,6.4
+Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2022Q3,42,Wholesale Trade,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q1,42,Wholesale Trade,6.4
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,9.8
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2015Q4,42,Wholesale Trade,7.1
@@ -5031,6 +5021,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than H
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.095
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0.109
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E1,Less than High school,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less than High school,0.089
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E1,Less than High school,0.088
@@ -5061,6 +5052,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High schoo
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.075
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.068
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0.091
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E2,"High school or equivalent, no college",0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.069
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.071
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.069
@@ -5092,6 +5084,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some colleg
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.071
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0.088
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.065
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some college or Associate degree,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.066
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E3,Some college or Associate degree,0.068
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.067
@@ -5121,6 +5114,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's 
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.059
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0.079
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.057
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.059
@@ -5213,6 +5207,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.091
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.091
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0.108
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,1,Male,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q4,1,Male,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q4,1,Male,0.085
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.083
@@ -5246,6 +5241,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2020Q3,2,Female,0.072
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0.106
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.083
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.078
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2022Q3,2,Female,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.08
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2018Q4,2,Female,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2019Q4,2,Female,0.12
@@ -5305,6 +5301,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.086
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2019Q3,0,All,0.087
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2020Q3,0,All,0.077
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2021Q3,0,All,0.107
+Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2022Q3,0,All,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2015Q4,0,All,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2016Q4,0,All,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender All,2017Q4,0,All,0.081
@@ -5891,6 +5888,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),0.196,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),0.197,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0.253,
+Turnover,Frederick WIA,Maryland Turnover Rate by Education,2022Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,4043
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,4128
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,4431
@@ -5978,6 +5976,7 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Edu
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.086
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2020Q3,E0,All Education Categories,0.077
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2021Q3,E0,All Education Categories,0.107
+Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q3,E0,All Education Categories,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2015Q4,E0,All Education Categories,0.081
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All Education Categories,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All Education Categories,0.081

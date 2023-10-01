@@ -1,5 +1,192 @@
-Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2338
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,9769
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1770
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,17403
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,1806
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,6474
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",19
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",351
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",327
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1511
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,23,Construction,672
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,23,Construction,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,23,Construction,5572
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,624
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,9059
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,224
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,3585
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,51,Information,167
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,51,Information,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,51,Information,1543
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,80
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,1124
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,832
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,9874
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",58
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",298
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),403
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3067
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",317
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",2890
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,314
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,6471
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,155
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,1343
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,TBD
+Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,2827
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,14440
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,1856
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,6668
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,19
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,22,Utilities,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,22,Utilities,330
+Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,421
+Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,4395
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,TBD
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A01,14-18,3451
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A02,19-21,5280
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A03,22-24,6097
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A04,25-34,20909
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A05,35-44,21417
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A06,45-54,21388
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A07,55-64,19477
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A01,14-18,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A02,19-21,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A03,22-24,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A04,25-34,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A05,35-44,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A06,45-54,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A07,55-64,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,TBD
+Workers,Western Maryland WIA,Maryland Workers by Gender,2022Q4,1,Male,52600
+Workers,Western Maryland WIA,Maryland Workers by Gender,2022Q4,2,Female,53570
+Separations,Western Maryland WIA,Maryland Separations by Gender,2022Q4,1,Male,TBD
+Separations,Western Maryland WIA,Maryland Separations by Gender,2022Q4,2,Female,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1752
+New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",3253
+New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,3301
+New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,2283
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Separations,Western Maryland WIA,Maryland Separations by Gender All,2022Q4,0,All,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),4640
+Workers,Western Maryland WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,106169
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,TBD
+Workers,Western Maryland WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,106169
+Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A08,65-99,8150
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A08,65-99,TBD
+New Hires,Western Maryland WIA,Maryland New Hires by Gender,2022Q4,1,Male,7538
+New Hires,Western Maryland WIA,Maryland New Hires by Gender,2022Q4,2,Female,7690
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,TBD
+Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Western Maryland WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,TBD
+Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,TBD
+Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,TBD
+Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,TBD
+Separations,Western Maryland WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,TBD
+
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,-30
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,51,Information,266
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,51,Information,44
@@ -37,7 +224,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,72,Ac
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q4,72,Accommodation and Food Services,1520
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,72,Accommodation and Food Services,1639
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2006
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,72,Accommodation and Food Services,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,72,Accommodation and Food Services,41
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,72,Accommodation and Food Services,60
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,72,Accommodation and Food Services,60
@@ -70,7 +256,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,72,Ac
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,72,Accommodation and Food Services,-380
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q3,72,Accommodation and Food Services,-214
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,72,Accommodation and Food Services,1731
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,72,Accommodation and Food Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,72,Accommodation and Food Services,2046
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,72,Accommodation and Food Services,1930
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,72,Accommodation and Food Services,1967
@@ -102,7 +287,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,72,Accommod
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,72,Accommodation and Food Services,1920
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,2794
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,72,Accommodation and Food Services,1904
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,72,Accommodation and Food Services,2338
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,72,Accommodation and Food Services,2215
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,72,Accommodation and Food Services,2160
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,72,Accommodation and Food Services,2188
@@ -133,7 +317,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,72,Acco
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,72,Accommodation and Food Services,2526
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,72,Accommodation and Food Services,2909
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,72,Accommodation and Food Services,3386
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,72,Accommodation and Food Services,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,15.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,72,Accommodation and Food Services,15.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,14.000000000000002
@@ -165,7 +348,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accom
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,72,Accommodation and Food Services,21.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,17.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,16.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,8752
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,72,Accommodation and Food Services,9277
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,72,Accommodation and Food Services,9222
@@ -198,7 +380,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,72,Accommodatio
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,72,Accommodation and Food Services,9679
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,72,Accommodation and Food Services,8659
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,62,Health Care and Social Assistance,3261
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,72,Accommodation and Food Services,9769
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,62,Health Care and Social Assistance,3369
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,62,Health Care and Social Assistance,3630
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,62,Health Care and Social Assistance,3764
@@ -229,7 +410,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,62,He
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,62,Health Care and Social Assistance,4347
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,62,Health Care and Social Assistance,4322
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,62,Health Care and Social Assistance,128
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,62,Health Care and Social Assistance,0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,62,Health Care and Social Assistance,5581
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,62,Health Care and Social Assistance,11
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,62,Health Care and Social Assistance,104
@@ -264,7 +444,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,62,He
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,62,Health Care and Social Assistance,1750
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,62,Health Care and Social Assistance,1501
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,62,Health Care and Social Assistance,1418
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,62,Health Care and Social Assistance,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,62,Health Care and Social Assistance,1655
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q1,62,Health Care and Social Assistance,1537
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,62,Health Care and Social Assistance,1727
@@ -293,7 +472,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,62,Health C
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q3,62,Health Care and Social Assistance,2157
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,62,Health Care and Social Assistance,1750
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,62,Health Care and Social Assistance,2100
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,62,Health Care and Social Assistance,1770
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,62,Health Care and Social Assistance,1476
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,62,Health Care and Social Assistance,1564
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,62,Health Care and Social Assistance,1911
@@ -325,14 +503,12 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E5,Educ
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),0.221,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),0.218,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.207,
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,1910
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,1955
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,1968
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,62,Health Care and Social Assistance,1991
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,62,Health Care and Social Assistance,2256
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,62,Health Care and Social Assistance,2184
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,62,Health Care and Social Assistance,0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,62,Health Care and Social Assistance,2534
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,62,Health Care and Social Assistance,6.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health Care and Social Assistance,7.199999999999999
@@ -364,7 +540,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,62,Healt
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Care and Social Assistance,8.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Care and Social Assistance,6.800000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,8.1
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q2,62,Health Care and Social Assistance,8.200000000000001
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,18733
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,18139
@@ -397,7 +572,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,62,Health Care 
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,62,Health Care and Social Assistance,18012
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,62,Health Care and Social Assistance,17428
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,62,Health Care and Social Assistance,18875
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,62,Health Care and Social Assistance,17403
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,2884
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,2376
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2386
@@ -429,7 +603,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,56,Ad
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,3231
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,1
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,3722
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,-243
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,4506
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,-44
@@ -461,7 +634,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,56,Ad
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,-190
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,445
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,182
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,1200
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,1356
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,1343
@@ -493,7 +665,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,56,Administ
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,1478
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,2300
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,2326
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,1806
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,1320
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,1725
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,1396
@@ -525,7 +696,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,56,Admi
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,2029
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,1797
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,2349
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,13.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,13
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,12.5
@@ -555,7 +725,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,56,Admin
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,13.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,13.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,13.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,5030
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,16.1
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,4968
@@ -589,7 +758,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,56,Administrati
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,5511
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,5457
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,5920
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,6474
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",1961
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",2490
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",3399
@@ -618,7 +786,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q3,11,"A
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",2655
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",3921
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",4202
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",5100
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",4006
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",4147
@@ -654,7 +821,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,11,"A
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",-48
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",35
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",-44
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",31
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",29
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",18
@@ -685,7 +851,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q4,11,"Agricul
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",134
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",49
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",24
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",19
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",45
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",46
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",98
@@ -715,7 +880,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,11,"Agr
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",89
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",197
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",113
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",8.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.1
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q3,11,"Agriculture, Forestry, Fishing and Hunting",48
@@ -747,7 +911,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agri
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.800000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",10.4
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",9.5
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",223
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",231
@@ -779,7 +942,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q4,11,"Agriculture
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",273
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",263
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",290
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",351
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",312
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",292
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1155
@@ -812,7 +974,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,71,"A
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",1362
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",1775
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",1806
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",-238
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",61
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",-314
@@ -844,7 +1005,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q4,71,"A
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",76
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",238
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",192
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",393
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",366
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",202
@@ -877,7 +1037,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q4,71,"Arts, E
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",329
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",342
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",478
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",327
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",792
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",486
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",464
@@ -909,7 +1068,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,71,"Art
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",441
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",478
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",542
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",15.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",12.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",14.399999999999999
@@ -941,7 +1099,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Arts
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",22.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",17.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",13.600000000000001
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1487
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",1293
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",1794
@@ -972,7 +1129,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q4,71,"Arts, Enter
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",1481
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",994
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",1365
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",1511
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,23,Construction,3186
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,23,Construction,3234
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,23,Construction,3618
@@ -1004,7 +1160,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q4,23,Co
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,23,Construction,4575
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,23,Construction,4991
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,23,Construction,4757
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,23,Construction,0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,23,Construction,5111
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,23,Construction,25
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,23,Construction,-26
@@ -1037,7 +1192,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,23,Co
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,23,Construction,-310
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,23,Construction,-349
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,23,Construction,-409
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,23,Construction,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,23,Construction,513
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,23,Construction,531
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,23,Construction,563
@@ -1068,7 +1222,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,23,Construc
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,23,Construction,567
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q2,23,Construction,957
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,23,Construction,554
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,23,Construction,672
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,23,Construction,660
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,23,Construction,499
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,23,Construction,650
@@ -1101,7 +1254,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,23,Cons
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,23,Construction,1086
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,23,Construction,1076
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,23,Construction,8.5
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,23,Construction,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,7.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,7.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,23,Construction,6.800000000000001
@@ -1131,7 +1283,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,23,Const
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,23,Construction,8.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,23,Construction,8.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,23,Construction,7.000000000000001
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,8.1
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,23,Construction,4668
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,23,Construction,513
@@ -1165,7 +1316,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,23,Construction
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,23,Construction,5155
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,23,Construction,5252
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,23,Construction,5075
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,23,Construction,5572
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,61,Educational Services,3095
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,61,Educational Services,3109
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,61,Educational Services,3173
@@ -1197,7 +1347,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q4,61,Ed
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,61,Educational Services,4008
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,61,Educational Services,4465
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,61,Educational Services,4138
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,61,Educational Services,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,61,Educational Services,189
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,61,Educational Services,144
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,61,Educational Services,105
@@ -1231,7 +1380,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,61,Ed
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,61,Educational Services,443
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,61,Educational Services,429
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,61,Educational Services,393
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,61,Educational Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,61,Educational Services,426
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,61,Educational Services,411
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,61,Educational Services,424
@@ -1261,7 +1409,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,61,Educatio
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,61,Educational Services,631
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,61,Educational Services,752
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,61,Educational Services,387
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,61,Educational Services,624
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,61,Educational Services,520
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,61,Educational Services,482
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,61,Educational Services,563
@@ -1293,7 +1440,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,61,Educ
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,61,Educational Services,951
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,61,Educational Services,774
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,61,Educational Services,737
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,61,Educational Services,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educational Services,6.2
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,6.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,9.700000000000001
@@ -1325,7 +1471,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,61,Educa
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educational Services,4.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,8.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,9.9
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,9845
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,61,Educational Services,9845
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,9806
@@ -1358,7 +1503,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,61,Educational 
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,61,Educational Services,8716
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,61,Educational Services,8278
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,52,Finance and Insurance,4839
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,61,Educational Services,9059
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,52,Finance and Insurance,5127
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,52,Finance and Insurance,5366
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,52,Finance and Insurance,5634
@@ -1388,7 +1532,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q4,52,Fi
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,52,Finance and Insurance,4625
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,52,Finance and Insurance,5354
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,52,Finance and Insurance,6613
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,52,Finance and Insurance,0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,52,Finance and Insurance,7223
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,52,Finance and Insurance,58
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,52,Finance and Insurance,22
@@ -1420,7 +1563,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,52,Fi
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,52,Finance and Insurance,138
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,52,Finance and Insurance,-1165
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,52,Finance and Insurance,-34
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,52,Finance and Insurance,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,-23
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,52,Finance and Insurance,533
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,52,Finance and Insurance,496
@@ -1453,7 +1595,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,52,Finance 
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,52,Finance and Insurance,197
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,52,Finance and Insurance,202
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,52,Finance and Insurance,201
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,52,Finance and Insurance,224
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,52,Finance and Insurance,513
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,52,Finance and Insurance,512
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,52,Finance and Insurance,609
@@ -1486,7 +1627,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,52,Fina
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,52,Finance and Insurance,1399
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,52,Finance and Insurance,264
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,52,Finance and Insurance,7.6
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,52,Finance and Insurance,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,52,Finance and Insurance,7.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and Insurance,6.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,6.2
@@ -1517,7 +1657,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,52,Finan
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,4.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,5.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,6.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,6533
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,6166
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,52,Finance and Insurance,6172
@@ -1550,7 +1689,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,52,Finance and 
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,52,Finance and Insurance,3633
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,52,Finance and Insurance,2004
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,51,Information,3285
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,52,Finance and Insurance,3585
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,51,Information,3857
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,51,Information,3667
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q1,51,Information,4444
@@ -1582,7 +1720,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,51,In
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,51,Information,4519
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,51,Information,4936
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,51,Information,68
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,51,Information,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,51,Information,-9
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,51,Information,48
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,51,Information,22
@@ -1611,7 +1748,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q4,51,In
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,51,Information,-34
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,51,Information,-38
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,51,Information,-9
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,51,Information,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,51,Information,226
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,51,Information,189
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,51,Information,121
@@ -1643,7 +1779,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,51,Informat
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,51,Information,98
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,51,Information,191
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,51,Information,97
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,51,Information,167
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,51,Information,158
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,51,Information,185
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,51,Information,144
@@ -1677,7 +1812,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,51,Infor
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,51,Information,177
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,6.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,51,Information,8.4
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,51,Information,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information,8.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,7.199999999999999
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,51,Information,7.1
@@ -1703,7 +1837,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,51,Infor
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,51,Information,7.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,8.200000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,51,Information,1734
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,51,Information,1726
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,6.7
@@ -1737,7 +1870,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,51,Information,
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,51,Information,1558
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,51,Information,1583
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,51,Information,1367
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,51,Information,1543
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,55,Management of Companies and Enterprises,6283
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,55,Management of Companies and Enterprises,5655
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,55,Management of Companies and Enterprises,5881
@@ -1769,7 +1901,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q4,55,Ma
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,55,Management of Companies and Enterprises,8654
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,55,Management of Companies and Enterprises,8792
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,55,Management of Companies and Enterprises,7954
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,55,Management of Companies and Enterprises,-8
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,55,Management of Companies and Enterprises,11805
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,55,Management of Companies and Enterprises,-13
@@ -1801,7 +1932,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q4,55,Ma
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,55,Management of Companies and Enterprises,-42
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,55,Management of Companies and Enterprises,18
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,55,Management of Companies and Enterprises,-50
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,55,Management of Companies and Enterprises,17
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,55,Management of Companies and Enterprises,47
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,55,Management of Companies and Enterprises,40
@@ -1832,7 +1962,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q4,55,Manageme
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q4,55,Management of Companies and Enterprises,60
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,55,Management of Companies and Enterprises,82
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,55,Management of Companies and Enterprises,99
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,55,Management of Companies and Enterprises,80
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,55,Management of Companies and Enterprises,73
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,55,Management of Companies and Enterprises,55
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,55,Management of Companies and Enterprises,62
@@ -1865,7 +1994,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,55,Mana
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q4,55,Management of Companies and Enterprises,100
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,55,Management of Companies and Enterprises,73
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,55,Management of Companies and Enterprises,124
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,55,Management of Companies and Enterprises,90
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,55,Management of Companies and Enterprises,6.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,4.8
@@ -1897,7 +2025,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,55,Manag
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,55,Management of Companies and Enterprises,5.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,55,Management of Companies and Enterprises,5.2
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,55,Management of Companies and Enterprises,4.2
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,55,Management of Companies and Enterprises,940
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,55,Management of Companies and Enterprises,988
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q1,55,Management of Companies and Enterprises,1011
@@ -1929,7 +2056,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q4,55,Management o
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,55,Management of Companies and Enterprises,1088
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,55,Management of Companies and Enterprises,945
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,55,Management of Companies and Enterprises,1100
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,55,Management of Companies and Enterprises,1124
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,55,Management of Companies and Enterprises,975
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,31-33,Manufacturing,4407
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,31-33,Manufacturing,4414
@@ -1962,7 +2088,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,31-33
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,31-33,Manufacturing,5104
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,31-33,Manufacturing,5307
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,31-33,Manufacturing,5405
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,31-33,Manufacturing,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,31-33,Manufacturing,147
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,31-33,Manufacturing,164
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,31-33,Manufacturing,-7
@@ -1993,7 +2118,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,31-33
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,31-33,Manufacturing,191
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,31-33,Manufacturing,-187
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,31-33,Manufacturing,21
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,31-33,Manufacturing,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,31-33,Manufacturing,443
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,31-33,Manufacturing,660
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,31-33,Manufacturing,601
@@ -2023,7 +2147,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q4,31-33,Manuf
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,31-33,Manufacturing,599
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,31-33,Manufacturing,640
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,31-33,Manufacturing,985
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,31-33,Manufacturing,832
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,31-33,Manufacturing,702
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,31-33,Manufacturing,579
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,31-33,Manufacturing,665
@@ -2054,7 +2177,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q4,31-33,M
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,31-33,Manufacturing,886
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,31-33,Manufacturing,788
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,31-33,Manufacturing,1130
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,31-33,Manufacturing,0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q2,31-33,Manufacturing,983
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manufacturing,4.3999999999999995
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q3,31-33,Manufacturing,922
@@ -2087,7 +2209,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,31-33,Ma
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,Manufacturing,5.800000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,5.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufacturing,5.8999999999999995
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,31-33,Manufacturing,9123
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,31-33,Manufacturing,9625
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,31-33,Manufacturing,9596
@@ -2120,7 +2241,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,31-33,Manufactu
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q2,31-33,Manufacturing,9083
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,31-33,Manufacturing,9024
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5262
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,31-33,Manufacturing,9874
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4965
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6430
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6211
@@ -2151,7 +2271,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,21,"M
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5647
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5709
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6715
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",28
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-5
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-29
@@ -2184,7 +2303,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,21,"M
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-20
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",85
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",22
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",27
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",33
@@ -2216,7 +2334,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,21,"Mining,
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",11
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",34
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",62
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",58
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",53
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",38
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",36
@@ -2247,7 +2364,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,21,"Min
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",51
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",51
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",41
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5.1
@@ -2279,7 +2395,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mini
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",2.8000000000000003
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",9.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",479
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",474
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",415
@@ -2310,7 +2425,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Qua
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",337
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",290
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",290
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",298
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,81,Other Services (except Public Administration),2215
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,81,Other Services (except Public Administration),2182
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,81,Other Services (except Public Administration),2570
@@ -2342,7 +2456,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,81,Ot
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,81,Other Services (except Public Administration),2887
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,81,Other Services (except Public Administration),3198
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,81,Other Services (except Public Administration),3263
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,81,Other Services (except Public Administration),0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,81,Other Services (except Public Administration),-9
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,81,Other Services (except Public Administration),71
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,81,Other Services (except Public Administration),14
@@ -2378,7 +2491,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,81,Ot
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,81,Other Services (except Public Administration),296
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,81,Other Services (except Public Administration),293
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,81,Other Services (except Public Administration),266
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,81,Other Services (except Public Administration),0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,81,Other Services (except Public Administration),344
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,81,Other Services (except Public Administration),292
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q1,81,Other Services (except Public Administration),287
@@ -2406,7 +2518,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q4,81,Other Se
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,81,Other Services (except Public Administration),338
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,81,Other Services (except Public Administration),262
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,81,Other Services (except Public Administration),287
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,81,Other Services (except Public Administration),403
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,81,Other Services (except Public Administration),345
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,81,Other Services (except Public Administration),374
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,81,Other Services (except Public Administration),280
@@ -2438,7 +2549,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q4,81,Othe
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,81,Other Services (except Public Administration),418
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,81,Other Services (except Public Administration),393
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,81,Other Services (except Public Administration),353
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,81,Other Services (except Public Administration),0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,81,Other Services (except Public Administration),416
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Services (except Public Administration),8.200000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),8.4
@@ -2470,7 +2580,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,81,Other
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,81,Other Services (except Public Administration),6.800000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,81,Other Services (except Public Administration),13
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,81,Other Services (except Public Administration),10.299999999999999
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),8.5
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),2696
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,81,Other Services (except Public Administration),2805
@@ -2501,7 +2610,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q4,81,Other Servic
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q4,81,Other Services (except Public Administration),2844
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,81,Other Services (except Public Administration),2850
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,81,Other Services (except Public Administration),2662
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,81,Other Services (except Public Administration),3067
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,81,Other Services (except Public Administration),3023
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",3946
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,81,Other Services (except Public Administration),2863
@@ -2535,7 +2643,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,54,"P
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",5534
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",5158
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",6295
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",180
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",28
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",76
@@ -2568,7 +2675,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,54,"P
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",3
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",30
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",338
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",358
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",368
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",395
@@ -2601,7 +2707,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,54,"Profess
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",412
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",317
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",446
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",317
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",432
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",336
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",296
@@ -2630,7 +2735,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q4,54,"Pro
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,54,"Professional, Scientific, and Technical Services",378
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",377
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",381
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",9
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",449
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",8.799999999999999
@@ -2665,7 +2769,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Prof
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",9.2
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",2470
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",2511
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",2751
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",2865
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",2787
@@ -2696,7 +2799,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,54,"Professiona
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",2789
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,92,Public Administration,3746
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,92,Public Administration,3827
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",2890
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",2557
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,92,Public Administration,4226
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,92,Public Administration,4018
@@ -2740,7 +2842,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q2,92,Pu
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q2,92,Public Administration,242
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q2,92,Public Administration,239
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q2,92,Public Administration,253
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,92,Public Administration,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q2,92,Public Administration,262
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,101
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-204
@@ -2756,7 +2857,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q4,92,Pu
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q4,92,Public Administration,-119
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,92,Public Administration,-75
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,92,Public Administration,-477
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,92,Public Administration,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,92,Public Administration,-84
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,92,Public Administration,395
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,92,Public Administration,160
@@ -2790,7 +2890,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,92,Public A
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,92,Public Administration,242
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,92,Public Administration,308
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,92,Public Administration,270
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,92,Public Administration,314
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,92,Public Administration,249
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,92,Public Administration,195
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q1,92,Public Administration,269
@@ -2823,7 +2922,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,92,Publ
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,92,Public Administration,350
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,92,Public Administration,31
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,92,Public Administration,797
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,92,Public Administration,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,2.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,2.8000000000000003
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,2.8000000000000003
@@ -2857,7 +2955,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,92,Publi
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,4.7
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,92,Public Administration,6443
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,6645
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,6845
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q1,92,Public Administration,6289
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q1,92,Public Administration,6274
@@ -2885,7 +2982,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,92,Public Admin
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,92,Public Administration,6292
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,92,Public Administration,5776
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,92,Public Administration,6344
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,92,Public Administration,6471
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,53,Real Estate and Rental and Leasing,2833
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,53,Real Estate and Rental and Leasing,3109
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q4,92,Public Administration,6407
@@ -2922,7 +3018,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,53,Re
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,53,Real Estate and Rental and Leasing,3
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,53,Real Estate and Rental and Leasing,8
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,53,Real Estate and Rental and Leasing,-5
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,53,Real Estate and Rental and Leasing,-25
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q2,53,Real Estate and Rental and Leasing,36
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q1,53,Real Estate and Rental and Leasing,-44
@@ -2950,7 +3045,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,53,Re
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,53,Real Estate and Rental and Leasing,-38
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,53,Real Estate and Rental and Leasing,-46
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,53,Real Estate and Rental and Leasing,126
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,53,Real Estate and Rental and Leasing,115
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,53,Real Estate and Rental and Leasing,127
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,53,Real Estate and Rental and Leasing,111
@@ -2982,7 +3076,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,53,Real Est
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,53,Real Estate and Rental and Leasing,300
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,53,Real Estate and Rental and Leasing,210
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,53,Real Estate and Rental and Leasing,210
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,53,Real Estate and Rental and Leasing,155
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,53,Real Estate and Rental and Leasing,142
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,53,Real Estate and Rental and Leasing,135
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,53,Real Estate and Rental and Leasing,171
@@ -3013,7 +3106,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,53,Real
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q4,53,Real Estate and Rental and Leasing,171
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,53,Real Estate and Rental and Leasing,266
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,53,Real Estate and Rental and Leasing,364
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,53,Real Estate and Rental and Leasing,280
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,8.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,8.5
@@ -3046,7 +3138,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,53,Real 
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,53,Real Estate and Rental and Leasing,10.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,53,Real Estate and Rental and Leasing,11
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,53,Real Estate and Rental and Leasing,16.400000000000002
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,53,Real Estate and Rental and Leasing,1120
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,53,Real Estate and Rental and Leasing,1125
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,53,Real Estate and Rental and Leasing,1203
@@ -3078,7 +3169,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,53,Real Estate 
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,53,Real Estate and Rental and Leasing,1215
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,53,Real Estate and Rental and Leasing,1294
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,53,Real Estate and Rental and Leasing,1417
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,53,Real Estate and Rental and Leasing,1343
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,44-45,Retail Trade,2354
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,44-45,Retail Trade,2457
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,44-45,Retail Trade,2383
@@ -3110,7 +3200,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,44-45
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,44-45,Retail Trade,3162
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,44-45,Retail Trade,2809
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,44-45,Retail Trade,3345
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,44-45,Retail Trade,0
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,44-45,Retail Trade,-1144
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,44-45,Retail Trade,-489
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,44-45,Retail Trade,-646
@@ -3143,7 +3232,6 @@ Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,44-45
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,44-45,Retail Trade,67
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,44-45,Retail Trade,352
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,44-45,Retail Trade,1577
-Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,44-45,Retail Trade,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,44-45,Retail Trade,1593
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,44-45,Retail Trade,1711
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q1,44-45,Retail Trade,1770
@@ -3175,7 +3263,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,44-45,Retai
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,44-45,Retail Trade,2820
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,44-45,Retail Trade,2907
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,44-45,Retail Trade,3436
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,44-45,Retail Trade,2827
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,44-45,Retail Trade,2928
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,44-45,Retail Trade,2280
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,44-45,Retail Trade,2523
@@ -3207,7 +3294,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,44-45,R
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,44-45,Retail Trade,2694
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,44-45,Retail Trade,3158
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,44-45,Retail Trade,3382
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,44-45,Retail Trade,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,44-45,Retail Trade,11.200000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,12.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.5
@@ -3240,7 +3326,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Re
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,11.600000000000001
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,15192
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,11.600000000000001
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,15016
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,44-45,Retail Trade,15440
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q1,44-45,Retail Trade,15052
@@ -3271,7 +3356,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,44-45,Retail Tr
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,44-45,Retail Trade,14102
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,44-45,Retail Trade,13670
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,44-45,Retail Trade,14060
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,44-45,Retail Trade,14440
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,48-49,Transportation and Warehousing,3144
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,48-49,Transportation and Warehousing,3225
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,48-49,Transportation and Warehousing,3152
@@ -3303,7 +3387,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,48-49
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,48-49,Transportation and Warehousing,3829
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,48-49,Transportation and Warehousing,4157
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,48-49,Transportation and Warehousing,4786
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,48-49,Transportation and Warehousing,-307
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,48-49,Transportation and Warehousing,-370
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,48-49,Transportation and Warehousing,-213
@@ -3335,7 +3418,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,48-49
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,48-49,Transportation and Warehousing,330
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,48-49,Transportation and Warehousing,1195
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,48-49,Transportation and Warehousing,68
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,48-49,Transportation and Warehousing,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,48-49,Transportation and Warehousing,663
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,48-49,Transportation and Warehousing,560
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,48-49,Transportation and Warehousing,710
@@ -3365,7 +3447,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q4,48-49,Trans
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q4,48-49,Transportation and Warehousing,1409
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q4,48-49,Transportation and Warehousing,1663
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,48-49,Transportation and Warehousing,1694
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,48-49,Transportation and Warehousing,1856
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,48-49,Transportation and Warehousing,1097
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,48-49,Transportation and Warehousing,1030
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,48-49,Transportation and Warehousing,2676
@@ -3398,7 +3479,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q4,48-49,T
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,48-49,Transportation and Warehousing,1560
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,48-49,Transportation and Warehousing,1527
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,48-49,Transportation and Warehousing,1766
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transportation and Warehousing,9.8
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,48-49,Transportation and Warehousing,933
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,10.100000000000001
@@ -3429,7 +3509,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,48-49,Tr
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q4,48-49,Transportation and Warehousing,9.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transportation and Warehousing,9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,Transportation and Warehousing,11.700000000000001
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,8.799999999999999
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,5459
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,11.600000000000001
@@ -3463,7 +3542,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,48-49,Transport
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,48-49,Transportation and Warehousing,5978
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,48-49,Transportation and Warehousing,4237
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,48-49,Transportation and Warehousing,6177
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,48-49,Transportation and Warehousing,6668
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,22,Utilities,9230
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,22,Utilities,8937
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,22,Utilities,9730
@@ -3495,7 +3573,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q4,22,Ut
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,22,Utilities,9192
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,22,Utilities,8533
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,22,Utilities,7979
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,22,Utilities,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,22,Utilities,2
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,22,Utilities,-4
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,22,Utilities,-10
@@ -3526,7 +3603,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q4,22,Ut
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,22,Utilities,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,22,Utilities,-1
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,22,Utilities,4
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,22,Utilities,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,22,Utilities,11
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,22,Utilities,8
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2018Q1,22,Utilities,5
@@ -3557,7 +3633,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q4,22,Utilitie
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,22,Utilities,9
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,22,Utilities,6
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,22,Utilities,26
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,22,Utilities,19
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,22,Utilities,16
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,22,Utilities,10
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,22,Utilities,16
@@ -3590,7 +3665,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q4,22,Util
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,22,Utilities,16
 Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,22,Utilities,3
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,22,Utilities,7
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,22,Utilities,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,2.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,2.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,3.3000000000000003
@@ -3622,7 +3696,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,22,Utili
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,22,Utilities,2.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities,5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,0
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,22,Utilities,277
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,22,Utilities,334
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q1,22,Utilities,295
@@ -3655,7 +3728,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,22,Utilities,31
 Workers,Western Maryland WIA,Maryland Workers by Industry,2018Q4,22,Utilities,299
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,22,Utilities,315
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,22,Utilities,335
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,22,Utilities,330
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,42,Wholesale Trade,4768
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,42,Wholesale Trade,4450
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,42,Wholesale Trade,4993
@@ -3687,7 +3759,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,42,Wh
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q4,42,Wholesale Trade,4891
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,42,Wholesale Trade,5478
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,42,Wholesale Trade,5761
-Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2022Q4,42,Wholesale Trade,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,42,Wholesale Trade,80
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2016Q1,42,Wholesale Trade,57
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q1,42,Wholesale Trade,-255
@@ -3719,7 +3790,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2018Q4,42,Wh
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,42,Wholesale Trade,17
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2020Q4,42,Wholesale Trade,17
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q4,42,Wholesale Trade,30
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2022Q4,42,Wholesale Trade,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2015Q1,42,Wholesale Trade,352
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q1,42,Wholesale Trade,367
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2017Q1,42,Wholesale Trade,342
@@ -3751,7 +3821,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q4,42,Wholesal
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2019Q4,42,Wholesale Trade,480
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2020Q4,42,Wholesale Trade,536
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2021Q4,42,Wholesale Trade,617
-New Hires,Western Maryland WIA,Maryland New Hires by Industry,2022Q4,42,Wholesale Trade,421
 Separations,Western Maryland WIA,Maryland Separations by Industry,2016Q1,42,Wholesale Trade,368
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q1,42,Wholesale Trade,320
 Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,42,Wholesale Trade,379
@@ -3781,7 +3850,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2018Q4,42,Whol
 Separations,Western Maryland WIA,Maryland Separations by Industry,2019Q4,42,Wholesale Trade,520
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q4,42,Wholesale Trade,584
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,42,Wholesale Trade,638
-Separations,Western Maryland WIA,Maryland Separations by Industry,2022Q4,42,Wholesale Trade,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,7.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,42,Wholesale Trade,7.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,7.6
@@ -3814,7 +3882,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,42,Whole
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,42,Wholesale Trade,11.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,42,Wholesale Trade,8.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,8.4
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,3247
 Workers,Western Maryland WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,3615
 Workers,Western Maryland WIA,Maryland Workers by Industry,2017Q1,42,Wholesale Trade,3699
@@ -3848,7 +3915,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q4,42,Wholesale Tr
 Workers,Western Maryland WIA,Maryland Workers by Industry,2020Q4,42,Wholesale Trade,3341
 Workers,Western Maryland WIA,Maryland Workers by Industry,2021Q4,42,Wholesale Trade,3732
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A01,14-18,596
-Workers,Western Maryland WIA,Maryland Workers by Industry,2022Q4,42,Wholesale Trade,4395
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A01,14-18,608
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A01,14-18,642
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A01,14-18,683
@@ -3880,7 +3946,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A01,14-18,1002
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A02,19-21,1179
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A01,14-18,1006
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A01,14-18,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A02,19-21,1158
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A02,19-21,1252
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A02,19-21,1339
@@ -3910,7 +3975,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A02,19-21,1786
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A02,19-21,1557
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A02,19-21,1923
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A02,19-21,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A03,22-24,1830
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A03,22-24,1825
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A03,22-24,1970
@@ -3943,7 +4007,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A03,22-24,2614
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A04,25-34,2729
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A03,22-24,2935
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A03,22-24,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A04,25-34,2769
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A04,25-34,2924
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q1,A04,25-34,3114
@@ -3974,7 +4037,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A04,25-34,3289
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A04,25-34,3392
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A04,25-34,4062
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A04,25-34,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A04,25-34,3603
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A05,35-44,3682
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A05,35-44,3799
@@ -4007,7 +4069,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A05,35-44,4821
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A05,35-44,4460
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A05,35-44,5425
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A05,35-44,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A06,45-54,3943
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A06,45-54,3903
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A06,45-54,4363
@@ -4038,7 +4099,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A06,45-54,4772
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,4485
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A07,55-64,3891
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A06,45-54,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A07,55-64,3901
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A06,45-54,5022
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A06,45-54,5533
@@ -4071,7 +4131,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A07,55-64,4561
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A07,55-64,5024
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A07,55-64,5318
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A07,55-64,0
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A01,14-18,2552
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A01,14-18,2537
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q1,A01,14-18,2874
@@ -4103,7 +4162,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2018Q4,A01,14-18,2928
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q2,A01,14-18,2680
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A01,14-18,2923
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A01,14-18,3302
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A01,14-18,3451
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A02,19-21,5155
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A02,19-21,5293
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q1,A02,19-21,5367
@@ -4136,7 +4194,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A02,19-21,5127
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q3,A02,19-21,5792
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A02,19-21,4978
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A03,22-24,6463
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A02,19-21,5280
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A03,22-24,6463
 Workers,Western Maryland WIA,Maryland Workers by Age,2017Q1,A03,22-24,6248
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q1,A03,22-24,5952
@@ -4167,7 +4224,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2018Q4,A03,22-24,5859
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A03,22-24,5604
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A03,22-24,5207
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A03,22-24,5356
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A03,22-24,6097
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A04,25-34,20671
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q1,A04,25-34,20823
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A04,25-34,21059
@@ -4197,7 +4253,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2016Q4,A04,25-34,21401
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q4,A04,25-34,20733
 Workers,Western Maryland WIA,Maryland Workers by Age,2017Q4,A04,25-34,21036
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A04,25-34,20500
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A04,25-34,20909
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A04,25-34,18789
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A04,25-34,19212
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A05,35-44,21170
@@ -4231,7 +4286,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2018Q4,A05,35-44,20407
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A05,35-44,20303
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A05,35-44,19258
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A05,35-44,19490
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A05,35-44,21417
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A06,45-54,24240
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A06,45-54,24192
 Workers,Western Maryland WIA,Maryland Workers by Age,2017Q1,A06,45-54,24114
@@ -4263,7 +4317,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A06,45-54,22403
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A06,45-54,20803
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q4,A06,45-54,23111
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A06,45-54,20320
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A06,45-54,21388
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A07,55-64,18419
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A07,55-64,18908
 Workers,Western Maryland WIA,Maryland Workers by Age,2018Q1,A07,55-64,19296
@@ -4295,7 +4348,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2017Q4,A07,55-64,19456
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A07,55-64,18557
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A07,55-64,18875
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A07,55-64,19530
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A07,55-64,19477
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A01,14-18,853
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A01,14-18,832
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A01,14-18,756
@@ -4326,7 +4378,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A01,14-18,11
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A01,14-18,1092
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A01,14-18,1411
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A02,19-21,1608
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A01,14-18,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A02,19-21,1623
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A02,19-21,1645
 Separations,Western Maryland WIA,Maryland Separations by Age,2018Q1,A02,19-21,1679
@@ -4357,7 +4408,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2017Q4,A02,19-21,18
 Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A02,19-21,1836
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A02,19-21,1768
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A02,19-21,2171
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A02,19-21,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A03,22-24,1579
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A03,22-24,1547
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A03,22-24,1537
@@ -4392,7 +4442,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2017Q4,A03,22-24,16
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A03,22-24,1851
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A04,25-34,3229
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A04,25-34,3319
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A03,22-24,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2018Q1,A04,25-34,3560
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A04,25-34,3356
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q1,A04,25-34,3344
@@ -4423,7 +4472,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A04,25-34,41
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A04,25-34,4300
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A04,25-34,4213
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A04,25-34,4713
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A04,25-34,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A05,35-44,2241
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A05,35-44,2307
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A05,35-44,2148
@@ -4454,7 +4502,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A05,35-44,28
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q4,A05,35-44,2860
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A05,35-44,2949
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A05,35-44,3116
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A05,35-44,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A05,35-44,3324
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A06,45-54,2076
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A06,45-54,1881
@@ -4487,7 +4534,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A06,45-54,23
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A06,45-54,2581
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A06,45-54,2511
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A06,45-54,2591
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A06,45-54,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A07,55-64,1439
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A07,55-64,1308
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A07,55-64,1390
@@ -4519,7 +4565,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A07,55-64,17
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A07,55-64,1883
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A07,55-64,2099
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q1,1,Male,3907
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A07,55-64,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A07,55-64,2190
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q1,1,Male,3885
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q1,1,Male,4145
@@ -4548,7 +4593,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q4
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q4,1,Male,4297
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q4,1,Male,4513
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q4,1,Male,4711
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,1,Male,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q4,1,Male,5102
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q4,1,Male,4766
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q1,2,Female,2655
@@ -4583,7 +4627,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q4
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q4,2,Female,3437
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Female,3229
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q4,2,Female,3824
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q4,2,Female,0
 Workers,Western Maryland WIA,Maryland Workers by Gender,2015Q1,1,Male,49706
 Workers,Western Maryland WIA,Maryland Workers by Gender,2016Q1,1,Male,50591
 Workers,Western Maryland WIA,Maryland Workers by Gender,2017Q1,1,Male,50977
@@ -4615,7 +4658,6 @@ Workers,Western Maryland WIA,Maryland Workers by Gender,2018Q4,1,Male,50828
 Workers,Western Maryland WIA,Maryland Workers by Gender,2020Q4,1,Male,47872
 Workers,Western Maryland WIA,Maryland Workers by Gender,2019Q4,1,Male,50357
 Workers,Western Maryland WIA,Maryland Workers by Gender,2021Q4,1,Male,48344
-Workers,Western Maryland WIA,Maryland Workers by Gender,2022Q4,1,Male,52600
 Workers,Western Maryland WIA,Maryland Workers by Gender,2015Q1,2,Female,54781
 Workers,Western Maryland WIA,Maryland Workers by Gender,2016Q1,2,Female,54735
 Workers,Western Maryland WIA,Maryland Workers by Gender,2017Q1,2,Female,55530
@@ -4647,7 +4689,6 @@ Workers,Western Maryland WIA,Maryland Workers by Gender,2017Q4,2,Female,54429
 Workers,Western Maryland WIA,Maryland Workers by Gender,2020Q4,2,Female,49535
 Workers,Western Maryland WIA,Maryland Workers by Gender,2021Q4,2,Female,50564
 Workers,Western Maryland WIA,Maryland Workers by Gender,2019Q4,2,Female,53538
-Workers,Western Maryland WIA,Maryland Workers by Gender,2022Q4,2,Female,53570
 Separations,Western Maryland WIA,Maryland Separations by Gender,2015Q1,1,Male,7021
 Separations,Western Maryland WIA,Maryland Separations by Gender,2017Q1,1,Male,6763
 Separations,Western Maryland WIA,Maryland Separations by Gender,2019Q1,1,Male,6722
@@ -4679,7 +4720,6 @@ Separations,Western Maryland WIA,Maryland Separations by Gender,2019Q4,1,Male,85
 Separations,Western Maryland WIA,Maryland Separations by Gender,2018Q4,1,Male,8780
 Separations,Western Maryland WIA,Maryland Separations by Gender,2020Q4,1,Male,8912
 Separations,Western Maryland WIA,Maryland Separations by Gender,2021Q4,1,Male,9474
-Separations,Western Maryland WIA,Maryland Separations by Gender,2022Q4,1,Male,0
 Separations,Western Maryland WIA,Maryland Separations by Gender,2015Q1,2,Female,6751
 Separations,Western Maryland WIA,Maryland Separations by Gender,2017Q1,2,Female,6963
 Separations,Western Maryland WIA,Maryland Separations by Gender,2016Q1,2,Female,6402
@@ -4711,7 +4751,6 @@ Separations,Western Maryland WIA,Maryland Separations by Gender,2018Q4,2,Female,
 Separations,Western Maryland WIA,Maryland Separations by Gender,2020Q4,2,Female,9514
 Separations,Western Maryland WIA,Maryland Separations by Gender,2019Q4,2,Female,8551
 Separations,Western Maryland WIA,Maryland Separations by Gender,2021Q4,2,Female,9772
-Separations,Western Maryland WIA,Maryland Separations by Gender,2022Q4,2,Female,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q1,E1,Less than High school,-120
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2017Q1,E1,Less than High school,-147
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2015Q1,E1,Less than High school,-149
@@ -4744,7 +4783,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q4,E1,L
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2020Q4,E1,Less than High school,74
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2021Q4,E1,Less than High school,-16
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2015Q1,E2,"High school or equivalent, no college",-380
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E1,Less than High school,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q1,E2,"High school or equivalent, no college",-266
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2018Q1,E2,"High school or equivalent, no college",-368
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2017Q1,E2,"High school or equivalent, no college",-293
@@ -4776,7 +4814,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q4,E2,"
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2021Q4,E2,"High school or equivalent, no college",-166
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2020Q4,E2,"High school or equivalent, no college",-168
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2015Q1,E3,Some college or Associate degree,-298
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E2,"High school or equivalent, no college",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2017Q1,E3,Some college or Associate degree,-359
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2018Q1,E3,Some college or Associate degree,-292
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q1,E3,Some college or Associate degree,-160
@@ -4805,7 +4842,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q4,E3,S
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2018Q4,E3,Some college or Associate degree,-196
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q4,E3,Some college or Associate degree,-170
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2021Q4,E3,Some college or Associate degree,-136
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E3,Some college or Associate degree,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2020Q4,E3,Some college or Associate degree,-118
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2015Q1,E4,Bachelor's degree or advanced degree,-78
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q1,E4,Bachelor's degree or advanced degree,-51
@@ -4837,7 +4873,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q4,E4,B
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2018Q4,E4,Bachelor's degree or advanced degree,-19
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q4,E4,Bachelor's degree or advanced degree,-78
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2021Q4,E4,Bachelor's degree or advanced degree,-27
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2020Q4,E4,Bachelor's degree or advanced degree,-183
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2015Q1,E1,Less than High school,1129
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2016Q1,E1,Less than High school,1140
@@ -4870,7 +4905,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Education,2019Q4,E1,Less th
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q3,E1,Less than High school,1968
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q4,E1,Less than High school,1590
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2020Q4,E1,Less than High school,1684
-New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E1,Less than High school,1752
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q4,E1,Less than High school,1870
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2015Q1,E2,"High school or equivalent, no college",2399
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2017Q1,E2,"High school or equivalent, no college",2526
@@ -4903,7 +4937,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q4,E2,"High s
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2019Q4,E2,"High school or equivalent, no college",3051
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2020Q4,E2,"High school or equivalent, no college",3199
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q4,E2,"High school or equivalent, no college",3680
-New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E2,"High school or equivalent, no college",3253
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2015Q1,E3,Some college or Associate degree,2273
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2016Q1,E3,Some college or Associate degree,2273
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q1,E3,Some college or Associate degree,2466
@@ -4934,7 +4967,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Education,2017Q4,E3,Some co
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q4,E3,Some college or Associate degree,2943
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2019Q4,E3,Some college or Associate degree,2998
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q4,E3,Some college or Associate degree,3707
-New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E3,Some college or Associate degree,3301
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2020Q4,E3,Some college or Associate degree,3123
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2015Q1,E4,Bachelor's degree or advanced degree,1462
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2016Q1,E4,Bachelor's degree or advanced degree,1405
@@ -4967,7 +4999,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q4,E4,Bachelo
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2017Q4,E4,Bachelor's degree or advanced degree,1752
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2020Q4,E4,Bachelor's degree or advanced degree,2036
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q4,E4,Bachelor's degree or advanced degree,2490
-New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E4,Bachelor's degree or advanced degree,2283
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.094
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E1,Less than High school,0.089
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less than High school,0.09
@@ -5000,7 +5031,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.089
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.099
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.066
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High school or equivalent, no college",0.07
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E2,"High school or equivalent, no college",0.067
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.069
@@ -5031,7 +5061,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E2,"Hig
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E2,"High school or equivalent, no college",0.079
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.071
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E2,"High school or equivalent, no college",0.079
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.067
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.07
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.069
@@ -5062,7 +5091,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some college or Associate degree,0.063
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some college or Associate degree,0.081
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some college or Associate degree,0.07
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.081
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.065
@@ -5095,7 +5123,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bach
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor's degree or advanced degree,0.075
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E4,Bachelor's degree or advanced degree,0.072
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.082
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,-371
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,-542
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2016Q1,1,Male,-221
@@ -5127,7 +5154,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2018Q4,1,Male,
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2020Q4,1,Male,462
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2021Q4,1,Male,-297
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,3453
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2022Q4,1,Male,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q1,0,All,3251
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q1,0,All,3262
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q1,0,All,3607
@@ -5158,7 +5184,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,20
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q4,0,All,3886
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q4,0,All,4262
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2021Q4,0,All,4662
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q4,0,All,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.08
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.086
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.081
@@ -5190,7 +5215,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2018Q4,1,Male,0.078
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2020Q4,1,Male,0.086
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.093
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.094
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0.088
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2015Q1,2,Female,0.085
@@ -5221,7 +5245,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.079
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2018Q4,2,Female,0.078
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2019Q4,2,Female,0.102
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.101
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2020Q4,2,Female,0.094
 Separations,Western Maryland WIA,Maryland Separations by Gender All,2015Q1,0,All,13772
@@ -5254,7 +5277,6 @@ Separations,Western Maryland WIA,Maryland Separations by Gender All,2018Q4,0,All
 Separations,Western Maryland WIA,Maryland Separations by Gender All,2019Q4,0,All,17076
 Separations,Western Maryland WIA,Maryland Separations by Gender All,2020Q4,0,All,18384
 Separations,Western Maryland WIA,Maryland Separations by Gender All,2021Q4,0,All,19246
-Separations,Western Maryland WIA,Maryland Separations by Gender All,2022Q4,0,All,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.083
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.086
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.085
@@ -5286,7 +5308,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2018Q4,0,All,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2019Q4,0,All,0.098
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.09
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.098
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3755
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),3528
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),3358
@@ -5318,7 +5339,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Education,2017Q4,E5,Educati
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),4551
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2018Q4,E5,Educational attainment not available (workers aged 24 or younger),4764
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),5625
-New Hires,Western Maryland WIA,Maryland New Hires by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),4640
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),5016
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2015Q1,0,All Sexes,104487
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2016Q1,0,All Sexes,105326
@@ -5351,7 +5371,6 @@ Workers,Western Maryland WIA,Maryland Workers by Gender All,2018Q4,0,All Sexes,1
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2019Q4,0,All Sexes,103895
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2020Q4,0,All Sexes,97407
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2021Q4,0,All Sexes,98908
-Workers,Western Maryland WIA,Maryland Workers by Gender All,2022Q4,0,All Sexes,106169
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2016Q1,2,Female,-136
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2015Q1,2,Female,-534
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2017Q1,2,Female,-651
@@ -5385,7 +5404,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2018Q4,2,Femal
 Workers,Western Maryland WIA,Maryland Workers by Age All,2016Q1,A00,All Ages,105326
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2020Q4,2,Female,204
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2021Q4,2,Female,130
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2022Q4,2,Female,0
 Workers,Western Maryland WIA,Maryland Workers by Age All,2018Q1,A00,All Ages,105124
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2015Q1,0,All,-905
 Workers,Western Maryland WIA,Maryland Workers by Age All,2017Q1,A00,All Ages,106506
@@ -5439,7 +5457,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2021Q3,0,A
 Workers,Western Maryland WIA,Maryland Workers by Age All,2019Q4,A00,All Ages,103895
 Workers,Western Maryland WIA,Maryland Workers by Age All,2021Q4,A00,All Ages,98908
 Workers,Western Maryland WIA,Maryland Workers by Age All,2020Q4,A00,All Ages,97407
-Workers,Western Maryland WIA,Maryland Workers by Age All,2022Q4,A00,All Ages,106169
 Workers,Western Maryland WIA,Maryland Workers by Age,2015Q1,A08,65-99,5816
 Workers,Western Maryland WIA,Maryland Workers by Age,2017Q1,A08,65-99,6499
 Workers,Western Maryland WIA,Maryland Workers by Age,2016Q1,A08,65-99,6108
@@ -5471,7 +5488,6 @@ Workers,Western Maryland WIA,Maryland Workers by Age,2017Q4,A08,65-99,6737
 Workers,Western Maryland WIA,Maryland Workers by Age,2019Q4,A08,65-99,7401
 Workers,Western Maryland WIA,Maryland Workers by Age,2021Q4,A08,65-99,7374
 Workers,Western Maryland WIA,Maryland Workers by Age,2020Q4,A08,65-99,6743
-Workers,Western Maryland WIA,Maryland Workers by Age,2022Q4,A08,65-99,8150
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q1,A08,65-99,681
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q1,A08,65-99,612
 Separations,Western Maryland WIA,Maryland Separations by Age,2017Q1,A08,65-99,721
@@ -5502,7 +5518,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2020Q3,A08,65-99,84
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2020Q4,0,All,204
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2021Q4,0,All,130
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q3,A08,65-99,1016
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2022Q4,0,All,0
 Separations,Western Maryland WIA,Maryland Separations by Age,2015Q4,A08,65-99,909
 Separations,Western Maryland WIA,Maryland Separations by Age,2022Q3,A08,65-99,995
 Separations,Western Maryland WIA,Maryland Separations by Age,2016Q4,A08,65-99,967
@@ -5511,7 +5526,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2018Q4,A08,65-99,10
 Separations,Western Maryland WIA,Maryland Separations by Age,2020Q4,A08,65-99,1161
 Separations,Western Maryland WIA,Maryland Separations by Age,2019Q4,A08,65-99,1067
 Separations,Western Maryland WIA,Maryland Separations by Age,2021Q4,A08,65-99,1175
-Separations,Western Maryland WIA,Maryland Separations by Age,2022Q4,A08,65-99,0
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2016Q1,1,Male,5534
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2015Q1,1,Male,5508
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2017Q1,1,Male,5405
@@ -5544,7 +5558,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Gender,2021Q4,1,Male,7975
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2019Q4,1,Male,6819
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2020Q4,1,Male,7715
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2015Q1,2,Female,5282
-New Hires,Western Maryland WIA,Maryland New Hires by Gender,2022Q4,1,Male,7538
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2016Q1,2,Female,5456
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2017Q1,2,Female,5593
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2018Q1,2,Female,5544
@@ -5576,7 +5589,6 @@ New Hires,Western Maryland WIA,Maryland New Hires by Gender,2019Q4,2,Female,7213
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2021Q4,2,Female,8788
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q1,A08,65-99,2550
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2020Q4,2,Female,7978
-New Hires,Western Maryland WIA,Maryland New Hires by Gender,2022Q4,2,Female,7690
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q1,A08,65-99,2648
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q1,A08,65-99,2868
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q1,A08,65-99,3035
@@ -5607,7 +5619,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q4,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q4,A08,65-99,3417
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,3731
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q4,A08,65-99,3951
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,0
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,-905
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,-357
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2018Q1,E0,All Education Categories,-944
@@ -5640,7 +5651,6 @@ Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2019Q4,
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2020Q4,E0,All Education Categories,666
 Separations,Western Maryland WIA,Maryland Separations by Education All,2015Q1,E0,All Education Categories,13772
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2021Q4,E0,All Education Categories,-167
-Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2022Q4,E0,All Education Categories,0
 Separations,Western Maryland WIA,Maryland Separations by Education All,2016Q1,E0,All Education Categories,13195
 Separations,Western Maryland WIA,Maryland Separations by Education All,2017Q1,E0,All Education Categories,13726
 Separations,Western Maryland WIA,Maryland Separations by Education All,2018Q1,E0,All Education Categories,14002
@@ -5670,7 +5680,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education All,2018Q4,E0
 Separations,Western Maryland WIA,Maryland Separations by Education All,2019Q4,E0,All Education Categories,17076
 Separations,Western Maryland WIA,Maryland Separations by Education All,2020Q4,E0,All Education Categories,18384
 Separations,Western Maryland WIA,Maryland Separations by Education All,2021Q4,E0,All Education Categories,19246
-Separations,Western Maryland WIA,Maryland Separations by Education All,2022Q4,E0,All Education Categories,0
 Separations,Western Maryland WIA,Maryland Separations by Education,2015Q1,E1,Less than High school,1446
 Separations,Western Maryland WIA,Maryland Separations by Education,2016Q1,E1,Less than High school,1431
 Separations,Western Maryland WIA,Maryland Separations by Education,2018Q1,E1,Less than High school,1561
@@ -5703,7 +5712,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2018Q4,E1,Les
 Separations,Western Maryland WIA,Maryland Separations by Education,2019Q4,E1,Less than High school,1968
 Separations,Western Maryland WIA,Maryland Separations by Education,2020Q4,E1,Less than High school,1966
 Separations,Western Maryland WIA,Maryland Separations by Education,2021Q4,E1,Less than High school,2129
-Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E1,Less than High school,0
 Separations,Western Maryland WIA,Maryland Separations by Education,2015Q1,E2,"High school or equivalent, no college",3273
 Separations,Western Maryland WIA,Maryland Separations by Education,2016Q1,E2,"High school or equivalent, no college",3119
 Separations,Western Maryland WIA,Maryland Separations by Education,2017Q1,E2,"High school or equivalent, no college",3158
@@ -5735,7 +5743,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2018Q4,E2,"Hi
 Separations,Western Maryland WIA,Maryland Separations by Education,2019Q4,E2,"High school or equivalent, no college",4093
 Separations,Western Maryland WIA,Maryland Separations by Education,2021Q4,E2,"High school or equivalent, no college",4400
 Separations,Western Maryland WIA,Maryland Separations by Education,2020Q4,E2,"High school or equivalent, no college",4247
-Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E2,"High school or equivalent, no college",0
 Separations,Western Maryland WIA,Maryland Separations by Education,2015Q1,E3,Some college or Associate degree,3045
 Separations,Western Maryland WIA,Maryland Separations by Education,2016Q1,E3,Some college or Associate degree,2911
 Separations,Western Maryland WIA,Maryland Separations by Education,2018Q1,E3,Some college or Associate degree,3153
@@ -5764,7 +5771,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2015Q4,E3,Som
 Separations,Western Maryland WIA,Maryland Separations by Education,2016Q4,E3,Some college or Associate degree,3838
 Separations,Western Maryland WIA,Maryland Separations by Education,2017Q4,E3,Some college or Associate degree,3742
 Separations,Western Maryland WIA,Maryland Separations by Education,2018Q4,E3,Some college or Associate degree,3767
-Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E3,Some college or Associate degree,0
 Separations,Western Maryland WIA,Maryland Separations by Education,2020Q4,E3,Some college or Associate degree,4134
 Separations,Western Maryland WIA,Maryland Separations by Education,2021Q4,E3,Some college or Associate degree,4420
 Separations,Western Maryland WIA,Maryland Separations by Education,2019Q4,E3,Some college or Associate degree,3935
@@ -5798,7 +5804,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2019Q4,E4,Bac
 Separations,Western Maryland WIA,Maryland Separations by Education,2018Q4,E4,Bachelor's degree or advanced degree,2474
 Separations,Western Maryland WIA,Maryland Separations by Education,2020Q4,E4,Bachelor's degree or advanced degree,2909
 Separations,Western Maryland WIA,Maryland Separations by Education,2021Q4,E4,Bachelor's degree or advanced degree,3044
-Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Separations,Western Maryland WIA,Maryland Separations by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),4041
 Separations,Western Maryland WIA,Maryland Separations by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),4015
 Separations,Western Maryland WIA,Maryland Separations by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),3926
@@ -5832,7 +5837,6 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2017Q4,E5,Edu
 Separations,Western Maryland WIA,Maryland Separations by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),5253
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),1
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),-41
-Separations,Western Maryland WIA,Maryland Separations by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),315
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),-262
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),109
@@ -5864,7 +5868,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2019Q4,E5,E
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),178
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),1061
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),0.193,
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),0.193,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),0.19,
@@ -5924,7 +5927,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,3751
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q4,A00,All Ages,4262
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q4,A00,All Ages,4662
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q4,A00,All Ages,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3767
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4096
 Separations,Western Maryland WIA,Maryland Separations by Age All,2015Q1,A00,All Ages,13772
@@ -5960,7 +5962,6 @@ Separations,Western Maryland WIA,Maryland Separations by Age All,2019Q4,A00,All 
 Separations,Western Maryland WIA,Maryland Separations by Age All,2020Q4,A00,All Ages,18384
 Separations,Western Maryland WIA,Maryland Separations by Age All,2021Q4,A00,All Ages,19246
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.083
-Separations,Western Maryland WIA,Maryland Separations by Age All,2022Q4,A00,All Ages,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.086
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.085
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.086
@@ -5991,4 +5992,3 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2019Q4,E0,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.09
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2018Q4,E0,All Education Categories,0.078
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Education Categories,0.098
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
