@@ -30,7 +30,7 @@ let wdaFooter = `
   <p id= "wda_footer">Notes:<br>1. For Maryland Separation data up until 2018Q2, please click <a style="color:blue" href="https://docs.google.com/document/d/1__DIUwbdgH1OjSu5wXaWoEOkTnGQkCuLRbuf7AMDoWs/edit?usp=drive_link" target="_blank">here.</a>
     <br>2. "TBD" represents values that are yet to be determined.
     <br>3. For Industry Metrics, "0" values in some sectors (e.g. Educational Services) represent suppressed values because they do not meet U.S. Census Bureau publication standards.
-    <br><br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on June 7, 2023<br></p>
+    <br><br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on October 1, 2023<br></p>
 
    
   </div>
@@ -84,7 +84,6 @@ export let wdaCollapse2 = `
   <div class="Table">
     <table id="table4">
     </table>
-    <div class="Footer">
       <p id= "table4_footer"><br>New Hires:<br> Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters.<br><br>Job Net Change:<br> Difference between firm job gain and firm job loss.</p>
     </div>
     ${wdaFooter}

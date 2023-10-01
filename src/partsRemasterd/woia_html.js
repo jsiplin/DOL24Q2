@@ -469,7 +469,7 @@ export let wdaCollapse2 = `
     </table>
     <div class="Footer" >
       <p>New Hires and Job Net Change since previous quarter.</p>
-      <p">New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters. </p>
+      <p>New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters. </p>
       <p>Job Net Change: Difference between firm job gain and firm job loss.</p>
     </div>
     ${wdaFooter}
