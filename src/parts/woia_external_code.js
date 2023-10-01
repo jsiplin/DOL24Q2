@@ -709,7 +709,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2021Q3</th>
           <th class="HeadRow">2021Q4</th>
           <th class="HeadRow">2022Q1</th>
-		  <th class="HeadRow">2022Q2</th> 
+		      <th class="HeadRow">2022Q2</th> 
           <th class="HeadRow">2022Q3</th> 
 
 
@@ -1101,6 +1101,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pturnChart],
         'svgName': '#ChartFive',
         'data': {
+            data22q2: [turnOverData2022Q2, turnOverDatg2022Q2],
             data22q1: [turnOverData2022Q1, turnOverDatg2022Q1],
             data21q4: [turnOverData2021Q4, turnOverDatg2021Q4],
             data21q3: [turnOverData2021Q3, turnOverDatg2021Q3],
@@ -1134,7 +1135,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
-			data22q2: [iwdata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2, hiredata2022Q2],
+			      data22q2: [iwdata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2, hiredata2022Q2],
             data22q1: [iwdata2022Q1, avgdata2022Q1, netdata2022Q1, turndata2022Q1, hiredata2022Q1],
             data21q4: [iwdata2021Q4, avgdata2021Q4, netdata2021Q4, turndata2021Q4, hiredata2021Q4],
             data21q3: [iwdata2021Q3, avgdata2021Q3, netdata2021Q3, turndata2021Q3, hiredata2021Q3],
@@ -1168,25 +1169,27 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart61],
         'svgName': '#Chart17',
         'data': {
-            data21q4: [isepdata2021Q4, asepdata2021Q4, gsepdata2021Q4, esepdata2021Q4],
-            data21q3: [isepdata2021Q3, asepdata2021Q3, gsepdata2021Q3, esepdata2021Q3],
-            data21q2: [isepdata2021Q2, asepdata2021Q2, gsepdata2021Q2, esepdata2021Q2],
-            data21q1: [isepdata2021Q1, asepdata2021Q1, gsepdata2021Q1, esepdata2021Q1],
-            data20q4: [isepdata2020Q4, asepdata2020Q4, gsepdata2020Q4, esepdata2020Q4],
-            data20q3: [isepdata2020Q3, asepdata2020Q3, gsepdata2020Q3, esepdata2020Q3],
-            data20q2: [isepdata2020Q2, asepdata2020Q2, gsepdata2020Q2, esepdata2020Q2],
-            data20q1: [isepdata2020Q1, asepdata2020Q1, gsepdata2020Q1, esepdata2020Q1],
-            data19q4: [isepdata2019Q4, asepdata2019Q4, gsepdata2019Q4, esepdata2019Q4],
-            data19q3: [isepdata2019Q3, asepdata2019Q3, gsepdata2019Q3, esepdata2019Q3],
-            data19q2: [isepdata2019Q2, asepdata2019Q2, gsepdata2019Q2, esepdata2019Q2],
-            data19q1: [isepdata2019Q1, asepdata2019Q1, gsepdata2019Q1, esepdata2019Q1],
-            data18q4: [isepdata2018Q4, asepdata2018Q4, gsepdata2018Q4, esepdata2018Q4],
-            data18q3: [isepdata2018Q3, asepdata2018Q3, gsepdata2018Q3, esepdata2018Q3],
-            data18q2: [isepdata2018Q2, asepdata2018Q2, gsepdata2018Q2, esepdata2018Q2],
-            data18q1: [isepdata2018Q1, asepdata2018Q1, gsepdata2018Q1, esepdata2018Q1],
-            data17q4: [isepdata2017Q4, asepdata2017Q4, gsepdata2017Q4, esepdata2017Q4],
-            data17q3: [isepdata2017Q3, asepdata2017Q3, gsepdata2017Q3, esepdata2017Q3]
-           
+                data22q3: [isepdata2022Q3, asepdata2022Q3, gsepdata2022Q3, esepdata2022Q3],
+                data22q2: [isepdata2022Q2, asepdata2022Q2, gsepdata2022Q2, esepdata2022Q2],
+                data22q1: [isepdata2022Q1, asepdata2022Q1, gsepdata2022Q1, esepdata2022Q1],
+                data21q4: [isepdata2021Q4, asepdata2021Q4, gsepdata2021Q4, esepdata2021Q4],
+                data21q3: [isepdata2021Q3, asepdata2021Q3, gsepdata2021Q3, esepdata2021Q3],
+                data21q2: [isepdata2021Q2, asepdata2021Q2, gsepdata2021Q2, esepdata2021Q2],
+                data21q1: [isepdata2021Q1, asepdata2021Q1, gsepdata2021Q1, esepdata2021Q1],
+                data20q4: [isepdata2020Q4, asepdata2020Q4, gsepdata2020Q4, esepdata2020Q4],
+                data20q3: [isepdata2020Q3, asepdata2020Q3, gsepdata2020Q3, esepdata2020Q3],
+                data20q2: [isepdata2020Q2, asepdata2020Q2, gsepdata2020Q2, esepdata2020Q2],
+                data20q1: [isepdata2020Q1, asepdata2020Q1, gsepdata2020Q1, esepdata2020Q1],
+                data19q4: [isepdata2019Q4, asepdata2019Q4, gsepdata2019Q4, esepdata2019Q4],
+                data19q3: [isepdata2019Q3, asepdata2019Q3, gsepdata2019Q3, esepdata2019Q3],
+                data19q2: [isepdata2019Q2, asepdata2019Q2, gsepdata2019Q2, esepdata2019Q2],
+                data19q1: [isepdata2019Q1, asepdata2019Q1, gsepdata2019Q1, esepdata2019Q1],
+                data18q4: [isepdata2018Q4, asepdata2018Q4, gsepdata2018Q4, esepdata2018Q4],
+                data18q3: [isepdata2018Q3, asepdata2018Q3, gsepdata2018Q3, esepdata2018Q3],
+                data18q2: [isepdata2018Q2, asepdata2018Q2, gsepdata2018Q2, esepdata2018Q2],
+                data18q1: [isepdata2018Q1, asepdata2018Q1, gsepdata2018Q1, esepdata2018Q1],
+                data17q4: [isepdata2017Q4, asepdata2017Q4, gsepdata2017Q4, esepdata2017Q4],
+                data17q3: [isepdata2017Q3, asepdata2017Q3, gsepdata2017Q3, esepdata2017Q3]           
         }
     }, ]
 
