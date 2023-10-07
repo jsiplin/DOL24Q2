@@ -1067,6 +1067,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
+            data22q4: [newHireDatc2022Q4, newHireDatg2022Q4, jobDatc2022Q4, jobDatg2022Q4],
+            data22q3: [newHireDatc2022Q3, newHireDatg2022Q3, jobDatc2022Q3, jobDatg2022Q3],
             data22q2: [newHireDatc2022Q2, newHireDatg2022Q2, jobDatc2022Q2, jobDatg2022Q2],
             data22q1: [newHireDatc2022Q1, newHireDatg2022Q1, jobDatc2022Q1, jobDatg2022Q1],
             data21q4: [newHireDatc2021Q4, newHireDatg2021Q4, jobDatc2021Q4, jobDatg2021Q4],
@@ -1135,6 +1137,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
+            data22q4: [iwdata2022Q4, avgdata2022Q4, netdata2022Q4, turndata2022Q4, hiredata2022Q4],
+            data22q3: [iwdata2022Q3, avgdata2022Q3, netdata2022Q3, turndata2022Q3, hiredata2022Q3],
 			      data22q2: [iwdata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2, hiredata2022Q2],
             data22q1: [iwdata2022Q1, avgdata2022Q1, netdata2022Q1, turndata2022Q1, hiredata2022Q1],
             data21q4: [iwdata2021Q4, avgdata2021Q4, netdata2021Q4, turndata2021Q4, hiredata2021Q4],
