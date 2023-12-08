@@ -1,4 +1,33 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2022Q4,TBD,All,TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1366
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1394
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q1,72,Accommodation and Food Services,1549
@@ -156,7 +185,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,72,Accommodat
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommodation and Food Services,11.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,72,Accommodation and Food Services,20.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,13.700000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,9429
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,17.599999999999998
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,72,Accommodation and Food Services,9674
@@ -318,7 +346,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E5,Education
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),0.228,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q4,E5,Educational attainment not available (workers aged 24 or younger),0.223,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.202,
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,1308
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,1254
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,1250
@@ -358,7 +385,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Car
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Care and Social Assistance,8.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,62,Health Care and Social Assistance,7.000000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,8
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,12565
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,62,Health Care and Social Assistance,12786
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,12049
@@ -553,7 +579,6 @@ Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,56,Administrative an
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,12.9
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,2677
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2658
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,2761
 Workers,Lower Shore WIA,Maryland Workers by Industry,2021Q1,56,Administrative and Support and Waste Management and Remediation Services,3218
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,2822
@@ -745,7 +770,6 @@ Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, For
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.200000000000001
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",441
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",433
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",422
 Workers,Lower Shore WIA,Maryland Workers by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",454
 Workers,Lower Shore WIA,Maryland Workers by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",466
@@ -932,7 +956,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q4,71,"Arts, Ent
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,71,"Arts, Entertainment, and Recreation",8.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",8.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",15.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",12.1
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",1130
@@ -1126,7 +1149,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,23,Constructi
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,23,Construction,9.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,23,Construction,9.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,9.3
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,23,Construction,3737
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,23,Construction,3222
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,23,Construction,3490
@@ -1317,7 +1339,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,61,Educationa
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,61,Educational Services,5.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,61,Educational Services,7.000000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,20.200000000000003
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,20.9
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,9143
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,9132
@@ -1510,7 +1531,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,52,Finance an
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,4.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,5.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,7.000000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,1672
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,1649
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,52,Finance and Insurance,1620
@@ -1702,7 +1722,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,51,Informatio
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,5.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,10.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,51,Information,8.799999999999999
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,51,Information,723
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,51,Information,726
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,51,Information,721
@@ -1893,7 +1912,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,55,Management
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,55,Management of Companies and Enterprises,5.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,55,Management of Companies and Enterprises,4.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,55,Management of Companies and Enterprises,5.2
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,55,Management of Companies and Enterprises,5.7
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,55,Management of Companies and Enterprises,1073
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,55,Management of Companies and Enterprises,1193
@@ -2086,7 +2104,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufac
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,Manufacturing,6.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q4,31-33,Manufacturing,6.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,7.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,31-33,Manufacturing,4150
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,31-33,Manufacturing,4093
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,31-33,Manufacturing,3875
@@ -2277,7 +2294,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Q
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",13
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",12.5
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",11
@@ -2469,7 +2485,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,81,Other Serv
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,81,Other Services (except Public Administration),9.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,81,Other Services (except Public Administration),12.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),9.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,81,Other Services (except Public Administration),9.6
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),2271
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,81,Other Services (except Public Administration),2353
@@ -2661,7 +2676,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,54,"Professio
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,54,"Professional, Scientific, and Technical Services",6.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",6.9
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",7.7
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",2022
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",2204
@@ -2855,7 +2869,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q4,92,Public Adm
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,92,Public Administration,4.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,5.8999999999999995
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,4749
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,92,Public Administration,4769
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,92,Public Administration,4570
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,4642
@@ -3045,7 +3058,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q4,53,Real Estat
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,53,Real Estate and Rental and Leasing,9.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,53,Real Estate and Rental and Leasing,7.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,53,Real Estate and Rental and Leasing,8.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,53,Real Estate and Rental and Leasing,8.5
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,53,Real Estate and Rental and Leasing,1118
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,53,Real Estate and Rental and Leasing,1123
@@ -3237,7 +3249,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,44-45,Retail 
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,12.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,44-45,Retail Trade,10.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,11.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,8180
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,12.1
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,8073
@@ -3430,7 +3441,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,48-49,Transpo
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transportation and Warehousing,11.200000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,6.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,11.200000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,1331
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,48-49,Transportation and Warehousing,1457
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,48-49,Transportation and Warehousing,1405
@@ -3619,7 +3629,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q4,22,Utilities,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,22,Utilities,2.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q4,22,Utilities,2.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,22,Utilities,2.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,2.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,22,Utilities,2.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities,5.5
@@ -3814,7 +3823,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,42,Wholesale 
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,42,Wholesale Trade,5.8999999999999995
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2021Q4,42,Wholesale Trade,7.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,6.800000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,2437
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,2409
 Workers,Lower Shore WIA,Maryland Workers by Industry,2020Q1,42,Wholesale Trade,2447
@@ -4998,7 +5006,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E1,Less than
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.107
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than High school,0.111
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.071
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.106
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High school or equivalent, no college",0.076
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.075
@@ -5029,7 +5036,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E2,"High sch
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.068
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q4,E2,"High school or equivalent, no college",0.09
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2021Q4,E2,"High school or equivalent, no college",0.092
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.075
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.068
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.09
@@ -5061,7 +5067,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some coll
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some college or Associate degree,0.065
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some college or Associate degree,0.091
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.095
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some college or Associate degree,0.088
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.065
@@ -5095,7 +5100,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor'
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bachelor's degree or advanced degree,0.057
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.104
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,183
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q1,1,Male,226
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q1,1,Male,316
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,574
@@ -5189,7 +5193,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q4,1,Male,0.107
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.079
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q4,1,Male,0.079
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.107
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.087
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.085
@@ -5223,7 +5226,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.113
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q4,2,Female,0.109
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q4,2,Female,0.111
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2015Q1,0,All,8120
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2016Q1,0,All,8179
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2017Q1,0,All,8845
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2018Q1,0,All,8973
@@ -5286,7 +5288,6 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.109
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2019Q4,0,All,0.105
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.11
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2018Q4,0,All,0.079
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Lower Shore WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),2242
 New Hires,Lower Shore WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),2252
 New Hires,Lower Shore WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),2433
@@ -5988,6 +5989,5 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All E
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All Education Categories,0.079
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2018Q4,E0,All Education Categories,0.079
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.105
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.109
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Education Categories,0.11

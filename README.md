@@ -12,3 +12,7 @@ Description of project
 
 - Also MAY need to run this prior to npm start command
 - set NODE_OPTIONS=--openssl-legacy-provider
+
+Regex for TBDs
+\bTurnover\b.*?\b2022Q3\b.*?\,0
+

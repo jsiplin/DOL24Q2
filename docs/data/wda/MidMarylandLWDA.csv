@@ -1,4 +1,33 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,TBD,All,TBD
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2022Q1,72,Accommodation and Food Services,2139
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2021Q1,72,Accommodation and Food Services,1847
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q1,72,Accommodation and Food Services,1891
@@ -158,7 +187,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommoda
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,72,Accommodation and Food Services,24.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,72,Accommodation and Food Services,19.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,72,Accommodation and Food Services,16.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,72,Accommodation and Food Services,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,72,Accommodation and Food Services,17223
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,72,Accommodation and Food Services,17078
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,72,Accommodation and Food Services,17939
@@ -319,7 +347,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E5,Educatio
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E5,Educational attainment not available (workers aged 24 or younger),0.197,
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q4,62,Health Care and Social Assistance,3297
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E5,Educational attainment not available (workers aged 24 or younger),0.214,
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q4,62,Health Care and Social Assistance,3042
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q4,62,Health Care and Social Assistance,3613
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q4,62,Health Care and Social Assistance,2893
@@ -357,7 +384,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,62,Health Ca
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,62,Health Care and Social Assistance,8.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,62,Health Care and Social Assistance,11.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,62,Health Care and Social Assistance,10
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,62,Health Care and Social Assistance,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,62,Health Care and Social Assistance,9.9
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,62,Health Care and Social Assistance,25035
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,62,Health Care and Social Assistance,25365
@@ -550,7 +576,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,56,Administr
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,56,Administrative and Support and Waste Management and Remediation Services,11.899999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,56,Administrative and Support and Waste Management and Remediation Services,15.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,56,Administrative and Support and Waste Management and Remediation Services,13.4
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,16219
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,17019
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,56,Administrative and Support and Waste Management and Remediation Services,16930
@@ -742,7 +767,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agricult
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",5.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,11,"Agriculture, Forestry, Fishing and Hunting",8.799999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,11,"Agriculture, Forestry, Fishing and Hunting",7.3
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",610
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",629
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",657
@@ -935,7 +959,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,71,"Arts, En
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,71,"Arts, Entertainment, and Recreation",15.299999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,71,"Arts, Entertainment, and Recreation",15.2
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",3735
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,71,"Arts, Entertainment, and Recreation",0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",3969
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",4344
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",4764
@@ -1127,7 +1150,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,23,Construct
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,23,Construction,7.000000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,23,Construction,7.1
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,23,Construction,16050
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,23,Construction,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,23,Construction,17745
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,23,Construction,17380
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,23,Construction,17409
@@ -1318,7 +1340,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,61,Education
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,61,Educational Services,7.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,61,Educational Services,4.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,61,Educational Services,5.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,61,Educational Services,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,61,Educational Services,19301
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,61,Educational Services,19330
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,61,Educational Services,18802
@@ -1510,7 +1531,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,52,Finance a
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,52,Finance and Insurance,5.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,52,Finance and Insurance,7.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,52,Finance and Insurance,9.1
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,52,Finance and Insurance,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,52,Finance and Insurance,8181
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,52,Finance and Insurance,8728
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,52,Finance and Insurance,9178
@@ -1702,7 +1722,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,51,Informati
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,51,Information,6.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,51,Information,3.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,51,Information,7.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,51,Information,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,51,Information,4582
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,51,Information,5053
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,51,Information,4803
@@ -1893,7 +1912,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,55,Managemen
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,55,Management of Companies and Enterprises,7.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,55,Management of Companies and Enterprises,7.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,55,Management of Companies and Enterprises,12.6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,55,Management of Companies and Enterprises,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,55,Management of Companies and Enterprises,3921
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,55,Management of Companies and Enterprises,9.6
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,55,Management of Companies and Enterprises,3693
@@ -2084,7 +2102,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q4,31-33,Manufa
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,31-33,Manufacturing,6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,31-33,Manufacturing,7.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,31-33,Manufacturing,6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,31-33,Manufacturing,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,31-33,Manufacturing,6.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,31-33,Manufacturing,7.199999999999999
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,31-33,Manufacturing,11293
@@ -2278,7 +2295,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, 
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",81
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",116
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",72
@@ -2471,7 +2487,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,81,Other Ser
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,81,Other Services (except Public Administration),10.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,81,Other Services (except Public Administration),10.4
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,81,Other Services (except Public Administration),6766
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,81,Other Services (except Public Administration),0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,81,Other Services (except Public Administration),6685
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,81,Other Services (except Public Administration),6711
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2019Q1,81,Other Services (except Public Administration),6918
@@ -2662,7 +2677,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,54,"Professi
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,54,"Professional, Scientific, and Technical Services",7.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,54,"Professional, Scientific, and Technical Services",7.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,54,"Professional, Scientific, and Technical Services",5.800000000000001
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,54,"Professional, Scientific, and Technical Services",0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",35792
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",34898
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",34866
@@ -2855,7 +2869,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,92,Public Ad
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,92,Public Administration,4.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,92,Public Administration,4.1000000000000005
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,92,Public Administration,6502
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,92,Public Administration,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,92,Public Administration,6582
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,92,Public Administration,6557
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,92,Public Administration,6605
@@ -3045,7 +3058,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,53,Real Esta
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,53,Real Estate and Rental and Leasing,9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,53,Real Estate and Rental and Leasing,8.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,53,Real Estate and Rental and Leasing,7.5
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,53,Real Estate and Rental and Leasing,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,53,Real Estate and Rental and Leasing,7.6
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,53,Real Estate and Rental and Leasing,3326
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,53,Real Estate and Rental and Leasing,3441
@@ -3238,7 +3250,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,44-45,Retail
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,44-45,Retail Trade,12.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,44-45,Retail Trade,11.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,44-45,Retail Trade,11.4
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,44-45,Retail Trade,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,44-45,Retail Trade,28531
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,44-45,Retail Trade,27385
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,44-45,Retail Trade,27578
@@ -3430,7 +3441,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,48-49,Transp
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,48-49,Transportation and Warehousing,9.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,48-49,Transportation and Warehousing,9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,48-49,Transportation and Warehousing,12.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,48-49,Transportation and Warehousing,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,48-49,Transportation and Warehousing,5287
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,48-49,Transportation and Warehousing,5340
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,48-49,Transportation and Warehousing,5294
@@ -3624,7 +3634,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,22,Utilities
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,22,Utilities,3.9
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,22,Utilities,286
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,22,Utilities,288
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,22,Utilities,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,22,Utilities,284
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2018Q1,22,Utilities,300
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2019Q1,22,Utilities,287
@@ -3814,7 +3823,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,42,Wholesale
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2021Q4,42,Wholesale Trade,6.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q4,42,Wholesale Trade,5.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,42,Wholesale Trade,6.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2022Q4,42,Wholesale Trade,0
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2017Q1,42,Wholesale Trade,16978
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,42,Wholesale Trade,16575
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2016Q1,42,Wholesale Trade,16636
@@ -4996,7 +5004,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less tha
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E1,Less than High school,0.09
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E1,Less than High school,0.087
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E1,Less than High school,0.084
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E1,Less than High school,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than High school,0.111
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E1,Less than High school,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E2,"High school or equivalent, no college",0.078
@@ -5030,7 +5037,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High sc
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E2,"High school or equivalent, no college",0.096
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E2,"High school or equivalent, no college",0.073
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E2,"High school or equivalent, no college",0.081
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E2,"High school or equivalent, no college",0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.077
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E3,Some college or Associate degree,0.073
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.073
@@ -5060,7 +5066,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q3,E3,Some col
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.071
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some college or Associate degree,0.07
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E3,Some college or Associate degree,0.091
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E3,Some college or Associate degree,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E3,Some college or Associate degree,0.07
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E3,Some college or Associate degree,0.079
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.064
@@ -5094,7 +5099,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q4,E4,Bachelor
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q4,E4,Bachelor's degree or advanced degree,0.06
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2021Q4,E4,Bachelor's degree or advanced degree,0.069
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E4,Bachelor's degree or advanced degree,0.059
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2022Q4,E4,Bachelor's degree or advanced degree,0
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2016Q1,1,Male,1043
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2015Q1,1,Male,186
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2017Q1,1,Male,457
@@ -5192,7 +5196,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q4,1,Male,0.099
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,1,Male,0.087
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2015Q1,2,Female,0.089
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0.093
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,1,Male,0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.092
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.089
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.088
@@ -5225,7 +5228,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2021Q4,2,Female,0.097
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2016Q1,0,All,27602
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2015Q1,0,All,27802
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2017Q1,0,All,29862
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2022Q4,2,Female,0
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2018Q1,0,All,30422
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2021Q1,0,All,25773
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2019Q1,0,All,29718
@@ -5287,7 +5289,6 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2017Q4,0,All,0.08
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2020Q4,0,All,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2021Q4,0,All,0.092
 New Hires,Mid-Maryland WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),6595
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2022Q4,0,All,0
 New Hires,Mid-Maryland WIA,Maryland New Hires by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),7661
 New Hires,Mid-Maryland WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),7056
 New Hires,Mid-Maryland WIA,Maryland New Hires by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),7211
@@ -5990,4 +5991,3 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All 
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2020Q4,E0,All Education Categories,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.107
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Education Categories,0.092
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0
