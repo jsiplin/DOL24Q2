@@ -123,8 +123,8 @@ import 'chardin.ts/chardinjs.scss';
           <option value='data21q3'>2021-Q3</option>
           <option value='data21q4'>2021-Q4</option>
           <option value='data22q1'>2022-Q1</option>
-          <option value='data22q2'selected="selected" >2022-Q2</option>
-          <option value='data22q3'>2022-Q3</option>
+          <option value='data22q2'>2022-Q2</option>
+          <option value='data22q3'selected="selected" >2022-Q3</option>
           <option value='data22q4'>2022-Q4</option>
 				</select>
 			</div>

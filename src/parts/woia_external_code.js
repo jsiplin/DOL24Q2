@@ -1106,6 +1106,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pturnChart],
         'svgName': '#ChartFive',
         'data': {
+            data22q3: [turnOverData2022Q3, turnOverDatg2022Q3],
             data22q2: [turnOverData2022Q2, turnOverDatg2022Q2],
             data22q1: [turnOverData2022Q1, turnOverDatg2022Q1],
             data21q4: [turnOverData2021Q4, turnOverDatg2021Q4],
