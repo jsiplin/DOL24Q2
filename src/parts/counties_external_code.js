@@ -172,7 +172,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [ppop_chart, mhhi_chart_print],
         'svgName': '#pop_chart',
         'data': {
-            data21: [pop, mhhi],
+            data22: [pop, mhhi],
+			data21: [pop, mhhi],
             data20: [pop, mhhi],
             data19: [pop, mhhi],
             data18: [pop, mhhi],
@@ -190,6 +191,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [pempl_edu_chart, pempl_edu_gend_chart],
         'svgName': '#empl_edu_gend_chart',
         'data': {
+            data22: [EduAttainment2022, unempByGender2022],
             data21: [EduAttainment2021, unempByGender2021],
             data20: [EduAttainment2020, unempByGender2020],
             data19: [EduAttainment2019, unempByGender2019],
@@ -216,6 +218,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
             data19: [raceData2019, ethData2019],
             data20: [raceData2020, ethData2020],
             data21: [raceData2021, ethData2021],
+            data22: [raceData2022, ethData2022],
+
 
         }
     }, {
@@ -235,6 +239,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
             data19: [vetData2019],
             data20: [vetData2020],
             data21: [vetData2021],
+            data22: [vetData2022],
+
         }
     }, {
         'tab': 'disabl_pov',

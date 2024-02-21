@@ -228,7 +228,7 @@ export let findIndustry = (objArr,indx)=>{
 
 export let find = (objArr,indx)=>{
     let returnThis = objArr.filter(obj=>{
-        return obj['Time'] == ['2015', '2016', '2017', '2018', '2019', '2020', '2021'][indx]
+        return obj['Time'] == ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022'][indx]
     }
     )[0]
     returnThis = returnThis == undefined ? '--' : returnThis['Amount']

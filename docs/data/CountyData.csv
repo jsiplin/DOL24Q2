@@ -230,6 +230,253 @@ Time,Indicator,Employment_Status,Indicator_Status,Location,Amount,Unemployment_R
 2022Q4,TANF Workers,,,"Baltimore City, Maryland",820,,,,,
 2022Q4,TANF Workers,,,"Anne Arundel County, Maryland",425,,,,,
 2022Q4,TANF Workers,,,"Allegany County, Maryland",155,,,,,
+2018,SNAP Recipient Workers,,,"Allegany County, Maryland",4880,,,,,
+2019,SNAP Recipient Workers,,,"Allegany County, Maryland",4835,,,,,
+2017,SNAP Recipient Workers,,,"Allegany County, Maryland",5011,,,,,
+2020,SNAP Recipient Workers,,,"Allegany County, Maryland",4620,,,,,
+2017,SNAP Recipient Workers by Percentage,,,"Allegany County, Maryland",0.01967,1.9666,,,,
+2018,SNAP Recipient Workers by Percentage,,,"Allegany County, Maryland",0.02046,2.0463,,,,
+2019,SNAP Recipient Workers by Percentage,,,"Allegany County, Maryland",0.02011,2.0105,,,,
+2020,SNAP Recipient Workers by Percentage,,,"Allegany County, Maryland",0.02007,2.0068,,,,
+2015,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2597,,,,
+2016,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2569,,,,
+2017,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2632,,,,
+2018,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2604,,,,
+2019,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2645,,,,
+2015,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",28656,,,,
+2016,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",27995,,,,
+2017,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",27162,,,,
+2018,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",26986,,,,
+2019,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",26044,,,,
+2015,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",3827,,,,
+2016,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",3597,,,,
+2017,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",3254,,,,
+2018,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",3113,,,,
+2019,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",2849,,,,
+2021,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1260,
+2021,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",2999,
+2015,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",3049,
+2016,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",3162,
+2018,Total Population,,,"Allegany County, Maryland",71977,,,,,
+2020,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1386,
+2020,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",3048,
+2016,Unemployment By Gender,,Female,"Allegany County, Maryland",7.1,0.071
+2019,Unemployment By Race,,Asian,"Allegany County, Maryland",14.9,0.149
+2019,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",3153,
+2015,Unemployment By Gender,,Female,"Allegany County, Maryland",7.9,0.079
+2018,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",2907,
+2020,Total Population,,,"Allegany County, Maryland",71002,,,,,
+2016,Unemployment By Race,,White,"Allegany County, Maryland",8.7,0.087
+2015,Unemployment By Race,,Asian,"Allegany County, Maryland",5.7,0.057
+2016,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",8026,
+2022,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",336,,,,
+2021,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",405,,,,
+2022,Unemployment By Gender,,Male,"Allegany County, Maryland",5.8,0.057999999999999996
+2021,Unemployment By Race,,White,"Allegany County, Maryland",6.5,0.065
+2018,Unemployment By Race,,Asian,"Allegany County, Maryland",13.8,0.138
+2019,Total Population,,,"Allegany County, Maryland",71445,,,,,
+2017,Unemployment By Race,,Asian,"Allegany County, Maryland",12.4,0.124
+2016,Unemployment By Race,,Asian,"Allegany County, Maryland",14,0.14
+2015,Unemployment By Race,,White,"Allegany County, Maryland",9.1,0.091
+2018,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",7503,
+2022,Unemployment By Race,,Asian,"Allegany County, Maryland",4.7,0.047
+2021,Unemployment By Race,,Asian,"Allegany County, Maryland",13.1,0.131
+2020,Unemployment By Race,,Asian,"Allegany County, Maryland",18,0.18
+2017,Unemployment By Gender,,Female,"Allegany County, Maryland",6.8,0.068
+2020,Unemployment By Race,,White,"Allegany County, Maryland",7,0.07
+2019,Unemployment By Race,,White,"Allegany County, Maryland",6.8,0.068
+2018,Unemployment By Race,,White,"Allegany County, Maryland",8,0.08
+2018,Unemployment By Race,,Black,"Allegany County, Maryland",23.4,0.23399999999999999
+2017,Unemployment By Race,,White,"Allegany County, Maryland",8.4,0.084
+2019,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",7429,
+2018,Median Household Income,,,"Allegany County, Maryland",44065,,,,,,
+2022,Unemployment By Race,,White,"Allegany County, Maryland",6.5,0.065
+2020,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",6965,
+2022,Total Population,,,"Allegany County, Maryland",68161,,,,,
+2021,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",6569,
+2015,Unemployment By Gender,,Male,"Allegany County, Maryland",10.7,0.107
+2017,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",7563,
+2018,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",556,,,,
+2017,Unemployment By Race,,Black,"Allegany County, Maryland",26,0.26
+2018,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",814,
+2016,Unemployment By Race,,Black,"Allegany County, Maryland",25.8,0.258
+2015,Unemployment By Race,,Black,"Allegany County, Maryland",29.1,0.29100000000000004
+2022,Unemployment By Race,,Black,"Allegany County, Maryland",14.1,0.141
+2018,Unemployment By Gender,,Female,"Allegany County, Maryland",6.7,0.067
+2021,Unemployment By Race,,Black,"Allegany County, Maryland",20.8,0.20800000000000002
+2020,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",535,,,,
+2020,Unemployment By Race,,Black,"Allegany County, Maryland",22.8,0.228
+2021,Unemployment By Gender,,Female,"Allegany County, Maryland",6.4,0.064
+2017,Total Population,,,"Allegany County, Maryland",72591,,,,,
+2016,Median Household Income,,,"Allegany County, Maryland",41559,,,,,,
+2017,Median Household Income,,,"Allegany County, Maryland",42771,,,,,,
+2016,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",535,,,,
+2019,Unemployment By Race,,Black,"Allegany County, Maryland",25.3,0.253
+2022,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",6671,
+2015,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5588,
+2015,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",940,
+2016,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",891,
+2017,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",915,
+2020,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5996,
+2019,Unemployment By Gender,,Female,"Allegany County, Maryland",5.8,0.057999999999999996
+2019,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",658,
+2019,Median Household Income,,,"Allegany County, Maryland",45893,,,,,,
+2017,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",2180,
+2021,Total Population,,,"Allegany County, Maryland",68684,,,,,
+2019,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",473,,,,
+2022,Unemployment By Gender,,Female,"Allegany County, Maryland",5.7,0.057
+2016,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",2357,,,,
+2020,Unemployment By Gender,,Female,"Allegany County, Maryland",6.2,0.062
+2015,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",2595,,,,
+2022,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",1993,
+2020,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",598,
+2019,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",856,
+2021,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",562,
+2017,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5625,
+2022,Employment Status By Education,Unemployed,Highschool,"Allegany County, Maryland",573,
+2016,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5653,
+2019,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5849,
+2017,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",2114,,,,
+2018,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5741,
+2015,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",2658,
+2022,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",5679,
+2021,Employment Status By Education,NIL,Highschool,"Allegany County, Maryland",6027,
+2016,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",2456,
+2018,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",2124,
+2020,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",2124,
+2019,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",1993,
+2021,Employment Status By Poverty Status,Employed,Below Poverty,"Allegany County, Maryland",1653,
+2022,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",1365,,,,
+2016,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",2034,,,,
+2015,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",1169,
+2016,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",1141,
+2018,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",989,
+2017,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",1074,
+2021,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",1913,,,,
+2021,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",1367,,,,
+2018,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",850,
+2019,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",1645,,,,
+2018,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",1961,,,,
+2020,Employment Status By Disability Status,Unemployed,Non Disabled,"Allegany County, Maryland",1469,,,,
+2017,Unemployment By Race,,Hispanic,"Allegany County, Maryland",18.4,0.184
+2017,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",25048,
+2016,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",25638,
+2015,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",150,
+2020,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",818,
+2015,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",26061,
+2021,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",674,
+2022,Employment Status By Poverty Status,Unemployed,Below Poverty,"Allegany County, Maryland",709,
+2022,Median Household Income,,,"Allegany County, Maryland",55248,,,,,,
+2015,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",2017,,,,
+2017,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",2030,,,,
+2019,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",2172,,,,
+2018,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",2048,,,,
+2020,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",1927,,,,
+2018,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",25025,
+2015,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",1092,
+2022,Employment Status By Disability Status,Employed,Disabled,"Allegany County, Maryland",1784,,,,
+2016,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",1004,
+2017,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",984,
+2020,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",77,
+2019,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",786,
+2020,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",724,
+2021,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",640,
+2017,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2195,
+2022,Employment Status By Education,Employed,Less than Highschool,"Allegany County, Maryland",687,
+2016,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",133,
+2017,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",125,
+2019,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",76,
+2018,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",108,
+2022,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",23075,
+2017,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",602,,,,
+2015,Median Household Income,,,"Allegany County, Maryland",40551,,,,,,
+2015,Unemployment By Race,,Hispanic,"Allegany County, Maryland",18.2,0.182
+2016,Unemployment By Race,,Hispanic,"Allegany County, Maryland",18.5,0.185
+2019,Unemployment By Gender,,Male,"Allegany County, Maryland",6.7,0.067
+2019,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5592,
+2020,Unemployment By Gender,,Male,"Allegany County, Maryland",6.4,0.064
+2020,Median Household Income,,,"Allegany County, Maryland",49449,,,,,,
+2021,Median Household Income,,,"Allegany County, Maryland",51090,,,,,,
+2022,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2181,
+2022,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",65,
+2015,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2348,
+2021,Employment Status By Education,Unemployed,Less than Highschool,"Allegany County, Maryland",99,
+2019,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",7.3,0.073
+2016,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2165,
+2018,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2178,
+2020,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2416,
+2015,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5874,
+2019,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2102,
+2016,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",12,0.12
+2021,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",22988,
+2020,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",23912,
+2021,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",5,0.05
+2020,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5699,
+2019,Employment Status By Disability Status,Employed,Non Disabled,"Allegany County, Maryland",24399,
+2018,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5525,
+2017,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5818,
+2016,Unemployment By Gender,,Male,"Allegany County, Maryland",10.3,0.10300000000000001
+2015,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",10.1,0.10099999999999999
+2016,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5845,
+2021,Employment Status By Education,NIL,Less than Highschool,"Allegany County, Maryland",2365,
+2016,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",9.3,0.09300000000000001
+2017,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",9,0.09
+2018,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",8.3,0.083
+2022,Unemployment By Race,,Hispanic,"Allegany County, Maryland",2.8,0.027999999999999997
+2020,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",7.2,0.07200000000000001
+2021,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",6.8,0.068
+2022,Unemployment By Veteran Status,,Non Veteran,"Allegany County, Maryland",6.5,0.065
+2015,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",11.4,0.114
+2017,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",10.7,0.107
+2019,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",9.3,0.09300000000000001
+2018,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",11.4,0.114
+2020,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",7.2,0.07200000000000001
+2018,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",8423,
+2016,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",189,
+2015,Total Population,,,"Allegany County, Maryland",73549,,,,,
+2018,Unemployment By Gender,,Male,"Allegany County, Maryland",8.4,0.084
+2017,Unemployment By Gender,,Male,"Allegany County, Maryland",9.6,0.096
+2016,Total Population,,,"Allegany County, Maryland",73060,,,,,
+2021,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",112,
+2018,Unemployment By Race,,Hispanic,"Allegany County, Maryland",15.5,0.155
+2019,Unemployment By Race,,Hispanic,"Allegany County, Maryland",11.4,0.114
+2021,Unemployment By Race,,Hispanic,"Allegany County, Maryland",13.8,0.138
+2020,Unemployment By Race,,Hispanic,"Allegany County, Maryland",9.8,0.098
+2022,Unemployment By Veteran Status,,Veteran,"Allegany County, Maryland",5.4,0.054000000000000006
+2015,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",888,
+2015,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",7970,
+2016,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",7912,
+2017,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",8108,
+2019,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",8051,
+2020,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",7896,
+2020,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",517,
+2021,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",7376,
+2017,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",122,
+2017,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1173,
+2015,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",193,
+2021,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",5995,
+2022,Employment Status By Education,Employed,Bachelor's or Higher,"Allegany County, Maryland",6071,
+2022,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1128,
+2019,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",192,
+2020,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",148,
+2018,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",194,
+2022,Employment Status By Education,Employed,Some College,"Allegany County, Maryland",7281,
+2017,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",3159,
+2016,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",715,
+2017,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",652,
+2018,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",563,
+2019,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",451,
+2022,Employment Status By Education,Unemployed,Bachelor's or Higher,"Allegany County, Maryland",196,
+2022,Employment Status By Education,NIL,Some College,"Allegany County, Maryland",2853,
+2021,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",430,
+2019,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1379,
+2018,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1244,
+2021,Unemployment By Gender,,Male,"Allegany County, Maryland",5.2,0.052000000000000005
+2022,Employment Status By Education,Unemployed,Some College,"Allegany County, Maryland",328,
+2016,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1158,
+2015,Employment Status By Education,NIL,Bachelor's or Higher,"Allegany County, Maryland",1124,
+2015,Employment Status By Education,Employed,Highschool,"Allegany County, Maryland",8141,
+2015,Employment Status By Disability Status,Unemployed,Disabled,"Allegany County, Maryland",580,,,,
 2022Q4,Percent of Workers in TANF (%),,,"Worcester County, Maryland",0.158096678,0.00158,,,,,
 2022Q4,Percent of Workers in TANF (%),,,"Wicomico County, Maryland",0.770214586,0.00770,,,,,
 2022Q4,Percent of Workers in TANF (%),,,"Washington County, Maryland",1.220182054,0.01220,,,,,
