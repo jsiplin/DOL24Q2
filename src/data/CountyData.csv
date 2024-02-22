@@ -1,4 +1,13 @@
 Time,Indicator,Employment_Status,Indicator_Status,Location,Amount,Unemployment_Rate,,,,
+2022,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",24440,,,,
+2021,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",24355,,,,
+2020,Employment Status By Disability Status,Labor Force,Non Disabled,"Allegany County, Maryland",25381,,,,
+2022,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2120,,,,
+2021,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2318,,,,
+2020,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2462,,,,
+2022,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",2702,,,,
+2021,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",2327,,,,
+2020,Employment Status By Poverty Status,Labor Force,Below Poverty,"Allegany County, Maryland",2942,,,,
 2020,Employment Status By Poverty Status,Labor Force,Below Poverty,"Anne Arundel County, Maryland",9721
 2020,Employment Status By Poverty Status,Labor Force,Below Poverty,"Baltimore City, Maryland",26673
 2020,Employment Status By Poverty Status,Labor Force,Below Poverty,"Baltimore County, Maryland",21263

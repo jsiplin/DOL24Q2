@@ -27,7 +27,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     // Set variables
     //
     let fullYears = ['2017', '2018', '2019','2020', '2021','2022']
-    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3","2021Q4","2022Q1","2022Q2", "2022Q3", "2022Q4"]
+    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3","2021Q4","2022Q1","2022Q2", "2022Q3", "2022Q4", "2023Q1", "2023Q2"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
     //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
     let eduGender = ["Less than High school", "High school or equivalent, no college", "Some college or Associate degree", 
@@ -221,7 +221,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
                ${!workData2022Q2[1] ? '' : displayAvgQuarterTab1('2022Q2', workData2022Q2, workDatg2022Q2, averageData2022Q2, averageDatg2022Q2)}
                ${!workData2022Q3[1] ? '' : displayAvgQuarterTab1('2022Q3', workData2022Q3, workDatg2022Q3, averageData2022Q3, averageDatg2022Q3)}
                ${!workData2022Q4[1] ? '' : displayAvgQuarterTab1('2022Q4', workData2022Q4, workDatg2022Q4, averageData2022Q4, averageDatg2022Q4)}
-               
+			   ${!workData2023Q1[1] ? '' : displayAvgQuarterTab1('2023Q1', workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1)}
+               ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q2', workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2)}            
 
   `
     // Tab 2  
@@ -290,6 +291,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!newHireDatc2022Q2[0] ? '' : displayAvgQuarterTab2('2022Q2', jobDatc2022Q2, jobDatg2022Q2, newHireDatc2022Q2, newHireDatg2022Q2)}
      ${!newHireDatc2022Q3[0] ? '' : displayAvgQuarterTab2('2022Q3', jobDatc2022Q3, jobDatg2022Q3, newHireDatc2022Q3, newHireDatg2022Q3)}
      ${!newHireDatc2022Q4[0] ? '' : displayAvgQuarterTab2('2022Q4', jobDatc2022Q4, jobDatg2022Q4, newHireDatc2022Q4, newHireDatg2022Q4)}
+     ${!newHireDatc2023Q1[0] ? '' : displayAvgQuarterTab2('2023Q1', jobDatc2023Q1, jobDatg2023Q1, newHireDatc2023Q1, newHireDatg2023Q1)}
+     ${!newHireDatc2023Q2[0] ? '' : displayAvgQuarterTab2('2023Q2', jobDatc2023Q2, jobDatg2023Q2, newHireDatc2023Q2, newHireDatg2023Q2)}
     `
 
     // Tab 3 Turnover Rate
@@ -352,6 +355,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!turnOverData2022Q1[0] ? '' : displayAvgQuarterTab3('2022Q1', turnOverData2022Q1, turnOverDatg2022Q1)}
      ${!turnOverData2022Q2[0] ? '' : displayAvgQuarterTab3('2022Q2', turnOverData2022Q2, turnOverDatg2022Q2)}
      ${!turnOverData2022Q3[0] ? '' : displayAvgQuarterTab3('2022Q3', turnOverData2022Q3, turnOverDatg2022Q3)}
+     ${!turnOverData2022Q4[0] ? '' : displayAvgQuarterTab3('2022Q4', turnOverData2022Q4, turnOverDatg2022Q4)}
 
   `
     // Tab 4 Industry Metrics
@@ -551,6 +555,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
          </tr>
       </thead>
       <tbody>
+        ${!iwdata2023Q2[0] ? '' : displayIndustryMetricsTable(iwdata2023Q2, hiredata2023Q2, avgdata2023Q2, netdata2023Q2, turndata2023Q2)}
+        ${!iwdata2023Q1[0] ? '' : displayIndustryMetricsTable(iwdata2023Q1, hiredata2023Q1, avgdata2023Q1, netdata2023Q1, turndata2023Q1)}
         ${!iwdata2022Q4[0] ? '' : displayIndustryMetricsTable(iwdata2022Q4, hiredata2022Q4, avgdata2022Q4, netdata2022Q4, turndata2022Q4)}
         ${!iwdata2022Q3[0] ? '' : displayIndustryMetricsTable(iwdata2022Q3, hiredata2022Q3, avgdata2022Q3, netdata2022Q3, turndata2022Q3)}	    
         ${!iwdata2022Q2[0] ? '' : displayIndustryMetricsTable(iwdata2022Q2, hiredata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2)}
@@ -696,8 +702,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     let notMdisepdata = `
        <thead>
         <tr> <th class="HeadRow">Separations by Industry</th> 
-          <th class="HeadRow">2019Q1</th>
-          <th class="HeadRow">2019Q2</th> 
+
           <th class="HeadRow">2019Q3</th>
           <th class="HeadRow">2019Q4</th> 
           <th class="HeadRow">2020Q1</th>
@@ -709,9 +714,11 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2021Q3</th>
           <th class="HeadRow">2021Q4</th>
           <th class="HeadRow">2022Q1</th>
-		      <th class="HeadRow">2022Q2</th> 
+		  <th class="HeadRow">2022Q2</th> 
           <th class="HeadRow">2022Q3</th> 
           <th class="HeadRow">2022Q4</th>
+          <th class="HeadRow">2023Q1</th>
+          <th class="HeadRow">2023Q2</th>
 
 
 
@@ -720,34 +727,33 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         </tr>
        </thead>
        <tbody>        
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 0)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 1)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 2)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 3)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 4)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 5)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 6)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 7)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 8)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 9)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 10)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 11)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 12)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 13)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 14)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 15)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 16)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 17)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 18)}
-            ${showRecordSepeartions(isepdata2019Q1, isepdata2019Q2, isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, 19)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 0)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 1)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 2)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 3)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 4)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 5)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 6)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 7)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 8)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 9)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 10)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 11)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 12)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 13)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 14)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 15)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 16)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 17)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 18)}
+            ${showRecordSepeartions(isepdata2019Q3, isepdata2019Q4, isepdata2020Q1, isepdata2020Q2, isepdata2020Q3, isepdata2020Q4, isepdata2021Q1, isepdata2021Q2, isepdata2021Q3, isepdata2021Q4, isepdata2022Q1, isepdata2022Q2, isepdata2022Q3, isepdata2022Q4, isepdata2023Q1, isepdata2023Q2, 19)}
       </tbody>
     `
     document.getElementById('table15').innerHTML = `
        ${notMdisepdata}
        <thead>
         <tr> <th class="HeadRow">Separations by Gender</th> 
-            <th class="HeadRow">2019Q1</th>
-            <th class="HeadRow">2019Q2</th> 
+
             <th class="HeadRow">2019Q3</th>
             <th class="HeadRow">2019Q4</th> 
             <th class="HeadRow">2020Q1</th>
@@ -762,15 +768,17 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <th class="HeadRow">2022Q2</th> 
             <th class="HeadRow">2022Q3</th>
             <th class="HeadRow">2022Q4</th>
+			<th class="HeadRow">2023Q1</th>
+			<th class="HeadRow">2023Q2</th>
         </tr>
        </thead>
        <tbody>
-            ${showLbldRecordGend('Male', gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, gsepdata2022Q1, gsepdata2022Q2, gsepdata2022Q3, gsepdata2022Q4, 0)}
-            ${showLbldRecordGend('Female', gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, gsepdata2022Q1, gsepdata2022Q2, gsepdata2022Q3, gsepdata2022Q4, 1)}       </tbody>
+            ${showLbldRecordGend('Male', gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, gsepdata2022Q1, gsepdata2022Q2, gsepdata2022Q3, gsepdata2022Q4, gsepdata2023Q1, gsepdata2023Q2, 0)}
+            ${showLbldRecordGend('Female', gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, gsepdata2022Q1, gsepdata2022Q2, gsepdata2022Q3, gsepdata2022Q4, gsepdata2023Q1, gsepdata2023Q2, 1)}
+		</tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Education</th> 
-            <th class="HeadRow">2019Q1</th>
-            <th class="HeadRow">2019Q2</th> 
+
             <th class="HeadRow">2019Q3</th>
             <th class="HeadRow">2019Q4</th> 
             <th class="HeadRow">2020Q1</th>
@@ -785,19 +793,23 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <th class="HeadRow">2022Q2</th> 
             <th class="HeadRow">2022Q3</th>
             <th class="HeadRow">2022Q4</th>
+			<th class="HeadRow">2023Q1</th>
+			<th class="HeadRow">2023Q2</th>
         </tr>
        </thead>
        <tbody>
-            ${showLbldRecordEdu('Less than High school', esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, 1)}
-            ${showLbldRecordEdu('High school', esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, 2)}
-            ${showLbldRecordEdu('Some College', esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, 3)}
-            ${showLbldRecordEdu("Bachelor's or Higher", esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, 4)}
-            ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger)', esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, 0)}
+
+            ${showLbldRecordEdu('Less than High school', esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, esepdata2023Q1, esepdata2023Q2, 1)}
+            ${showLbldRecordEdu('High school', esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, esepdata2023Q1, esepdata2023Q2, 2)}
+            ${showLbldRecordEdu('Some College', esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, esepdata2023Q1, esepdata2023Q2, 3)}
+            ${showLbldRecordEdu("Bachelor's or Higher", esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, esepdata2023Q1, esepdata2023Q2, 4)}
+            ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger)', esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, esepdata2022Q1, esepdata2022Q2, esepdata2022Q3, esepdata2022Q4, esepdata2023Q1, esepdata2023Q2, 0)}
+
+
     </tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Age</th>
-        <th class="HeadRow">2019Q1</th>
-        <th class="HeadRow">2019Q2</th> 
+
         <th class="HeadRow">2019Q3</th>
         <th class="HeadRow">2019Q4</th> 
         <th class="HeadRow">2020Q1</th>
@@ -809,22 +821,23 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         <th class="HeadRow">2021Q3</th> 
         <th class="HeadRow">2021Q4</th> 
         <th class="HeadRow">2022Q1</th> 
-		    <th class="HeadRow">2022Q2</th>           		
-	    	<th class="HeadRow">2022Q3</th> 
+		<th class="HeadRow">2022Q2</th>           		
+	    <th class="HeadRow">2022Q3</th> 
         <th class="HeadRow">2022Q4</th>          		
-        
+        <th class="HeadRow">2023Q1</th>
+        <th class="HeadRow">2023Q2</th>
+		  
         </tr>
        </thead>
        <tbody>  
-            ${showLbldRecordAge('Age 14-18', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 0)}
-            ${showLbldRecordAge('Age 19-21', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 1)}
-            ${showLbldRecordAge('Age 22-24', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 2)}
-            ${showLbldRecordAge('Age 25-34', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 3)}
-            ${showLbldRecordAge('Age 35-44', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 4)}
-            ${showLbldRecordAge('Age 45-54', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 5)}
-            ${showLbldRecordAge('Age 55-64', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 6)}
-            ${showLbldRecordAge('Age 65-99', asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, 7)}
-          
+            ${showLbldRecordAge('Age 14-18', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 0)}
+            ${showLbldRecordAge('Age 19-21', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 1)}
+            ${showLbldRecordAge('Age 22-24', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 2)}
+            ${showLbldRecordAge('Age 25-34', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 3)}
+            ${showLbldRecordAge('Age 35-44', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 4)}
+            ${showLbldRecordAge('Age 45-54', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 5)}
+            ${showLbldRecordAge('Age 55-64', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 6)}
+            ${showLbldRecordAge('Age 65-99', asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, asepdata2022Q1, asepdata2022Q2, asepdata2022Q3, asepdata2022Q4, asepdata2023Q1, asepdata2023Q2, 7)}
        </tbody>
     `
 console.log(asepdata2020Q2)

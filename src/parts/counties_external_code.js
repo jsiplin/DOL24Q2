@@ -252,6 +252,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [emp_dis_chart_print, pempl_status_chart],
         'svgName': '#disabl_pov_chart',
         'data': {
+            data22: [disAttainment2022, povRate2022],
             data21: [disAttainment2021, povRate2021],
             data20: [disAttainment2020, povRate2020],
             data19: [disAttainment2019, povRate2019],
