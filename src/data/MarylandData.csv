@@ -1,4 +1,58 @@
 Location,Time,Indicator,Indicator_Status,Indicator_Value,Employment_Status,QWI-Status,Amount,Unemployment_Rate
+Maryland,2023Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,TBD
+Maryland,2023Q2,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Gender,1,Male,,Turnover,TBD,
+Maryland,2023Q2,Maryland Turnover Rate by Gender,2,Female,,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,TBD
+Maryland,2023Q1,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Gender,1,Male,,Turnover,TBD,
+Maryland,2023Q1,Maryland Turnover Rate by Gender,2,Female,,Turnover,TBD,
 Maryland,2015Q3,TANF Workers,,,,,5546,
 Maryland,2015Q4,TANF Workers,,,,,5875,
 Maryland,2016Q1,TANF Workers,,,,,4316,
@@ -105,7 +159,6 @@ Maryland,2021Q3,Percent of Workers in TANF (%),,,,,0.325277446,0.003252774
 Maryland,2021Q4,Percent of Workers in TANF (%),,,,,0.32183934,0.003218393
 Maryland,2022Q1,Percent of Workers in TANF (%),,,,,0.238766149,0.002387661
 Maryland,2022Q2,Percent of Workers in TANF (%),,,,,0.228587809,0.002285878
-Maryland,2022Q3,Percent of Workers in TANF (%),,,,,0.256427364,0.002564274
 Maryland,2022Q4,Percent of Workers in TANF (%),,,,,0.244117486,0.002441175
 
 Maryland,2016,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,1,
@@ -166,6 +219,14 @@ Maryland,2018,Employment Status By Disability Status,Disabled,,Labor Force,,1553
 Maryland,2018,Employment Status By Disability Status,Non Disabled,,Labor Force,,2849397
 Maryland,2019,Employment Status By Disability Status,Disabled,,Labor Force,,156487
 Maryland,2019,Employment Status By Disability Status,Non Disabled,,Labor Force,,2843711
+Maryland,2020,Employment Status By Disability Status,Non Disabled,,Labor Force,,2836409
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Labor Force,,2971952
+Maryland,2022,Employment Status By Disability Status,Non Disabled,,Labor Force,,2866386
+
+Maryland,2020,Employment Status By Disability Status,Disabled,,Labor Force,,159290
+Maryland,2021,Employment Status By Disability Status,Disabled,,Labor Force,,167081
+Maryland,2022,Employment Status By Disability Status,Disabled,,Labor Force,,171974
+
 Maryland,2017,Median Household Income,,,,,78916,
 Maryland,2018,Median Household Income,,,,,81868,
 Maryland,2019,Median Household Income,,,,,84805,
@@ -419,7 +480,6 @@ Maryland,2015Q3,Maryland Turnover Rate by Education,E5,Educational attainment no
 Maryland,2017Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.215,
 Maryland,2020Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.186,
 Maryland,2019Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.217,
-Maryland,2022Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.224,
 Maryland,2018Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.213,
 Maryland,2021Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.269,
 Maryland,2015Q1,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,1659,
@@ -692,6 +752,16 @@ Maryland,2017Q2,Maryland New Hires by Industry,62,Health Care and Social Assista
 Maryland,2019Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,39591,
 Maryland,2020Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,26277,
 Maryland,2018Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,37655,
+Maryland,2022Q3,Percent of Workers in TANF (%),,,,,0.256427364,0.002564274
+Maryland,2022Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.224,
+Maryland,2022Q3,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.105,
+Maryland,2022Q3,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.092,
+Maryland,2022Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.088,
+Maryland,2022Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.076,
+Maryland,2022Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.101,
+Maryland,2022Q3,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.101,
+Maryland,2022Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2494312,
+Maryland,2022Q3,Maryland Job Net Change by Gender,0,All,,Job Change,37099,
 Maryland,2021Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,41803,
 Maryland,2022Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,43330,
 Maryland,2015Q3,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,40384,
@@ -5414,7 +5484,6 @@ Maryland,2019Q3,Maryland Turnover Rate by Education,E1,Less than High school,,Tu
 Maryland,2020Q3,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.081,
 Maryland,2015Q4,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.09,
 Maryland,2021Q3,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.117,
-Maryland,2022Q3,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.105,
 Maryland,2016Q4,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.091,
 Maryland,2017Q4,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.09,
 Maryland,2019Q4,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0.118,
@@ -5445,7 +5514,6 @@ Maryland,2019Q3,Maryland Turnover Rate by Education,E2,"High school or equivalen
 Maryland,2018Q3,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.082,
 Maryland,2020Q3,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.07,
 Maryland,2021Q3,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.102,
-Maryland,2022Q3,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.092,
 Maryland,2015Q4,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.075,
 Maryland,2016Q4,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.076,
 Maryland,2017Q4,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0.076,
@@ -5476,7 +5544,6 @@ Maryland,2018Q3,Maryland Turnover Rate by Education,E3,Some college or Associate
 Maryland,2017Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.075,
 Maryland,2019Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.079,
 Maryland,2020Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.066,
-Maryland,2022Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.088,
 Maryland,2015Q4,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.07,
 Maryland,2016Q4,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.071,
 Maryland,2021Q3,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0.098,
@@ -5509,7 +5576,6 @@ Maryland,2018Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or adva
 Maryland,2019Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.068,
 Maryland,2020Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.058,
 Maryland,2021Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.089,
-Maryland,2022Q3,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.076,
 Maryland,2016Q4,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.061,
 Maryland,2015Q4,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.06,
 Maryland,2018Q4,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0.06,
@@ -5605,7 +5671,6 @@ Maryland,2018Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.094,
 Maryland,2021Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.112,
 Maryland,2020Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.079,
 Maryland,2019Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.095,
-Maryland,2022Q3,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.101,
 Maryland,2015Q4,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.085,
 Maryland,2016Q4,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.085,
 Maryland,2017Q4,Maryland Turnover Rate by Gender,1,Male,,Turnover,0.085,
@@ -5638,7 +5703,6 @@ Maryland,2019Q3,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.091,
 Maryland,2021Q3,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.118,
 Maryland,2020Q3,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.075,
 Maryland,2015Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.084,
-Maryland,2022Q3,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.101,
 Maryland,2016Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.086,
 Maryland,2018Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.083,
 Maryland,2017Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.085,
@@ -5765,7 +5829,6 @@ Maryland,2018Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2571658,
 Maryland,2019Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2594534,
 Maryland,2020Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2290976,
 Maryland,2021Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2410602,
-Maryland,2022Q3,Maryland Workers by Gender,0,All Sexes,,Workers,2494312,
 Maryland,2015Q4,Maryland Workers by Gender,0,All Sexes,,Workers,2470693,
 Maryland,2016Q4,Maryland Workers by Gender,0,All Sexes,,Workers,2507192,
 Maryland,2018Q4,Maryland Workers by Gender,0,All Sexes,,Workers,2545361,
@@ -5861,7 +5924,6 @@ Maryland,2017Q3,Maryland Job Net Change by Gender,0,All,,Job Change,-27442,
 Maryland,2019Q3,Maryland Job Net Change by Gender,0,All,,Job Change,-37685,
 Maryland,2020Q3,Maryland Job Net Change by Gender,0,All,,Job Change,39799,
 Maryland,2021Q3,Maryland Job Net Change by Gender,0,All,,Job Change,7277,
-Maryland,2022Q3,Maryland Job Net Change by Gender,0,All,,Job Change,37099,
 Maryland,2015Q4,Maryland Job Net Change by Gender,0,All,,Job Change,4046,
 Maryland,2016Q4,Maryland Job Net Change by Gender,0,All,,Job Change,1757,
 Maryland,2017Q4,Maryland Job Net Change by Gender,0,All,,Job Change,6529,
@@ -6198,126 +6260,105 @@ Maryland,2020Q1,Maryland Separations by Education,E4,Bachelor's degree or advanc
 Maryland,2019Q1,Maryland Separations by Education,E4,Bachelor's degree or advanced degree,,Seperation,60483,
 Maryland,2021Q1,Maryland Separations by Education,E4,Bachelor's degree or advanced degree,,Seperation,70565,
 Maryland,2022Q1,Maryland Separations by Education,E4,Bachelor's degree or advanced degree,,Seperation,67998,
-Maryland,2023Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0,
 Maryland,2023Q2,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,72,Accommodation and Food Services,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,72,Accommodation and Food Services,,New Hires,66086,
 Maryland,2023Q2,Maryland Separations by Industry,72,Accommodation and Food Services,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,72,Accommodation and Food Services,,Workers,213127,
 Maryland,2023Q2,Maryland Average Earnings by Industry,62,Health Care and Social Assistance,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,62,Health Care and Social Assistance,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,45528,
 Maryland,2023Q2,Maryland Separations by Industry,62,Health Care and Social Assistance,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,62,Health Care and Social Assistance,,Workers,370822,
 Maryland,2023Q2,Maryland Average Earnings by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,56,Administrative and Support and Waste Management and Remediation Services,,New Hires,45238,
 Maryland,2023Q2,Maryland Separations by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Workers,170226,
 Maryland,2023Q2,Maryland Average Earnings by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,New Hires,1480,
 Maryland,2023Q2,Maryland Separations by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Workers,5795,
 Maryland,2023Q2,Maryland Average Earnings by Industry,71,"Arts, Entertainment, and Recreation",,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,71,"Arts, Entertainment, and Recreation",,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,71,"Arts, Entertainment, and Recreation",,New Hires,14884,
 Maryland,2023Q2,Maryland Separations by Industry,71,"Arts, Entertainment, and Recreation",,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,71,"Arts, Entertainment, and Recreation",,Workers,39133,
 Maryland,2023Q2,Maryland Average Earnings by Industry,23,Construction,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,23,Construction,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,23,Construction,,New Hires,20632,
 Maryland,2023Q2,Maryland Separations by Industry,23,Construction,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,23,Construction,,Workers,160726,
 Maryland,2023Q2,Maryland Average Earnings by Industry,61,Educational Services,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,61,Educational Services,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,61,Educational Services,,New Hires,16154,
 Maryland,2023Q2,Maryland Separations by Industry,61,Educational Services,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,61,Educational Services,,Workers,258373,
 Maryland,2023Q2,Maryland Average Earnings by Industry,52,Finance and Insurance,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,52,Finance and Insurance,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,52,Finance and Insurance,,New Hires,10434,
 Maryland,2023Q2,Maryland Separations by Industry,52,Finance and Insurance,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,52,Finance and Insurance,,Workers,80834,
 Maryland,2023Q2,Maryland Average Earnings by Industry,51,Information,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,51,Information,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,51,Information,,New Hires,3791,
 Maryland,2023Q2,Maryland Separations by Industry,51,Information,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,51,Information,,Workers,40128,
 Maryland,2023Q2,Maryland Average Earnings by Industry,55,Management of Companies and Enterprises,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,55,Management of Companies and Enterprises,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,55,Management of Companies and Enterprises,,New Hires,3358,
 Maryland,2023Q2,Maryland Separations by Industry,55,Management of Companies and Enterprises,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,55,Management of Companies and Enterprises,,Workers,29169,
 Maryland,2023Q2,Maryland Average Earnings by Industry,31-33,Manufacturing,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,31-33,Manufacturing,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,31-33,Manufacturing,,New Hires,10241,
 Maryland,2023Q2,Maryland Separations by Industry,31-33,Manufacturing,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,31-33,Manufacturing,,Workers,113125,
 Maryland,2023Q2,Maryland Average Earnings by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,New Hires,166,
 Maryland,2023Q2,Maryland Separations by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Workers,1309,
 Maryland,2023Q2,Maryland Average Earnings by Industry,81,Other Services (except Public Administration),,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,81,Other Services (except Public Administration),,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,81,Other Services (except Public Administration),,New Hires,12813,
 Maryland,2023Q2,Maryland Separations by Industry,81,Other Services (except Public Administration),,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,81,Other Services (except Public Administration),,Workers,88716,
 Maryland,2023Q2,Maryland Average Earnings by Industry,54,"Professional, Scientific, and Technical Services",,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,54,"Professional, Scientific, and Technical Services",,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,54,"Professional, Scientific, and Technical Services",,New Hires,30464,
 Maryland,2023Q2,Maryland Separations by Industry,54,"Professional, Scientific, and Technical Services",,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,54,"Professional, Scientific, and Technical Services",,Workers,285838,
 Maryland,2023Q2,Maryland Average Earnings by Industry,92,Public Administration,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,92,Public Administration,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,92,Public Administration,,New Hires,8170,
 Maryland,2023Q2,Maryland Separations by Industry,92,Public Administration,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,92,Public Administration,,Workers,128453,
 Maryland,2023Q2,Maryland Average Earnings by Industry,53,Real Estate and Rental and Leasing,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,53,Real Estate and Rental and Leasing,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,53,Real Estate and Rental and Leasing,,New Hires,5162,
 Maryland,2023Q2,Maryland Separations by Industry,53,Real Estate and Rental and Leasing,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,53,Real Estate and Rental and Leasing,,Workers,42107,
 Maryland,2023Q2,Maryland Average Earnings by Industry,44-45,Retail Trade,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,44-45,Retail Trade,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,44-45,Retail Trade,,New Hires,44718,
 Maryland,2023Q2,Maryland Separations by Industry,44-45,Retail Trade,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,44-45,Retail Trade,,Workers,265430,
 Maryland,2023Q2,Maryland Average Earnings by Industry,48-49,Transportation and Warehousing,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,48-49,Transportation and Warehousing,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,48-49,Transportation and Warehousing,,New Hires,17224,
 Maryland,2023Q2,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,109557,
 Maryland,2023Q2,Maryland Average Earnings by Industry,22,Utilities,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,22,Utilities,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,22,Utilities,,New Hires,686,
 Maryland,2023Q2,Maryland Separations by Industry,22,Utilities,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,22,Utilities,,Workers,9923,
 Maryland,2023Q2,Maryland Average Earnings by Industry,42,Wholesale Trade,,Earnings,0,
 Maryland,2023Q2,Maryland Job Net Change by Industry,42,Wholesale Trade,,Job Change,0,
 Maryland,2023Q2,Maryland New Hires by Industry,42,Wholesale Trade,,New Hires,9429,
 Maryland,2023Q2,Maryland Separations by Industry,42,Wholesale Trade,,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,0
 Maryland,2023Q2,Maryland Workers by Industry,42,Wholesale Trade,,Workers,85357,
 Maryland,2023Q2,Maryland Average Monthly Earnings by Age,A01,14-18,,Earnings,0,
 Maryland,2023Q2,Maryland Average Monthly Earnings by Age,A02,19-21,,Earnings,0,
@@ -6354,14 +6395,8 @@ Maryland,2023Q2,Maryland New Hires by Education,E1,Less than High school,,New Hi
 Maryland,2023Q2,Maryland New Hires by Education,E2,"High school or equivalent, no college",,New Hires,68807,
 Maryland,2023Q2,Maryland New Hires by Education,E3,Some college or Associate degree,,New Hires,74221,
 Maryland,2023Q2,Maryland New Hires by Education,E4,Bachelor's degree or advanced degree,,New Hires,59780,
-Maryland,2023Q2,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0,
-Maryland,2023Q2,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0,
-Maryland,2023Q2,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0,
-Maryland,2023Q2,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0,
 Maryland,2023Q2,Maryland Job Net Change by Gender,1,Male,,Job Change,0,
 Maryland,2023Q2,Maryland Separations by Education,E5,Educational attainment not available (workers aged 24 or younger),,Seperation,0,
-Maryland,2023Q2,Maryland Turnover Rate by Gender,1,Male,,Turnover,0,
-Maryland,2023Q2,Maryland Turnover Rate by Gender,2,Female,,Turnover,0,
 Maryland,2023Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,0,
 Maryland,2023Q2,Maryland Separations by Education,E4,Bachelor's degree or advanced degree,,Seperation,0,
 Maryland,2023Q2,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,120079,
@@ -6383,121 +6418,101 @@ Maryland,2023Q1,Maryland Average Earnings by Industry,72,Accommodation and Food 
 Maryland,2023Q1,Maryland Job Net Change by Industry,72,Accommodation and Food Services,,Job Change,4082,
 Maryland,2023Q1,Maryland New Hires by Industry,72,Accommodation and Food Services,,New Hires,47759,
 Maryland,2023Q1,Maryland Separations by Industry,72,Accommodation and Food Services,,Seperation,50066,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,72,Accommodation and Food Services,,Workers,209122,
 Maryland,2023Q1,Maryland Average Earnings by Industry,62,Health Care and Social Assistance,,Earnings,5691,
 Maryland,2023Q1,Maryland Job Net Change by Industry,62,Health Care and Social Assistance,,Job Change,1867,
 Maryland,2023Q1,Maryland New Hires by Industry,62,Health Care and Social Assistance,,New Hires,44016,
 Maryland,2023Q1,Maryland Separations by Industry,62,Health Care and Social Assistance,,Seperation,47325,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,62,Health Care and Social Assistance,,Workers,370407,
 Maryland,2023Q1,Maryland Average Earnings by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Earnings,4969,
 Maryland,2023Q1,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,-1574,
 Maryland,2023Q1,Maryland New Hires by Industry,56,Administrative and Support and Waste Management and Remediation Services,,New Hires,40422,
 Maryland,2023Q1,Maryland Separations by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Seperation,46606,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,0
 Maryland,2023Q1,Maryland Average Earnings by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Earnings,3868,
 Maryland,2023Q1,Maryland Workers by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Workers,172009,
 Maryland,2023Q1,Maryland Job Net Change by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Job Change,139,
 Maryland,2023Q1,Maryland New Hires by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,New Hires,817,
 Maryland,2023Q1,Maryland Separations by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Seperation,894,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Workers,5664,
 Maryland,2023Q1,Maryland Average Earnings by Industry,71,"Arts, Entertainment, and Recreation",,Earnings,3571,
 Maryland,2023Q1,Maryland Job Net Change by Industry,71,"Arts, Entertainment, and Recreation",,Job Change,316,
 Maryland,2023Q1,Maryland New Hires by Industry,71,"Arts, Entertainment, and Recreation",,New Hires,6699,
 Maryland,2023Q1,Maryland Separations by Industry,71,"Arts, Entertainment, and Recreation",,Seperation,8031,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,71,"Arts, Entertainment, and Recreation",,Workers,38810,
 Maryland,2023Q1,Maryland Average Earnings by Industry,23,Construction,,Earnings,6424,
 Maryland,2023Q1,Maryland Job Net Change by Industry,23,Construction,,Job Change,262,
 Maryland,2023Q1,Maryland New Hires by Industry,23,Construction,,New Hires,19262,
 Maryland,2023Q1,Maryland Separations by Industry,23,Construction,,Seperation,22729,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,23,Construction,,Workers,160474,
 Maryland,2023Q1,Maryland Average Earnings by Industry,61,Educational Services,,Earnings,5871,
 Maryland,2023Q1,Maryland Job Net Change by Industry,61,Educational Services,,Job Change,5084,
 Maryland,2023Q1,Maryland New Hires by Industry,61,Educational Services,,New Hires,15257,
 Maryland,2023Q1,Maryland Separations by Industry,61,Educational Services,,Seperation,15596,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,61,Educational Services,,Workers,252870,
 Maryland,2023Q1,Maryland Average Earnings by Industry,52,Finance and Insurance,,Earnings,13819,
 Maryland,2023Q1,Maryland Job Net Change by Industry,52,Finance and Insurance,,Job Change,-550,
 Maryland,2023Q1,Maryland New Hires by Industry,52,Finance and Insurance,,New Hires,8019,
 Maryland,2023Q1,Maryland Separations by Industry,52,Finance and Insurance,,Seperation,9420,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,52,Finance and Insurance,,Workers,81229,
 Maryland,2023Q1,Maryland Average Earnings by Industry,51,Information,,Earnings,11025,
 Maryland,2023Q1,Maryland Job Net Change by Industry,51,Information,,Job Change,-140,
 Maryland,2023Q1,Maryland New Hires by Industry,51,Information,,New Hires,3511,
 Maryland,2023Q1,Maryland Separations by Industry,51,Information,,Seperation,4418,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,51,Information,,Workers,40282,
 Maryland,2023Q1,Maryland Average Earnings by Industry,55,Management of Companies and Enterprises,,Earnings,12110,
 Maryland,2023Q1,Maryland Job Net Change by Industry,55,Management of Companies and Enterprises,,Job Change,221,
 Maryland,2023Q1,Maryland New Hires by Industry,55,Management of Companies and Enterprises,,New Hires,2819,
 Maryland,2023Q1,Maryland Separations by Industry,55,Management of Companies and Enterprises,,Seperation,3186,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,55,Management of Companies and Enterprises,,Workers,28842,
 Maryland,2023Q1,Maryland Average Earnings by Industry,31-33,Manufacturing,,Earnings,9650,
 Maryland,2023Q1,Maryland Job Net Change by Industry,31-33,Manufacturing,,Job Change,-1300,
 Maryland,2023Q1,Maryland New Hires by Industry,31-33,Manufacturing,,New Hires,8802,
 Maryland,2023Q1,Maryland Separations by Industry,31-33,Manufacturing,,Seperation,11227,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,31-33,Manufacturing,,Workers,114575,
 Maryland,2023Q1,Maryland Average Earnings by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Earnings,6335,
 Maryland,2023Q1,Maryland Job Net Change by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Job Change,16,
 Maryland,2023Q1,Maryland New Hires by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,New Hires,217,
 Maryland,2023Q1,Maryland Separations by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Seperation,214,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Workers,1293,
 Maryland,2023Q1,Maryland Average Earnings by Industry,81,Other Services (except Public Administration),,Earnings,4730,
 Maryland,2023Q1,Maryland Job Net Change by Industry,81,Other Services (except Public Administration),,Job Change,1685,
 Maryland,2023Q1,Maryland New Hires by Industry,81,Other Services (except Public Administration),,New Hires,11810,
 Maryland,2023Q1,Maryland Separations by Industry,81,Other Services (except Public Administration),,Seperation,11772,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,81,Other Services (except Public Administration),,Workers,86731,
 Maryland,2023Q1,Maryland Average Earnings by Industry,54,"Professional, Scientific, and Technical Services",,Earnings,10168,
 Maryland,2023Q1,Maryland Job Net Change by Industry,54,"Professional, Scientific, and Technical Services",,Job Change,1813,
 Maryland,2023Q1,Maryland New Hires by Industry,54,"Professional, Scientific, and Technical Services",,New Hires,29010,
 Maryland,2023Q1,Maryland Separations by Industry,54,"Professional, Scientific, and Technical Services",,Seperation,31232,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,54,"Professional, Scientific, and Technical Services",,Workers,283263,
 Maryland,2023Q1,Maryland Average Earnings by Industry,92,Public Administration,,Earnings,6221,
 Maryland,2023Q1,Maryland Job Net Change by Industry,92,Public Administration,,Job Change,1265,
 Maryland,2023Q1,Maryland New Hires by Industry,92,Public Administration,,New Hires,5812,
 Maryland,2023Q1,Maryland Separations by Industry,92,Public Administration,,Seperation,5786,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,92,Public Administration,,Workers,125786,
 Maryland,2023Q1,Maryland Average Earnings by Industry,53,Real Estate and Rental and Leasing,,Earnings,7732,
 Maryland,2023Q1,Maryland Job Net Change by Industry,53,Real Estate and Rental and Leasing,,Job Change,-217,
 Maryland,2023Q1,Maryland New Hires by Industry,53,Real Estate and Rental and Leasing,,New Hires,4106,
 Maryland,2023Q1,Maryland Separations by Industry,53,Real Estate and Rental and Leasing,,Seperation,4876,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,53,Real Estate and Rental and Leasing,,Workers,42304,
 Maryland,2023Q1,Maryland Average Earnings by Industry,44-45,Retail Trade,,Earnings,3737,
 Maryland,2023Q1,Maryland Job Net Change by Industry,44-45,Retail Trade,,Job Change,-7953,
 Maryland,2023Q1,Maryland New Hires by Industry,44-45,Retail Trade,,New Hires,39346,
 Maryland,2023Q1,Maryland Separations by Industry,44-45,Retail Trade,,Seperation,52072,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,44-45,Retail Trade,,Workers,273790,
 Maryland,2023Q1,Maryland Average Earnings by Industry,48-49,Transportation and Warehousing,,Earnings,4827,
 Maryland,2023Q1,Maryland Job Net Change by Industry,48-49,Transportation and Warehousing,,Job Change,-6713,
 Maryland,2023Q1,Maryland New Hires by Industry,48-49,Transportation and Warehousing,,New Hires,14188,
 Maryland,2023Q1,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,22966,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,116939,
 Maryland,2023Q1,Maryland Average Earnings by Industry,22,Utilities,,Earnings,17754,
 Maryland,2023Q1,Maryland Job Net Change by Industry,22,Utilities,,Job Change,-77,
 Maryland,2023Q1,Maryland New Hires by Industry,22,Utilities,,New Hires,713,
 Maryland,2023Q1,Maryland Separations by Industry,22,Utilities,,Seperation,1127,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,22,Utilities,,Workers,9999,
 Maryland,2023Q1,Maryland Average Earnings by Industry,42,Wholesale Trade,,Earnings,8562,
 Maryland,2023Q1,Maryland Job Net Change by Industry,42,Wholesale Trade,,Job Change,-363,
 Maryland,2023Q1,Maryland New Hires by Industry,42,Wholesale Trade,,New Hires,7941,
 Maryland,2023Q1,Maryland Separations by Industry,42,Wholesale Trade,,Seperation,9039,
-Maryland,2023Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,0
 Maryland,2023Q1,Maryland Workers by Industry,42,Wholesale Trade,,Workers,85898,
 Maryland,2023Q1,Maryland Average Monthly Earnings by Age,A01,14-18,,Earnings,977,
 Maryland,2023Q1,Maryland Average Monthly Earnings by Age,A02,19-21,,Earnings,1867,
@@ -6534,14 +6549,7 @@ Maryland,2023Q1,Maryland New Hires by Education,E1,Less than High school,,New Hi
 Maryland,2023Q1,Maryland New Hires by Education,E2,"High school or equivalent, no college",,New Hires,63388,
 Maryland,2023Q1,Maryland New Hires by Education,E3,Some college or Associate degree,,New Hires,68800,
 Maryland,2023Q1,Maryland New Hires by Education,E4,Bachelor's degree or advanced degree,,New Hires,56921,
-Maryland,2023Q1,Maryland Turnover Rate by Education,E1,Less than High school,,Turnover,0,
-Maryland,2023Q1,Maryland Turnover Rate by Education,E2,"High school or equivalent, no college",,Turnover,0,
-Maryland,2023Q1,Maryland Turnover Rate by Education,E3,Some college or Associate degree,,Turnover,0,
-Maryland,2023Q1,Maryland Turnover Rate by Education,E4,Bachelor's degree or advanced degree,,Turnover,0,
 Maryland,2023Q1,Maryland Job Net Change by Gender,1,Male,,Job Change,-2838,
-Maryland,2023Q1,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0,
-Maryland,2023Q1,Maryland Turnover Rate by Gender,1,Male,,Turnover,0,
-Maryland,2023Q1,Maryland Turnover Rate by Gender,2,Female,,Turnover,0,
 Maryland,2023Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9283,
 Maryland,2023Q1,Maryland Separations by Education,E5,Educational attainment not available (workers aged 24 or younger),,Seperation,83854,
 Maryland,2023Q1,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,81068,
