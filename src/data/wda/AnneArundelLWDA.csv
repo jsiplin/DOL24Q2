@@ -1,4 +1,62 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2023Q2,TBD,All,TBD
+Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,TBD
+Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q2,TBD,All,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,72,Accommodation and Food Services,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -47,7 +105,6 @@ Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2021Q4,72,Accomm
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,62,Health Care and Social Assistance,-2541
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,-235
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,311
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,142
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,62,Health Care and Social Assistance,183
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q3,62,Health Care and Social Assistance,27
@@ -213,7 +270,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Ca
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,62,Health Care and Social Assistance,9.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,62,Health Care and Social Assistance,10
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,7.9
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,7.8
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Care and Social Assistance,8.799999999999999
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q3,62,Health Care and Social Assistance,9.3
@@ -366,7 +422,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q1,56,Admini
 New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2022Q1,72,Accommodation and Food Services,5513
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,1427
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,72,Accommodation and Food Services,14.7
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,16.5
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2018Q1,62,Health Care and Social Assistance,4243
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2017Q1,62,Health Care and Social Assistance,4136
@@ -387,7 +442,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,56,Admini
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,1223
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,-299
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,56,Administrative and Support and Waste Management and Remediation Services,1282
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,56,Administrative and Support and Waste Management and Remediation Services,856
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,27
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,-283
@@ -505,7 +559,6 @@ Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2017Q2,62,Health
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommodation and Food Services,0
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,6478
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,0
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,6659
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,5291
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,6746
@@ -568,7 +621,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administr
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,56,Administrative and Support and Waste Management and Remediation Services,16.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,17.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,16
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,13.4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,15.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,17.4
@@ -696,7 +748,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agric
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",-1
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,11,"Agriculture, Forestry, Fishing and Hunting",-2
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,11,"Agriculture, Forestry, Fishing and Hunting",37
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",-5
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-3
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",-3
@@ -795,7 +846,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agricult
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",10.5
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",16
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",10.5
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,11,"Agriculture, Forestry, Fishing and Hunting",8.3
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",13.900000000000002
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,11,"Agriculture, Forestry, Fishing and Hunting",9.4
@@ -898,7 +948,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts,
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1311
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",-67
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,71,"Arts, Entertainment, and Recreation",1262
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,71,"Arts, Entertainment, and Recreation",977
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-60
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",32
@@ -1001,7 +1050,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, En
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,71,"Arts, Entertainment, and Recreation",14.2
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,71,"Arts, Entertainment, and Recreation",14.399999999999999
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",13.4
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",14.499999999999998
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",14.099999999999998
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",18.2
@@ -1103,7 +1151,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,23,Constr
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,46
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,23,Construction,83
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,322
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,80
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,23,Construction,326
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q3,23,Construction,483
@@ -1203,7 +1250,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,23,Construct
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,7.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,23,Construction,8.4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,23,Construction,8.4
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,23,Construction,9.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,11.200000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,23,Construction,9.3
@@ -1304,7 +1350,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,61,Educat
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-483
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,-924
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,61,Educational Services,-148
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,61,Educational Services,-340
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,359
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,-101
@@ -1407,7 +1452,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,61,Education
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,6.800000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,61,Educational Services,10
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,4.3
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,2.9000000000000004
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q3,61,Educational Services,6.4
@@ -1508,7 +1552,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,52,Financ
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,19
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,52,Finance and Insurance,-140
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,52,Finance and Insurance,70
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,-15
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,23
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,-52
@@ -1608,7 +1651,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance a
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,6.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,52,Finance and Insurance,7.1
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,52,Finance and Insurance,7.3999999999999995
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,6.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,6.7
@@ -1711,7 +1753,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,51,Inform
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,51,Information,229
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,-45
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,51,Information,162
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,-49
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,51,Information,-21
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-75
@@ -1813,7 +1854,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,51,Informati
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,51,Information,10.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,51,Information,10
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,6.800000000000001
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,6.800000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q3,51,Information,10
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q3,51,Information,6.9
@@ -1912,7 +1952,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,55,Manage
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,67
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q2,55,Management of Companies and Enterprises,96
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,55,Management of Companies and Enterprises,51
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,-27
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,55,Management of Companies and Enterprises,43
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,-64
@@ -2014,7 +2053,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,55,Managemen
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,5.8999999999999995
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,55,Management of Companies and Enterprises,4.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,5.8999999999999995
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,5.800000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,55,Management of Companies and Enterprises,6.6000000000000005
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,6.6000000000000005
@@ -2114,7 +2152,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q2,31-33,Man
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,88
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,496
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,304
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,31-33,Manufacturing,388
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,31-33,Manufacturing,184
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,440
@@ -2218,7 +2255,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufa
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,31-33,Manufacturing,4.3
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,4.2
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,31-33,Manufacturing,3.9
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,4.3
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q3,31-33,Manufacturing,4.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,5
@@ -2319,7 +2355,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,21,"Minin
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-6
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-6
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-2
@@ -2421,7 +2456,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, 
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7878
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5.4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3.8
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4.3999999999999995
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6.2
@@ -2521,7 +2555,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,81,Other 
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),-581
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,81,Other Services (except Public Administration),515
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,81,Other Services (except Public Administration),393
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),-55
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,81,Other Services (except Public Administration),-10
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-278
@@ -2623,7 +2656,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Ser
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),8.4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,81,Other Services (except Public Administration),10.6
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2021Q1,81,Other Services (except Public Administration),977
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),9.8
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,81,Other Services (except Public Administration),9.4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),9
@@ -2726,7 +2758,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q2,54,"Profe
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,54,"Professional, Scientific, and Technical Services",478
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,54,"Professional, Scientific, and Technical Services",444
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",319
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",-188
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-181
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q3,54,"Professional, Scientific, and Technical Services",512
@@ -2826,7 +2857,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professi
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",7.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",7.000000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,54,"Professional, Scientific, and Technical Services",8.9
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,54,"Professional, Scientific, and Technical Services",8.3
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",8.5
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",7.6
@@ -2929,7 +2959,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,92,Public
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,92,Public Administration,566
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,92,Public Administration,964
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,93
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-478
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-755
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,92,Public Administration,-390
@@ -3029,7 +3058,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Ad
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,5
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,4.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,92,Public Administration,4.3999999999999995
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,92,Public Administration,4.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,92,Public Administration,5.6000000000000005
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,5.1
@@ -3132,7 +3160,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,53,Real E
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,53,Real Estate and Rental and Leasing,170
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,191
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,53,Real Estate and Rental and Leasing,147
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,-39
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,53,Real Estate and Rental and Leasing,5
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,-92
@@ -3233,7 +3260,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Esta
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,8.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,53,Real Estate and Rental and Leasing,8.200000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,53,Real Estate and Rental and Leasing,8.5
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,9.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate and Rental and Leasing,9.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,10.100000000000001
@@ -3335,7 +3361,6 @@ Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q2,44-45,Ret
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,-935
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,44-45,Retail Trade,-63
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,44-45,Retail Trade,1038
-Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,0
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-239
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-176
 Job change,Anne Arundel WIA,Maryland Job Net Change by Industry,2018Q3,44-45,Retail Trade,-189
@@ -3437,7 +3462,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,10.299999999999999
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,44-45,Retail Trade,11.200000000000001
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,11.799999999999999
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Trade,11.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q3,44-45,Retail Trade,10.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,11.200000000000001
@@ -3538,7 +3562,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Tra
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,-1015
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,48-49,Transportation and Warehousing,-1675
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,48-49,Transportation and Warehousing,2818
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,198
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,10
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q3,48-49,Transportation and Warehousing,-395
@@ -3640,7 +3663,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transp
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,48-49,Transportation and Warehousing,8.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,48-49,Transportation and Warehousing,7.6
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,8.7
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,7.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,8.799999999999999
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q3,48-49,Transportation and Warehousing,9.6
@@ -3737,7 +3759,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilit
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,7
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,22,Utilities,5
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,22,Utilities,-14
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,5
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-11
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,22,Utilities,-4
@@ -3840,7 +3861,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,22,Utilities
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,2.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utilities,4
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,22,Utilities,8.3
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,3.3000000000000003
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2016Q4,48-49,Transportation and Warehousing,12736
 New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2020Q2,22,Utilities,20
@@ -3944,7 +3964,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2021Q2,42,Wholes
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2022Q2,42,Wholesale Trade,101
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,-29
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,-508
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,-194
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,-21
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2017Q3,42,Wholesale Trade,-36
@@ -4044,7 +4063,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.5
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,6.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q2,42,Wholesale Trade,6.6000000000000005
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2022Q2,42,Wholesale Trade,7.5
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,6.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,6.6000000000000005
@@ -5031,7 +5049,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2019Q2,E1,Less 
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q2,E1,Less than High school,356
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,-1674
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2021Q2,E1,Less than High school,590
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,134
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2017Q3,E1,Less than High school,8
@@ -5064,7 +5081,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2019Q2,E2,"High
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",267
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",-3031
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2021Q2,E2,"High school or equivalent, no college",606
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",-1
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q2,E2,"High school or equivalent, no college",196
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",-233
@@ -5097,7 +5113,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2017Q2,E3,Some 
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2018Q2,E3,Some college or Associate degree,127
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,163
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q2,E3,Some college or Associate degree,-131
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,-3548
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2021Q2,E3,Some college or Associate degree,559
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,-3
@@ -5136,7 +5151,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q2,E4,Bache
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,-168
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2017Q3,E4,Bachelor's degree or advanced degree,-293
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,-211
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2019Q3,E4,Bachelor's degree or advanced degree,-4487
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2018Q3,E4,Bachelor's degree or advanced degree,-313
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q3,E4,Bachelor's degree or advanced degree,1307
@@ -5302,7 +5316,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less tha
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q2,E1,Less than High school,0.091
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0.091
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2022Q2,E1,Less than High school,0.097
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.104
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.098
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.099
@@ -5334,7 +5347,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High sc
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q2,E2,"High school or equivalent, no college",0.08
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0.078
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.076
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2022Q2,E2,"High school or equivalent, no college",0.085
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.084
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E2,"High school or equivalent, no college",0.08
@@ -5366,7 +5378,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some col
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.072
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0.075
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.093
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2022Q2,E3,Some college or Associate degree,0.082
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q2,E3,Some college or Associate degree,0.079
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.075
@@ -5401,7 +5412,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2022Q2,E4,Bachelor's degree or advanced degree,0.074
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.069
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q2,E4,Bachelor's degree or advanced degree,0.073
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bachelor's degree or advanced degree,0.065
@@ -5436,7 +5446,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,-302
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2021Q2,1,Male,4504
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2022Q2,1,Male,4412
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,-519
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q3,1,Male,-1242
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2017Q3,1,Male,-1468
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q3,1,Male,-2936
@@ -5502,7 +5511,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0.083
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q2,1,Male,0.087
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.095
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.099
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2022Q2,1,Male,0.09
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.093
@@ -5534,7 +5542,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.124
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.088
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q2,2,Female,0.1
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2022Q2,2,Female,0.104
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.094
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.09
@@ -5602,7 +5609,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0.08
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.109
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2021Q2,0,All,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2022Q2,0,All,0.097
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.096
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.092
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.094
@@ -5738,7 +5744,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,30
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2021Q2,2,Female,4691
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,-7010
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2022Q2,2,Female,1956
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-767
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-476
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2018Q3,2,Female,-862
@@ -5771,7 +5776,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,6
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2021Q2,0,All,9196
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,7275
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,-10032
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2022Q2,0,All,6368
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-995
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-2008
@@ -5977,7 +5981,6 @@ Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q2,E0,A
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,-10032
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2021Q2,E0,All Education Categories,9196
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,-995
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,0
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-2262
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2017Q3,E0,All Education Categories,-2795
 Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2019Q3,E0,All Education Categories,-12816
@@ -6215,7 +6218,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2021Q2,E5,Educa
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),1037
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2022Q2,E5,Educational attainment not available (workers aged 24 or younger),6425
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-956
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-1430
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-2059
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),-2243
@@ -6246,7 +6248,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educatio
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),0.21,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0.193,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q2,E5,Educational attainment not available (workers aged 24 or younger),0.213,
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2022Q2,E5,Educational attainment not available (workers aged 24 or younger),0.211,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.222,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.212,
@@ -6341,7 +6342,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All 
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2021Q2,E0,All Education Categories,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2022Q2,E0,All Education Categories,0.097
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.092
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Education Categories,0.094
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.091

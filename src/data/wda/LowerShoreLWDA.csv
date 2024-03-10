@@ -1,4 +1,31 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q2,TBD,All,TBD
+Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q1,72,Accommodation and Food Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -86,7 +113,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommo
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,3235
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,72,Accommodation and Food Services,5012
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,72,Accommodation and Food Services,3705
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-2763
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-2533
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,72,Accommodation and Food Services,-2996
@@ -289,7 +315,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,62,Health 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,-302
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,62,Health Care and Social Assistance,-105
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,62,Health Care and Social Assistance,142
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,152
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,59
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,24
@@ -496,7 +521,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,56,Adminis
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,311
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,56,Administrative and Support and Waste Management and Remediation Services,358
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,56,Administrative and Support and Waste Management and Remediation Services,382
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,-89
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,-33
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,-174
@@ -694,7 +718,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,11,"Agricu
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",103
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",96
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",57
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,11,"Agriculture, Forestry, Fishing and Hunting",90
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,11,"Agriculture, Forestry, Fishing and Hunting",101
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-14
@@ -899,7 +922,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",269
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,71,"Arts, Entertainment, and Recreation",721
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,71,"Arts, Entertainment, and Recreation",609
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-378
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",-421
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-397
@@ -1102,7 +1124,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,23,Constru
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,23,Construction,302
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,23,Construction,275
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,290
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,-102
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,23,Construction,-222
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,23,Construction,-182
@@ -1307,7 +1328,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,61,Educati
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,-951
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,166
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,222
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,127
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,61,Educational Services,247
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,61,Educational Services,305
@@ -1507,7 +1527,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,52,Finance
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,52,Finance and Insurance,4
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance and Insurance,-8
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,24
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,52,Finance and Insurance,23
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,52,Finance and Insurance,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,2
@@ -1711,7 +1730,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,51,Informa
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,-29
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,51,Information,42
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,51,Information,14
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,-21
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,51,Information,-15
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-8
@@ -1913,7 +1931,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,55,Managem
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,55,Management of Companies and Enterprises,42
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,6
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,55,Management of Companies and Enterprises,5
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,55,Management of Companies and Enterprises,18
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,-15
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,0
@@ -2117,7 +2134,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manu
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,204
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,31-33,Manufacturing,127
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,31-33,Manufacturing,155
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,-192
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,-140
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q3,31-33,Manufacturing,2
@@ -2320,7 +2336,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
@@ -2523,7 +2538,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,81,Other S
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,81,Other Services (except Public Administration),110
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,81,Other Services (except Public Administration),95
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,81,Other Services (except Public Administration),198
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),-12
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,81,Other Services (except Public Administration),15
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-126
@@ -2726,7 +2740,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,54,"Profes
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",209
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,54,"Professional, Scientific, and Technical Services",182
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,54,"Professional, Scientific, and Technical Services",186
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",-85
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",-154
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-87
@@ -2928,7 +2941,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,92,Public 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,92,Public Administration,393
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,92,Public Administration,580
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,291
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,92,Public Administration,376
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,92,Public Administration,-117
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-239
@@ -3130,7 +3142,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Es
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,53,Real Estate and Rental and Leasing,401
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,493
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,265
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,53,Real Estate and Rental and Leasing,457
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,53,Real Estate and Rental and Leasing,406
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,-205
@@ -3336,7 +3347,6 @@ Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Reta
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,44-45,Retail Trade,933
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,44-45,Retail Trade,475
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-309
-Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,0
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-431
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,44-45,Retail Trade,-552
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,44-45,Retail Trade,-486
@@ -3542,7 +3552,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Tran
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,48-49,Transportation and Warehousing,-18
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,-27
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,48-49,Transportation and Warehousing,-6
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,48-49,Transportation and Warehousing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q3,48-49,Transportation and Warehousing,47
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q3,48-49,Transportation and Warehousing,-100
@@ -3741,7 +3750,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,22,Utiliti
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,-9
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,-12
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,22,Utilities,-13
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-19
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,22,Utilities,-1
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,22,Utilities,-2
@@ -3945,7 +3953,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesa
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,42,Wholesale Trade,-73
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2022Q2,42,Wholesale Trade,113
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2021Q2,42,Wholesale Trade,282
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,-20
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,-135
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,42,Wholesale Trade,-21
@@ -5031,7 +5038,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E1,Less t
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,218
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2022Q2,E1,Less than High school,530
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2021Q2,E1,Less than High school,698
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,-239
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,-228
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q3,E1,Less than High school,-268
@@ -5063,7 +5069,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q2,E2,"High 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",1093
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2022Q2,E2,"High school or equivalent, no college",854
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-1
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2021Q2,E2,"High school or equivalent, no college",1188
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",180
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",-424
@@ -5099,7 +5104,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E3,Some c
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,128
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,-333
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2021Q2,E3,Some college or Associate degree,1153
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2022Q2,E3,Some college or Associate degree,780
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,-356
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,-507
@@ -5132,7 +5136,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachel
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelor's degree or advanced degree,545
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2021Q2,E4,Bachelor's degree or advanced degree,742
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,93
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2022Q2,E4,Bachelor's degree or advanced degree,553
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,-224
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q3,E4,Bachelor's degree or advanced degree,-289
@@ -5434,7 +5437,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,2504
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,4614
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2021Q2,1,Male,4571
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,4490
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2022Q2,1,Male,3422
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,-2188
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q3,1,Male,-2430
@@ -5738,7 +5741,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,420
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q2,2,Female,4293
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2021Q2,2,Female,4280
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2022Q2,2,Female,3465
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-1929
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-1850
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-2463
@@ -5771,7 +5774,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,89
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,8692
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,4111
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2021Q2,0,All,8851
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2022Q2,0,All,6887
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-4038
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-4240
@@ -5974,7 +5976,6 @@ Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2017Q2,E0,Al
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,4111
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,8692
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2021Q2,E0,All Education Categories,8851
-Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,0
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2022Q1,E0,All Education Categories,-124
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2022Q2,E0,All Education Categories,6887
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2016Q3,E0,All Education Categories,-4240
@@ -6214,7 +6215,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E5,Educat
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2021Q2,E5,Educational attainment not available (workers aged 24 or younger),5071
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),3493
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2022Q2,E5,Educational attainment not available (workers aged 24 or younger),4170
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-2916
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-2825
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-3429
