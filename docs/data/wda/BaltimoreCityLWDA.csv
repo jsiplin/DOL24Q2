@@ -1,4 +1,62 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2023Q2,TBD,All,TBD
+Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,TBD
+Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q2,TBD,All,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,TBD
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,72,Accommodation and Food Services,TBD
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,TBD
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -79,7 +137,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,72,Acco
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q1,72,Accommodation and Food Services,274
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,72,Accommodation and Food Services,3355
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,72,Accommodation and Food Services,1354
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-298
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-969
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,72,Accommodation and Food Services,-439
@@ -177,7 +234,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommo
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,16.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,72,Accommodation and Food Services,16.6
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,72,Accommodation and Food Services,16.5
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,16.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,17
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,15.299999999999999
@@ -282,7 +338,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,62,Heal
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,-1696
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,62,Health Care and Social Assistance,482
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,62,Health Care and Social Assistance,-2392
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,464
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,404
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,44
@@ -391,7 +446,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health 
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,62,Health Care and Social Assistance,10.299999999999999
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,7.000000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,62,Health Care and Social Assistance,8
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care and Social Assistance,6.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,6.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,6
@@ -493,7 +547,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,56,Admi
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,876
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,56,Administrative and Support and Waste Management and Remediation Services,806
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,454
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,1539
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,628
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,666
@@ -597,7 +650,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,56,Adminis
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,17.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,19.400000000000002
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,17.8
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,18.4
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,17.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q3,56,Administrative and Support and Waste Management and Remediation Services,14.2
@@ -695,7 +747,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agr
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",2
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,11,"Agriculture, Forestry, Fishing and Hunting",3
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,11,"Agriculture, Forestry, Fishing and Hunting",4
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-3
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",3
@@ -797,7 +848,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agricu
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,11,"Agriculture, Forestry, Fishing and Hunting",21.9
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
@@ -900,7 +950,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,71,"Art
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",-1133
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,71,"Arts, Entertainment, and Recreation",905
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-562
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-1052
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",-502
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",-1190
@@ -1001,7 +1050,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, 
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,71,"Arts, Entertainment, and Recreation",11.600000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,71,"Arts, Entertainment, and Recreation",10.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",15
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",17.8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",13.200000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",12.8
@@ -1101,7 +1149,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,23,Cons
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,658
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,23,Construction,623
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,-34
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,23,Construction,-98
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,81
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,23,Construction,-10
@@ -1202,7 +1249,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,23,Constru
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,23,Construction,8.4
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,23,Construction,9.3
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,23,Construction,9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,12.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,23,Construction,11
@@ -1303,7 +1349,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q2,61,Educ
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q2,61,Educational Services,-1528
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-2560
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,-2881
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,61,Educational Services,-2174
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,61,Educational Services,-614
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,307
@@ -1405,7 +1450,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educati
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,61,Educational Services,5.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,3.8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,61,Educational Services,5.7
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q3,61,Educational Services,4.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3.6999999999999997
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,4
@@ -1508,7 +1552,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,52,Fina
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,52,Finance and Insurance,182
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,52,Finance and Insurance,-137
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,-95
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,-202
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,43
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,52,Finance and Insurance,-148
@@ -1607,7 +1650,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,5.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,4.3999999999999995
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,52,Finance and Insurance,7.6
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,52,Finance and Insurance,6.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,6.800000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,6.1
@@ -1711,7 +1753,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,51,Info
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,217
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,51,Information,199
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,51,Information,54
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,51,Information,60
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,31
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-177
@@ -1811,7 +1852,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,51,Informa
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,7.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,51,Information,8.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,5.6000000000000005
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,51,Information,10.6
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,7.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,51,Information,7.3
@@ -1909,7 +1949,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,55,Mana
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,320
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,368
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,55,Management of Companies and Enterprises,-51
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,55,Management of Companies and Enterprises,-22
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,1
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,-18
@@ -2010,7 +2049,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,55,Managem
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,5.800000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,55,Management of Companies and Enterprises,6.7
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,55,Management of Companies and Enterprises,7.8
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,8.799999999999999
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,8.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,55,Management of Companies and Enterprises,9.3
@@ -2117,7 +2155,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,31-33,M
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,-273
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,155
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,31-33,Manufacturing,91
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,-104
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,31-33,Manufacturing,19
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,-184
@@ -2219,7 +2256,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manu
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,31-33,Manufacturing,7.6
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,31-33,Manufacturing,8.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,5.3
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,7.199999999999999
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q3,31-33,Manufacturing,7.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufacturing,6
@@ -2319,7 +2355,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,21,"Min
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2423,7 +2458,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,21,"Mining
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -2522,7 +2556,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,81,Othe
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,81,Other Services (except Public Administration),13
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),-766
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,81,Other Services (except Public Administration),375
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,81,Other Services (except Public Administration),460
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),-31
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-204
@@ -2624,7 +2657,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,81,Other S
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),8.7
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),8.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,81,Other Services (except Public Administration),9.6
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),9.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,81,Other Services (except Public Administration),9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),8.6
@@ -2725,7 +2757,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,54,"Pro
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",-573
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,54,"Professional, Scientific, and Technical Services",531
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",416
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,54,"Professional, Scientific, and Technical Services",310
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-69
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",248
@@ -2828,7 +2859,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Profes
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,54,"Professional, Scientific, and Technical Services",8.7
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",7.7
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,54,"Professional, Scientific, and Technical Services",10
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",7.199999999999999
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7.6
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",7.8
@@ -2929,7 +2959,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,92,Publ
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,92,Public Administration,-69
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,92,Public Administration,-49
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-465
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,92,Public Administration,-165
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-382
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,92,Public Administration,1187
@@ -3029,7 +3058,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public 
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,3.3000000000000003
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,3.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,92,Public Administration,4.5
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,92,Public Administration,20.200000000000003
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,3.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Administration,3.2
@@ -3132,7 +3160,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,53,Real
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,-236
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,53,Real Estate and Rental and Leasing,174
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,53,Real Estate and Rental and Leasing,100
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,51
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,229
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,53,Real Estate and Rental and Leasing,55
@@ -3233,7 +3260,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,53,Real Es
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,7.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,53,Real Estate and Rental and Leasing,7.3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Estate and Rental and Leasing,8.3
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,8.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q3,53,Real Estate and Rental and Leasing,8.5
@@ -3334,7 +3360,6 @@ Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,44-45,R
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,-142
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q2,44-45,Retail Trade,181
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,44-45,Retail Trade,180
-Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,0
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,44-45,Retail Trade,-42
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-85
 Job change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,53
@@ -3434,7 +3459,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Reta
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,11.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,11
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,10.9
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,44-45,Retail Trade,12.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,44-45,Retail Trade,12.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,12.3
@@ -3538,7 +3562,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,48-49,T
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,5366
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,48-49,Transportation and Warehousing,-11366
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,48-49,Transportation and Warehousing,16490
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,2015
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,312
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,48-49,Transportation and Warehousing,615
@@ -3640,7 +3663,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Tran
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,48-49,Transportation and Warehousing,9.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,12.8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,48-49,Transportation and Warehousing,10.299999999999999
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,10.6
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,11.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transportation and Warehousing,14.299999999999999
@@ -3742,7 +3764,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,22,Util
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,73
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,22,Utilities,-109
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,-70
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q3,22,Utilities,5
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q3,22,Utilities,8
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-52
@@ -3842,7 +3863,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utiliti
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,22,Utilities,2.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,3
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,22,Utilities,7.7
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,2.8000000000000003
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,2.1
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,22,Utilities,3.3000000000000003
@@ -3943,7 +3963,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2018Q2,42,Whol
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,20
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,-280
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2021Q2,42,Wholesale Trade,165
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2022Q2,42,Wholesale Trade,-49
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,-40
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,13
@@ -4045,7 +4064,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2021Q2,42,Wholesa
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,6.7
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2022Q2,42,Wholesale Trade,7.8
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,7.000000000000001
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,6.5
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,7.3999999999999995
@@ -5033,7 +5051,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2021Q2,E1,Les
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,24
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,459
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2022Q2,E1,Less than High school,2205
-Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2018Q3,E1,Less than High school,476
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2017Q3,E1,Less than High school,470
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2019Q3,E1,Less than High school,314
@@ -5064,7 +5081,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2017Q2,E2,"Hi
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2019Q2,E2,"High school or equivalent, no college",175
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",-2445
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2021Q2,E2,"High school or equivalent, no college",-1100
-Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2022Q2,E2,"High school or equivalent, no college",3223
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",655
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",-332
@@ -5099,7 +5115,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2019Q2,E3,Som
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,-2597
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2022Q2,E3,Some college or Associate degree,2630
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2021Q2,E3,Some college or Associate degree,-1270
-Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,316
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,-438
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,434
@@ -5134,7 +5149,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2020Q2,E4,Bac
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachelor's degree or advanced degree,-1306
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2022Q2,E4,Bachelor's degree or advanced degree,175
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,227
-Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2017Q3,E4,Bachelor's degree or advanced degree,717
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,-338
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2018Q3,E4,Bachelor's degree or advanced degree,165
@@ -5305,7 +5319,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2017Q2,E1,Less t
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.094
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.099
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.098
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.097
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.079
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.096
@@ -5335,7 +5348,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High 
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.072
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2021Q2,E2,"High school or equivalent, no college",0.108
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2022Q2,E2,"High school or equivalent, no college",0.084
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.08
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High school or equivalent, no college",0.077
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.083
@@ -5367,7 +5379,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some c
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0.067
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.066
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2021Q2,E3,Some college or Associate degree,0.104
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2022Q2,E3,Some college or Associate degree,0.08
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.072
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.071
@@ -5402,7 +5413,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2021Q2,E4,Bachel
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0.056
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.056
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bachelor's degree or advanced degree,0.055
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.057
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's degree or advanced degree,0.058
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.058
@@ -5434,7 +5444,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2017Q2,1,Male,40
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,2825
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,-1776
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2021Q2,1,Male,-1262
-Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2022Q2,1,Male,9680
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,1037
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2016Q3,1,Male,-1105
@@ -5501,7 +5510,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.081
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2021Q2,1,Male,0.111
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.078
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0.078
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2022Q2,1,Male,0.088
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.091
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.088
@@ -5535,7 +5543,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0.074
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2021Q2,2,Female,0.106
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2022Q2,2,Female,0.089
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.077
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.076
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.075
@@ -5601,7 +5608,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0.
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.076
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.076
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2021Q2,0,All,0.108
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2022Q2,0,All,0.089
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.084
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.084
@@ -5738,7 +5744,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2022Q2,2,Female,5823
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,1371
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2021Q2,2,Female,-1475
-Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,2084
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,407
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-204
@@ -5773,7 +5778,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2020Q2,0,All
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2021Q2,0,All,-2737
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2022Q2,0,All,15503
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-1309
-Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,3121
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2018Q3,0,All,1579
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender All,2019Q3,0,All,950
@@ -5975,7 +5979,6 @@ Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2019Q2,E0
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2017Q2,E0,All Education Categories,6554
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2021Q2,E0,All Education Categories,-2737
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,-5778
-Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,0
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2016Q3,E0,All Education Categories,-1309
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2022Q2,E0,All Education Categories,15503
 Job change,Baltimore City WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,3121
@@ -6214,7 +6217,6 @@ Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2020Q2,E5,Edu
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),1463
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2021Q2,E5,Educational attainment not available (workers aged 24 or younger),1414
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2022Q2,E5,Educational attainment not available (workers aged 24 or younger),7270
-Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-225
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-781
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),-244
@@ -6247,7 +6249,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educat
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2021Q2,E5,Educational attainment not available (workers aged 24 or younger),0.234,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2022Q2,E5,Educational attainment not available (workers aged 24 or younger),0.219,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0.203,
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.223,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.206,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.211,
@@ -6338,7 +6339,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2019Q2,E0,Al
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.075
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.076
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0.076
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2022Q2,E0,All Education Categories,0.089
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2021Q2,E0,All Education Categories,0.108
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.084
