@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Workers,Susquehanna WIA,Maryland Workers by Industry,2020Q4,42,Wholesale Trade,4
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,772
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,926
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,964
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,726
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,774
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,852
@@ -4165,7 +4177,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1423
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1736
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1869
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1321
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1473
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1435
@@ -4197,7 +4208,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2017Q2,A03,22-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2465
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2795
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2473
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,2902
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2028
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2207
@@ -4233,7 +4243,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,3727
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,4310
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,4074
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3271
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3492
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,3325
@@ -4267,7 +4276,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,4951
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,5369
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,5478
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q3,A05,35-44,4978
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q3,A05,35-44,4732
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,4640
@@ -4300,7 +4308,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45-54,5233
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,5528
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,6025
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,5888
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,4926
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,4540
@@ -4334,7 +4341,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q2,A07,55-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,5206
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,5339
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,5556
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,5720
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4672
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,4362
@@ -4878,10 +4884,8 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Fe
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,3823
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,3931
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,2867
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3126
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Female,3211
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,3175
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2017Q3,2,Female,3058
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2019Q3,2,Female,3272
@@ -5478,7 +5482,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,4706
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,4403
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,4828
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,3695
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,3986
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,3886
@@ -5904,7 +5907,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,3466
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,4028
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,4088
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,3187
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,3175
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2018Q3,A08,65-99,3309
@@ -6235,7 +6237,6 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,3986
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3695
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,3886
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2019Q3,A00,All Ages,4163
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4018
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2021Q3,A00,All Ages,4609
@@ -6364,5 +6365,4 @@ Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4198
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,4403
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4706
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4828

@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4132,7 +4145,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,983
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,979
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,779
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,823
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,861
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,815
@@ -4165,7 +4177,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1888
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1612
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,2045
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1525
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1386
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1629
@@ -4199,7 +4210,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2299
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2678
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,2857
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2196
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2058
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2186
@@ -4232,7 +4242,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3284
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,3365
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,3750
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,2889
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,3933
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3068
@@ -4267,7 +4276,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,4954
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,4705
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,4287
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,3785
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,4017
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,3922
@@ -4302,7 +4310,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,4693
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,5184
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,3938
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,4191
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,4120
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,4263
@@ -4336,7 +4343,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,4822
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,3937
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,5167
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4169
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,4121
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A07,55-64,4195
@@ -4845,7 +4851,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Ma
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male,4862
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,4459
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,5113
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,3867
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,4127
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,4082
@@ -4880,7 +4885,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Fe
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,3671
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,3825
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,2984
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q3,2,Female,2911
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,2829
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q3,2,Female,3053
@@ -5477,7 +5481,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q2,
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,3643
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,3892
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,4451
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,3323
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,4242
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,3524
@@ -5905,7 +5908,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,2704
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,3713
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,3835
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,2924
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2019Q3,A08,65-99,3036
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2020Q3,A08,65-99,3641
@@ -6234,7 +6236,6 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4451
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,3524
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3323
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,3461
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,3572
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2019Q3,A00,All Ages,3624
@@ -6365,4 +6366,3 @@ Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3892
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4242
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4451
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0

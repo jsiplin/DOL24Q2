@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,808
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1026
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,989
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,742
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,858
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,822
@@ -4167,7 +4179,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1435
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1372
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1275
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1457
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1380
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q3,A02,19-21,1503
@@ -4200,7 +4211,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2910
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,3049
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2169
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2384
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2351
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A03,22-24,2445
@@ -4232,7 +4242,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3980
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,4031
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,4593
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,4759
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3713
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3497
@@ -4265,7 +4274,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q2,A05,35-44,4719
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,5271
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,5419
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,6180
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,6081
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,4729
@@ -4301,7 +4309,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,6061
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,6734
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,6834
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,5411
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5136
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,5468
@@ -4334,7 +4341,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,5662
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,5572
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,6356
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,6507
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5019
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,5330
@@ -4845,7 +4851,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2017Q2
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,6569
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male,6473
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,5784
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,5423
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5078
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,5366
@@ -4879,7 +4884,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,3935
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,4673
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,4550
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3385
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3591
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,3627
@@ -5478,7 +5482,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,20
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,4640
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,5480
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,5589
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,4402
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4205
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,4476
@@ -5946,7 +5949,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,4530
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,4996
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,5037
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,3767
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,3986
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A08,65-99,4127
@@ -6275,7 +6277,6 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,5480
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,5589
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4205
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,4476
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4529
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,4402
@@ -6365,4 +6366,3 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2018Q
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,4905
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,5480
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,5589
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0

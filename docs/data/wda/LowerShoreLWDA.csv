@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4119,7 +4132,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1051
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,1003
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,763
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,888
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,1038
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,937
@@ -4153,7 +4165,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1321
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1779
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1861
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1402
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1504
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1489
@@ -4187,7 +4198,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2053
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2081
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2562
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,2704
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2028
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,1983
@@ -4223,7 +4233,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,3674
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,3796
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,2849
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,2761
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,2830
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A04,25-34,2947
@@ -4257,7 +4266,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,3638
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,4622
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,4844
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,3633
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,3725
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A05,35-44,3755
@@ -4290,7 +4298,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,5261
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,4707
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,5407
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,3982
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,4121
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,4042
@@ -4324,7 +4331,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,4528
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,5187
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,5377
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4034
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A07,55-64,4095
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,3827
@@ -4833,7 +4839,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Ma
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Male,4799
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,4452
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male,4969
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,4072
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,3976
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,3913
@@ -4867,7 +4872,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Fe
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,3153
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,3313
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,3931
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,3796
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,2783
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,2695
@@ -5471,7 +5475,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q1,
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,0,All,3883
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,3837
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,3256
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,4335
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,4496
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,3377
@@ -5960,7 +5963,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q4,A08,65-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2021Q4,A08,65-99,4218
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,4235
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2022Q4,A08,65-99,4153
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,266
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,315
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2018Q1,E0,All Education Categories,499
@@ -6273,7 +6275,6 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3837
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4335
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4496
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3256
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,3441
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,3377
@@ -6365,4 +6366,3 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3837
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4335
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4496
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0

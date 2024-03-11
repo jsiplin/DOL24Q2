@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4129,7 +4142,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q2,A01,14-18
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,14-18,700
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,751
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,980
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,932
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,749
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,736
@@ -4165,7 +4177,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1431
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1774
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1323
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1895
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1472
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1502
@@ -4200,7 +4211,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q2,A03,22-24
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2771
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2069
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,2966
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2230
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2242
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q3,A03,22-24,2281
@@ -4229,7 +4239,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q2,A04,25-34
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q2,A04,25-34,3419
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q1,A04,25-34,4250
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3732
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3577
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,4417
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,4164
@@ -4270,7 +4279,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,4425
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,4683
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,4511
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q3,A05,35-44,4595
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q3,A05,35-44,4762
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q3,A05,35-44,5122
@@ -4302,7 +4310,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,6096
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,6309
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,4713
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,5073
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,5009
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,4862
@@ -4334,7 +4341,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,5139
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,5316
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,6096
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,5836
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,4702
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4864
@@ -4845,7 +4851,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,6059
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,5220
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,5254
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,4760
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,4965
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,4766
@@ -4879,7 +4884,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Fema
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,3851
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,4211
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,4324
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3356
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3118
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2019Q3,2,Female,3431
@@ -5478,7 +5482,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,0,
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,4979
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,4445
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,5177
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,3929
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,4015
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,4146
@@ -5902,7 +5905,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2016Q2,A08,65-99
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2017Q2,A08,65-99,3476
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,3753
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,3927
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,4588
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,4443
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,3340
@@ -6245,7 +6247,6 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,A
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4064
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,4445
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,4538
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4979
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3929
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,4146
@@ -6363,6 +6364,5 @@ Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,A
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4064
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4979
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,5177
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,4445
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,4538

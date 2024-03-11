@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1003
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,824
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,944
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,757
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,820
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,880
@@ -4163,7 +4175,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1458
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1581
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1805
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1545
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1904
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1422
@@ -4199,7 +4210,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,2833
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2276
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2293
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,1978
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A03,22-24,2203
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q3,A03,22-24,2304
@@ -4231,7 +4241,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3162
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,3214
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3276
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,3820
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,2917
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3017
@@ -4266,7 +4275,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,4047
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,4136
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,4529
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,4687
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,3796
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,3789
@@ -4302,7 +4310,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,4848
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,3984
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,5052
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,4066
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,4075
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q3,A06,45-54,4463
@@ -4335,7 +4342,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,4343
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,4632
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,4803
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4010
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A07,55-64,4091
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,3979
@@ -4846,7 +4852,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,4476
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,4059
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,4905
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q3,1,Male,4252
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,4108
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q3,1,Male,4329
@@ -4878,7 +4883,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q2
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,3084
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,3173
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,3472
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,2802
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,3580
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,2719
@@ -5476,7 +5480,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,20
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,3759
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,4235
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,4088
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,3370
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,3435
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,3434
@@ -5945,7 +5948,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,3567
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,3367
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,3282
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,3692
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,2793
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,2876
@@ -6273,7 +6275,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3759
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4235
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4088
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3370
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,3435
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,3434
@@ -6360,7 +6361,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,3644
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,3759
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,4235
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,4088
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2022Q1,E0,All Education Categories,0.098
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.08

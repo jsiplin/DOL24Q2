@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,714
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,940
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,929
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,668
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,742
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A01,14-18,769
@@ -4167,7 +4179,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1456
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1404
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1475
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1283
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1431
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q3,A02,19-21,1575
@@ -4198,7 +4209,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2643
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2795
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,3397
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,3333
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2327
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2556
@@ -4233,7 +4243,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,5187
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,5453
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,4579
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,4003
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,4256
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,4171
@@ -4268,7 +4277,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,6986
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,5461
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,7075
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,5774
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,5699
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A05,35-44,5822
@@ -4301,7 +4309,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,6541
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,7877
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,7707
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5884
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,6288
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,6307
@@ -4333,7 +4340,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q2,A07,55
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,6195
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,6345
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,6819
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,7377
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,7397
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5693
@@ -4846,7 +4852,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,M
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,6587
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male,7432
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5748
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,6135
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q3,1,Male,6241
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,6001
@@ -4879,7 +4884,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,F
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,4576
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,5156
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,5035
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3812
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,4035
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,4003
@@ -5478,7 +5482,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2019Q2
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,5637
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,6287
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,6377
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4819
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,5115
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q3,0,All,5175
@@ -5947,7 +5950,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,5437
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,5522
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,4158
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,4259
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,4216
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A08,65-99,4430
@@ -6274,7 +6276,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,6287
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,5194
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6377
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4826
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,5067
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,5637
@@ -6284,7 +6285,6 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,6287
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,5115
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,5007
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4819
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6377
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,5175

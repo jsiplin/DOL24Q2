@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
@@ -4130,7 +4143,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,803
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,737
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1024
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,991
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,749
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,807
@@ -4165,7 +4177,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1370
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1738
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1885
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1333
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1444
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1470
@@ -4199,7 +4210,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2557
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,3166
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,3225
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2401
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2389
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2213
@@ -4232,7 +4242,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,4174
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,4221
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,4863
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,5125
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3939
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q3,A04,25-34,3986
@@ -4266,7 +4275,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,5458
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,6724
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,5890
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,6837
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,5244
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,5508
@@ -4300,7 +4308,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,6520
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,6649
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5811
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,7441
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-54,7260
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,6084
@@ -4335,7 +4342,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,6514
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,7562
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,7408
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5826
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,5995
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q3,A07,55-64,6385
@@ -4847,7 +4853,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,M
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5602
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,7296
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,5880
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,5750
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q3,1,Male,5925
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q3,1,Male,6154
@@ -4880,7 +4885,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,F
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,4579
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,4756
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3663
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3828
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2017Q3,2,Female,3712
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,3849
@@ -5479,7 +5483,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2020Q2
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,6089
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,6017
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4660
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,4752
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,4878
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2020Q3,0,All,5680
@@ -5944,7 +5947,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q2,A08,65-99,4080
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,4487
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,4791
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,3931
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,5451
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,4072
@@ -6274,7 +6276,6 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4966
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,6017
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6089
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4660
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,4878
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4908
@@ -6365,4 +6366,3 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A0
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4966
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,6017
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6089
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0

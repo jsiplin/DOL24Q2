@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-1
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1064
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,828
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,1029
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,877
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,789
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,889
@@ -4165,7 +4177,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-2
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1465
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1320
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1709
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1824
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1427
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1431
@@ -4199,7 +4210,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-2
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,3125
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,3222
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2801
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2271
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2508
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2504
@@ -4233,7 +4243,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-3
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,4680
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,5335
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,5173
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3938
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,4147
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,4225
@@ -4267,7 +4276,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-4
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,6579
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,7406
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,7167
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,5686
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,6176
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,5949
@@ -4301,7 +4309,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A06,45-5
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,7243
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,7583
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,8415
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,6419
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,6982
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,6736
@@ -4336,7 +4343,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-6
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,7915
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,7897
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,6523
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,6641
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,6190
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q3,A07,55-64,6621
@@ -4846,7 +4852,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Mal
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,8040
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,6940
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,6272
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,6777
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q3,1,Male,6853
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,6537
@@ -4879,7 +4884,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Fem
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,5185
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,5679
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,5573
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,4138
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,4537
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,4511
@@ -5478,7 +5482,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,6689
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,5861
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,6782
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,5170
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,5606
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2018Q3,0,All,5517
@@ -5904,7 +5907,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-9
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,5403
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,6203
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,6274
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,5312
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,4881
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,5208
@@ -6232,7 +6234,6 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,6689
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,6129
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6782
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,5170
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,5517
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,5439
@@ -6365,4 +6366,3 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5861
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,6129
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,6782
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0

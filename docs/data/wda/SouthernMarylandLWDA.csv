@@ -1,4 +1,17 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,TBD,All,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,TBD
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -4131,7 +4144,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,765
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A01,14-18,977
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A01,14-18,1017
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,762
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,841
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,840
@@ -4165,7 +4177,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,1450
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A02,19-21,1761
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A02,19-21,1883
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1307
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1458
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1465
@@ -4197,7 +4208,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2298
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2434
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,2505
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A03,22-24,2956
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A03,22-24,3042
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2155
@@ -4231,7 +4241,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3797
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3756
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A04,25-34,4460
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,3944
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A04,25-34,4654
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3938
@@ -4266,7 +4275,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,5037
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,5254
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A05,35-44,5787
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A05,35-44,6026
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,4743
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,5027
@@ -4301,7 +4309,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A06,45-54,6495
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5102
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,5757
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,5452
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,5385
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,5294
@@ -4335,7 +4342,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A07,55-64,6196
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,5325
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A07,55-64,6337
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5093
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,5338
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,5220
@@ -4845,7 +4851,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,5573
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,1,Male,6256
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q2,1,Male,6090
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5128
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,5524
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,5329
@@ -4877,7 +4882,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,3654
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,3590
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2021Q2,2,Female,4242
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,3899
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q2,2,Female,4414
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3301
@@ -5477,7 +5481,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,4423
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2021Q2,0,All,5128
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,4702
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2022Q2,0,All,5291
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4184
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q3,0,All,4440
@@ -5903,7 +5906,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,3907
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A08,65-99,4674
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,4369
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,3607
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q2,A08,65-99,4703
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,3884
@@ -6232,7 +6234,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2019
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,4702
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,5291
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,5128
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4118
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4184
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4440
@@ -6265,7 +6266,6 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2020
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2022Q1,A00,All Ages,13299
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2021Q2,A00,All Ages,5128
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2022Q2,A00,All Ages,5291
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,0
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,13253
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2015Q2,A00,All Ages,14427
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2016Q2,A00,All Ages,15643
