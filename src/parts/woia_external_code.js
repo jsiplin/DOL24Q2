@@ -714,7 +714,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2021Q3</th>
           <th class="HeadRow">2021Q4</th>
           <th class="HeadRow">2022Q1</th>
-		  <th class="HeadRow">2022Q2</th> 
+		      <th class="HeadRow">2022Q2</th> 
           <th class="HeadRow">2022Q3</th> 
           <th class="HeadRow">2022Q4</th>
           <th class="HeadRow">2023Q1</th>
@@ -1043,6 +1043,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pwChart, pavgChart],
         'svgName': '#Chart3',
         'data': {
+            data23q2: [workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2],
+            data23q1: [workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1],
             data22q4: [workData2022Q4, workDatg2022Q4, averageData2022Q4, averageDatg2022Q4],
             data22q3: [workData2022Q3, workDatg2022Q3, averageData2022Q3, averageDatg2022Q3],
             data22q2: [workData2022Q2, workDatg2022Q2, averageData2022Q2, averageDatg2022Q2],
@@ -1079,6 +1081,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
+            data23q2: [newHireDatc2023Q2, newHireDatg2023Q2, jobDatc2023Q2, jobDatg2023Q2],
+            data23q1: [newHireDatc2023Q1, newHireDatg2023Q1, jobDatc2023Q1, jobDatg2023Q1],
             data22q4: [newHireDatc2022Q4, newHireDatg2022Q4, jobDatc2022Q4, jobDatg2022Q4],
             data22q3: [newHireDatc2022Q3, newHireDatg2022Q3, jobDatc2022Q3, jobDatg2022Q3],
             data22q2: [newHireDatc2022Q2, newHireDatg2022Q2, jobDatc2022Q2, jobDatg2022Q2],
@@ -1115,8 +1119,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pturnChart],
         'svgName': '#ChartFive',
         'data': {
-			data23q1: [turnOverData2023Q1, turnOverDatg2023Q1],
-			data22q4: [turnOverData2022Q4, turnOverDatg2022Q4],
+			      data23q1: [turnOverData2023Q1, turnOverDatg2023Q1],
+			      data22q4: [turnOverData2022Q4, turnOverDatg2022Q4],
             data22q3: [turnOverData2022Q3, turnOverDatg2022Q3],
             data22q2: [turnOverData2022Q2, turnOverDatg2022Q2],
             data22q1: [turnOverData2022Q1, turnOverDatg2022Q1],
@@ -1152,8 +1156,10 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
+            data23q1: [iwdata2023Q1, avgdata2023Q1, netdata2023Q1, turndata2023Q1, hiredata2023Q1],
+            data22q4: [iwdata2022Q4, avgdata2022Q4, netdata2022Q4, turndata2022Q4, hiredata2022Q4],
             data22q3: [iwdata2022Q3, avgdata2022Q3, netdata2022Q3, turndata2022Q3, hiredata2022Q3],
-			data22q2: [iwdata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2, hiredata2022Q2],
+			      data22q2: [iwdata2022Q2, avgdata2022Q2, netdata2022Q2, turndata2022Q2, hiredata2022Q2],
             data22q1: [iwdata2022Q1, avgdata2022Q1, netdata2022Q1, turndata2022Q1, hiredata2022Q1],
             data21q4: [iwdata2021Q4, avgdata2021Q4, netdata2021Q4, turndata2021Q4, hiredata2021Q4],
             data21q3: [iwdata2021Q3, avgdata2021Q3, netdata2021Q3, turndata2021Q3, hiredata2021Q3],
@@ -1187,6 +1193,8 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart61],
         'svgName': '#Chart17',
         'data': {
+                data23q1: [isepdata2023Q1, asepdata2023Q1, gsepdata2023Q1, esepdata2023Q1],
+                data22q4: [isepdata2022Q4, asepdata2022Q4, gsepdata2022Q4, esepdata2022Q4],
                 data22q3: [isepdata2022Q3, asepdata2022Q3, gsepdata2022Q3, esepdata2022Q3],
                 data22q2: [isepdata2022Q2, asepdata2022Q2, gsepdata2022Q2, esepdata2022Q2],
                 data22q1: [isepdata2022Q1, asepdata2022Q1, gsepdata2022Q1, esepdata2022Q1],
