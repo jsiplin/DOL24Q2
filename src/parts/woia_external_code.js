@@ -27,7 +27,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     // Set variables
     //
     let fullYears = ['2017', '2018', '2019','2020', '2021','2022']
-    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3","2021Q4","2022Q1","2022Q2", "2022Q3", "2022Q4", "2023Q1", "2023Q2"]
+    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3","2021Q4","2022Q1","2022Q2", "2022Q3", "2022Q4", "2023Q1", "2023Q2", "2023Q3"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
     //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
     let eduGender = ["Less than High school", "High school or equivalent, no college", "Some college or Associate degree", 
@@ -221,8 +221,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
                ${!workData2022Q2[1] ? '' : displayAvgQuarterTab1('2022Q2', workData2022Q2, workDatg2022Q2, averageData2022Q2, averageDatg2022Q2)}
                ${!workData2022Q3[1] ? '' : displayAvgQuarterTab1('2022Q3', workData2022Q3, workDatg2022Q3, averageData2022Q3, averageDatg2022Q3)}
                ${!workData2022Q4[1] ? '' : displayAvgQuarterTab1('2022Q4', workData2022Q4, workDatg2022Q4, averageData2022Q4, averageDatg2022Q4)}
-			   ${!workData2023Q1[1] ? '' : displayAvgQuarterTab1('2023Q1', workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1)}
-               ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q2', workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2)}            
+			         ${!workData2023Q1[1] ? '' : displayAvgQuarterTab1('2023Q1', workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1)}
+               ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q2', workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2)}
+               ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q3', workData2023Q3, workDatg2023Q3, averageData2023Q3, averageDatg2023Q3)}            
 
   `
     // Tab 2  
@@ -293,6 +294,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!newHireDatc2022Q4[0] ? '' : displayAvgQuarterTab2('2022Q4', jobDatc2022Q4, jobDatg2022Q4, newHireDatc2022Q4, newHireDatg2022Q4)}
      ${!newHireDatc2023Q1[0] ? '' : displayAvgQuarterTab2('2023Q1', jobDatc2023Q1, jobDatg2023Q1, newHireDatc2023Q1, newHireDatg2023Q1)}
      ${!newHireDatc2023Q2[0] ? '' : displayAvgQuarterTab2('2023Q2', jobDatc2023Q2, jobDatg2023Q2, newHireDatc2023Q2, newHireDatg2023Q2)}
+     ${!newHireDatc2023Q3[0] ? '' : displayAvgQuarterTab2('2023Q3', jobDatc2023Q3, jobDatg2023Q3, newHireDatc2023Q3, newHireDatg2023Q3)}
     `
 
     // Tab 3 Turnover Rate
@@ -556,6 +558,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
          </tr>
       </thead>
       <tbody>
+        ${!iwdata2023Q2[0] ? '' : displayIndustryMetricsTable(iwdata2023Q2, hiredata2023Q2, avgdata2023Q2, netdata2023Q2, turndata2023Q2)}
         ${!iwdata2023Q1[0] ? '' : displayIndustryMetricsTable(iwdata2023Q1, hiredata2023Q1, avgdata2023Q1, netdata2023Q1, turndata2023Q1)}
         ${!iwdata2022Q4[0] ? '' : displayIndustryMetricsTable(iwdata2022Q4, hiredata2022Q4, avgdata2022Q4, netdata2022Q4, turndata2022Q4)}
         ${!iwdata2022Q3[0] ? '' : displayIndustryMetricsTable(iwdata2022Q3, hiredata2022Q3, avgdata2022Q3, netdata2022Q3, turndata2022Q3)}	    
