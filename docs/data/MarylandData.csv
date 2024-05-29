@@ -1,4 +1,11 @@
 Location,Time,Indicator,Indicator_Status,Indicator_Value,Employment_Status,QWI-Status,Amount,Unemployment_Rate
+Maryland,2022,Employment Status By Disability Status,Non Disabled,,Labor Force,,2866386
+Maryland,2022,Employment Status By Disability Status,Disabled,,Labor Force,,171974
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Labor Force,,2971952
+Maryland,2021,Employment Status By Disability Status,Disabled,,Labor Force,,167081
+Maryland,2020,Employment Status By Disability Status,Non Disabled,,Labor Force,,2836409
+Maryland,2020,Employment Status By Disability Status,Disabled,,Labor Force,,159290
+
 Maryland,2015Q3,TANF Workers,,,,,5546,
 Maryland,2015Q4,TANF Workers,,,,,5875,
 Maryland,2016Q1,TANF Workers,,,,,4316,
