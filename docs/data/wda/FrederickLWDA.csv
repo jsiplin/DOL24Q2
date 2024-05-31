@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Frederick WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Frederick WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6022,7 +6063,6 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2021Q4,E0,All Edu
 Turnover,Frederick WIA,Maryland Turnover Rate by Education All,2022Q4,E0,All Education Categories,0.097
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,72,Accommodation and Food Services,2314
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommodation and Food Services,2380
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,2253
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,423
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,386
@@ -6042,7 +6082,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Ca
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,-47
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,31
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,1534
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,1592
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,62,Health Care and Social Assistance,1730
@@ -6060,7 +6099,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,56,Administr
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,180
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,1116
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,1210
 Separations,Frederick WIA,Maryland Separations by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,1389
 Separations,Frederick WIA,Maryland Separations by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
@@ -6076,7 +6114,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,11,"Agricult
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",-13
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",36
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",89
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",46
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",259
@@ -6093,7 +6130,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, En
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",48
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",221
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",240
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",346
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",391
@@ -6110,7 +6146,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,23,Construct
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,-15
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,182
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,23,Construction,889
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,23,Construction,1103
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,23,Construction,1080
@@ -6125,7 +6160,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2023Q3,23,Construction,10321
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,61,Educational Services,4400
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,61,Educational Services,4584
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,792
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,391
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-568
@@ -6144,7 +6178,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance a
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance and Insurance,9894
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,-18
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-34
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,191
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,191
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,193
@@ -6160,7 +6193,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,51,Informati
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,51,Information,14253
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,29
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,-58
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,51,Information,134
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,51,Information,102
 Separations,Frederick WIA,Maryland Separations by Industry,2023Q2,51,Information,86
@@ -6177,7 +6209,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,55,Managemen
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,9
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,-13
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,53
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,57
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,95
@@ -6195,7 +6226,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,31-33,Manufa
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,1
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,-132
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,353
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,476
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,31-33,Manufacturing,494
@@ -6210,7 +6240,6 @@ Workers,Frederick WIA,Maryland Workers by Industry,2023Q3,31-33,Manufacturing,58
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6761
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6160
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",53
@@ -6229,7 +6258,6 @@ Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Ser
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,81,Other Services (except Public Administration),4222
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),258
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),519
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),558
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),609
@@ -6246,7 +6274,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professi
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",8942
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",120
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",85
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",1439
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",1272
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",1284
@@ -6263,7 +6290,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Ad
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,92,Public Administration,4934
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,130
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,194
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,350
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,267
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,293
@@ -6280,7 +6306,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,53,Real Esta
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,67
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,-101
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,92
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,95
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,89
@@ -6297,7 +6322,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,44-45,Retail
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Retail Trade,0
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,138
 Job change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-242
-Job change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,1969
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,2253
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,1680
@@ -6313,7 +6337,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,48-49,Transp
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,48-49,Transportation and Warehousing,4931
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-57
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Transportation and Warehousing,0
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,-30
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,250
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,254
@@ -6330,7 +6353,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q1,22,Utilities
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,22,Utilities,6946
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,-2
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,-1
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,4
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,8
@@ -6348,7 +6370,6 @@ Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesale
 Earnings,Frederick WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-50
 Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,37
-Job Change,Frederick WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,325
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,320
 New Hires,Frederick WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,320
@@ -6362,23 +6383,16 @@ Workers,Frederick WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,339
 Workers,Frederick WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,3538
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,948
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1010
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1879
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1947
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3060
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,3025
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,4789
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4650
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,6473
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,6011
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,7544
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,6722
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,7035
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,6325
 Workers,Frederick WIA,Maryland Workers by Age,2023Q1,A01,14-18,3297
@@ -6425,10 +6439,8 @@ Separations,Frederick WIA,Maryland Separations by Age,2023Q2,A07,55-64,1631
 Separations,Frederick WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,6796
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,6254
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,4881
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4572
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Frederick WIA,Maryland Workers by Gender,2023Q1,1,Male,50644
 Workers,Frederick WIA,Maryland Workers by Gender,2023Q2,1,Male,51128
 Workers,Frederick WIA,Maryland Workers by Gender,2023Q3,1,Male,51839
@@ -6443,17 +6455,13 @@ Separations,Frederick WIA,Maryland Separations by Gender,2023Q2,2,Female,7271
 Separations,Frederick WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,3
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,12
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-125
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",-123
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,-118
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-338
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,-197
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,47
 New Hires,Frederick WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,1397
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Frederick WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,1399
 New Hires,Frederick WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,1615
 New Hires,Frederick WIA,Maryland New Hires by Education,2023Q1,E2,"High school or equivalent, no college",2313
@@ -6474,11 +6482,9 @@ Turnover,Frederick WIA,Maryland Turnover Rate by Education,2023Q3,E1,Less than H
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor's degree or advanced degree,0.066
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,682
-Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,202
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,5815
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,5394
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.084
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Frederick WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.087
@@ -6496,10 +6502,8 @@ Workers,Frederick WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,105448
 Workers,Frederick WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,106521
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,276
 Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,403
-Job Change,Frederick WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,478
 Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,1085
-Job Change,Frederick WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Frederick WIA,Maryland Workers by Age,2023Q1,A08,65-99,8266
 Workers,Frederick WIA,Maryland Workers by Age,2023Q2,A08,65-99,8459
 Workers,Frederick WIA,Maryland Workers by Age,2023Q3,A08,65-99,8601
@@ -6514,9 +6518,7 @@ New Hires,Frederick WIA,Maryland New Hires by Gender,2023Q2,2,Female,6440
 New Hires,Frederick WIA,Maryland New Hires by Gender,2023Q3,2,Female,7458
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,4676
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,4686
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,478
-Job change,Frederick WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Job change,Frederick WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,1085
 Separations,Frederick WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,13476
 Separations,Frederick WIA,Maryland Separations by Education All,2023Q3,E0,All Education Categories,0
@@ -6538,12 +6540,10 @@ Separations,Frederick WIA,Maryland Separations by Education,2023Q2,E5,Educationa
 Separations,Frederick WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),671
 Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),1731
-Job Change,Frederick WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.182,
 Turnover,Frederick WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,5394
 Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,5815
-Earnings,Frederick WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Frederick WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,13476
 Separations,Frederick WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,14518
 Separations,Frederick WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

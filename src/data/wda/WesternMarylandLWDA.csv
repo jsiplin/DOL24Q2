@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6027,7 +6068,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,72,Ac
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,531
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,2005
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,2676
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,2361
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q1,72,Accommodation and Food Services,2158
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q2,72,Accommodation and Food Services,2552
@@ -6041,7 +6081,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,62,He
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Care and Social Assistance,4978
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,131
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,111
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,1920
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,1741
@@ -6060,7 +6099,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,56,Ad
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,-151
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,1267
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,69
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,1291
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,1306
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,1542
@@ -6076,7 +6114,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,11,"A
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",4067
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",11
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",54
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",33
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",46
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",49
@@ -6093,7 +6130,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,71,"A
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",-159
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",380
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",508
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",269
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",339
@@ -6110,7 +6146,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,23,Co
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,23,Construction,4885
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,-64
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,350
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,23,Construction,550
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,23,Construction,872
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,23,Construction,690
@@ -6126,7 +6161,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,61,Ed
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,61,Educational Services,3990
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,227
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,543
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,461
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,887
@@ -6144,7 +6178,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2023Q2,61,Educational 
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-51
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,-19
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,52,Finance and Insurance,8708
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,184
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,182
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,175
@@ -6161,7 +6194,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,51,In
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,-7
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,72
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,51,Information,124
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,51,Information,229
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,51,Information,223
@@ -6178,7 +6210,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,55,Ma
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,55,Management of Companies and Enterprises,7499
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,20
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,-34
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,101
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,63
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,86
@@ -6195,7 +6226,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,31-33
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,-104
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,-112
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,715
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,776
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,31-33,Manufacturing,668
@@ -6212,7 +6242,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,21,"M
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",20
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",55
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",59
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",32
@@ -6229,7 +6258,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,81,Ot
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),42
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),9
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),451
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),472
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),445
@@ -6246,7 +6274,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,54,"P
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",71
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",-6
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",360
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",308
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",386
@@ -6264,7 +6291,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,92,Pu
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,225
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,207
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,319
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,300
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q1,92,Public Administration,288
@@ -6278,7 +6304,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2023Q3,92,Public Admin
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,53,Real Estate and Rental and Leasing,4257
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,53,Real Estate and Rental and Leasing,4081
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,-64
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,115
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,158
@@ -6295,7 +6320,6 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2023Q3,53,Real Estate 
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Retail Trade,0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,44-45,Retail Trade,3170
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,-43
-Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,2145
 Job change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-334
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q1,44-45,Retail Trade,3302
@@ -6316,7 +6340,6 @@ Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,48-49
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,26
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,881
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,1324
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,1478
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q1,48-49,Transportation and Warehousing,1286
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q2,48-49,Transportation and Warehousing,1450
@@ -6331,7 +6354,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,22,Ut
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,22,Utilities,7390
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,8
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,-9
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,14
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,25
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,16
@@ -6348,7 +6370,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q2,42,Wh
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-30
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,18
-Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,522
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,392
 Separations,Western Maryland WIA,Maryland Separations by Industry,2023Q1,42,Wholesale Trade,365
@@ -6362,25 +6383,18 @@ Workers,Western Maryland WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Tr
 Workers,Western Maryland WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,3865
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,967
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1009
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1875
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1985
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,2822
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,2904
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,3995
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4012
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,5072
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,4983
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,5322
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,5654
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,5276
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,5051
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q1,A01,14-18,3242
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q2,A01,14-18,3031
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q3,A01,14-18,3487
@@ -6424,11 +6438,9 @@ Separations,Western Maryland WIA,Maryland Separations by Age,2023Q1,A07,55-64,15
 Separations,Western Maryland WIA,Maryland Separations by Age,2023Q2,A07,55-64,1733
 Separations,Western Maryland WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,5293
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,5132
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,3867
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,3802
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Western Maryland WIA,Maryland Workers by Gender,2023Q1,1,Male,50277
 Workers,Western Maryland WIA,Maryland Workers by Gender,2023Q3,1,Male,50648
 Workers,Western Maryland WIA,Maryland Workers by Gender,2023Q2,1,Male,49834
@@ -6443,16 +6455,12 @@ Separations,Western Maryland WIA,Maryland Separations by Gender,2023Q2,2,Female,
 Separations,Western Maryland WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,46
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,-144
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-354
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",-153
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,-281
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,-130
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-213
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,-242
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,1485
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,1356
 New Hires,Western Maryland WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,1557
@@ -6475,11 +6483,9 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bach
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,-429
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,817
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,4570
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,4456
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.084
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.089
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2023Q3,2,Female,0
@@ -6496,9 +6502,7 @@ Workers,Western Maryland WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,1
 Workers,Western Maryland WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,101729
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,-377
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,227
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,1043
-Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q1,A08,65-99,7877
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q2,A08,65-99,7917
 Workers,Western Maryland WIA,Maryland Workers by Age,2023Q3,A08,65-99,8065
@@ -6513,10 +6517,8 @@ New Hires,Western Maryland WIA,Maryland New Hires by Gender,2023Q2,2,Female,6930
 New Hires,Western Maryland WIA,Maryland New Hires by Gender,2023Q3,2,Female,7398
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,3902
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,3996
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,-806
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,1043
-Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Separations,Western Maryland WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,14700
 Separations,Western Maryland WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,15679
 Separations,Western Maryland WIA,Maryland Separations by Education All,2023Q3,E0,All Education Categories,0
@@ -6537,13 +6539,11 @@ Separations,Western Maryland WIA,Maryland Separations by Education,2023Q1,E5,Edu
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,-806
 Separations,Western Maryland WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),103
-Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Western Maryland WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),1606
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.182,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,4456
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,4570
-Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Western Maryland WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,14700
 Separations,Western Maryland WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,15679
 Separations,Western Maryland WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

@@ -1,5 +1,46 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
+ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
@@ -6025,7 +6066,6 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2021Q4,E0,
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommodation and Food Services,2458
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,537
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,1079
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,7888
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,6318
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,7874
@@ -6042,7 +6082,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,62,He
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,961
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,516
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,8341
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,62,Health Care and Social Assistance,9140
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,8335
@@ -6059,7 +6098,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,56,Ad
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,376
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,-674
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,8412
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,8764
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,8699
@@ -6076,7 +6114,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,11,"A
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",53
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",-27
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",182
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",242
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",222
@@ -6092,7 +6129,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,71,"A
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",3903
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",2508
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",171
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",887
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",2196
@@ -6110,7 +6146,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,23,Co
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,-9
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,888
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,23,Construction,3269
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,23,Construction,2521
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,23,Construction,2890
@@ -6127,7 +6162,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,61,Ed
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,747
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-575
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,2427
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,3741
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,4378
@@ -6144,7 +6178,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,52,Fi
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-170
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,359
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,1639
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,1240
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,1280
@@ -6161,7 +6194,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,51,In
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,51,Information,9500
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,-51
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,26
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,51,Information,418
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,51,Information,613
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,51,Information,605
@@ -6178,7 +6210,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,55,Ma
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,55,Management of Companies and Enterprises,8319
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,7
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,45
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,270
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,411
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,368
@@ -6193,7 +6224,6 @@ Workers,Baltimore County WIA,Maryland Workers by Industry,2023Q3,55,Management o
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,31-33,Manufacturing,8821
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,31-33,Manufacturing,7140
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,2
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,-200
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,1077
@@ -6210,7 +6240,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,21,"M
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5728
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",13
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Baltimore County WIA,Maryland Workers by Industry,2023Q2,31-33,Manufacturing,15933
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",35
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8
@@ -6228,7 +6257,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,81,Ot
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,81,Other Services (except Public Administration),4527
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),493
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),373
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),1793
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),1705
@@ -6246,7 +6274,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,54,"P
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",494
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",-64
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",3340
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",3570
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",3477
@@ -6263,7 +6290,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,92,Pu
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,-40
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,81
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,483
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,498
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,838
@@ -6280,7 +6306,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,53,Re
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,14
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,143
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,649
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,744
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,723
@@ -6297,7 +6322,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,44-45
 Workers,Baltimore County WIA,Maryland Workers by Industry,2023Q3,53,Real Estate and Rental and Leasing,7567
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-1191
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,-36
-Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,6753
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,7960
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,7280
@@ -6314,7 +6338,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q2,48-49
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-1761
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,252
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,2031
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,2795
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,3361
@@ -6331,7 +6354,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,22,Ut
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,-17
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,96
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,56
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,143
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,131
@@ -6348,7 +6370,6 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q1,42,Wh
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-157
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,155
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,946
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,1173
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,1003
@@ -6362,24 +6383,17 @@ Workers,Baltimore County WIA,Maryland Workers by Industry,2023Q1,42,Wholesale Tr
 Workers,Baltimore County WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,11543
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,961
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1024
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1827
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1873
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,3153
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3109
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,5153
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4917
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,6387
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,6839
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,7767
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,6923
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,7358
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,6610
 Workers,Baltimore County WIA,Maryland Workers by Age,2023Q1,A01,14-18,9705
 Workers,Baltimore County WIA,Maryland Workers by Age,2023Q2,A01,14-18,9490
@@ -6425,10 +6439,8 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2023Q2,A07,55-64,61
 Separations,Baltimore County WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,7363
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,6696
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,5042
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4744
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Baltimore County WIA,Maryland Workers by Gender,2023Q2,1,Male,179598
 Workers,Baltimore County WIA,Maryland Workers by Gender,2023Q1,1,Male,180704
 Workers,Baltimore County WIA,Maryland Workers by Gender,2023Q3,1,Male,183310
@@ -6443,16 +6455,12 @@ Separations,Baltimore County WIA,Maryland Separations by Gender,2023Q1,2,Female,
 Separations,Baltimore County WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,-326
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,3
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-736
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",-315
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,-769
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,-376
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,-332
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-426
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Baltimore County WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,6809
 New Hires,Baltimore County WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,6419
 New Hires,Baltimore County WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,6088
@@ -6475,9 +6483,7 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bach
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,-867
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,4092
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,6159
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,5684
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.088
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
@@ -6494,11 +6500,9 @@ New Hires,Baltimore County WIA,Maryland New Hires by Education,2023Q3,E5,Educati
 Workers,Baltimore County WIA,Maryland Workers by Gender All,2023Q1,0,All Sexes,376746
 Workers,Baltimore County WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,375381
 Workers,Baltimore County WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,381271
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,2
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,2197
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,6289
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Baltimore County WIA,Maryland Workers by Age,2023Q1,A08,65-99,32451
 Workers,Baltimore County WIA,Maryland Workers by Age,2023Q2,A08,65-99,33041
 Workers,Baltimore County WIA,Maryland Workers by Age,2023Q3,A08,65-99,33385
@@ -6514,10 +6518,8 @@ New Hires,Baltimore County WIA,Maryland New Hires by Gender,2023Q3,2,Female,3025
 New Hires,Baltimore County WIA,Maryland New Hires by Gender,2023Q1,2,Female,25368
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,5160
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,5510
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,-865
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,6289
-Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Separations,Baltimore County WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,61311
 Separations,Baltimore County WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,56126
 Separations,Baltimore County WIA,Maryland Separations by Education All,2023Q3,E0,All Education Categories,0
@@ -6538,12 +6540,10 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2023Q2,E5,Edu
 Separations,Baltimore County WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),1299
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),7403
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,6159
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,5684
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Baltimore County WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,56126
 Separations,Baltimore County WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,61311
 Separations,Baltimore County WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

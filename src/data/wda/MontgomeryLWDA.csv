@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Montgomery WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6024,7 +6065,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommod
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,72,Accommodation and Food Services,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,559
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,1732
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All Education Categories,0.082
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,8488
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,6425
@@ -6041,7 +6081,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,62,Health C
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Care and Social Assistance,5694
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,325
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,1234
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,7356
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,8087
@@ -6058,7 +6097,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,56,Administ
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,5605
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,-55
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,848
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,5692
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,6367
@@ -6078,7 +6116,6 @@ New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, 
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",83
 Workers,Montgomery WIA,Maryland Workers by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,32078
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",-21
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Separations,Montgomery WIA,Maryland Separations by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",57
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",3706
 Separations,Montgomery WIA,Maryland Separations by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
@@ -6093,7 +6130,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, E
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",225
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",2237
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",1076
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",2365
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",1744
@@ -6110,7 +6146,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,23,Construc
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,23,Construction,6816
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,192
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,516
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,23,Construction,2894
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,23,Construction,2975
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,23,Construction,2693
@@ -6128,7 +6163,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,61,Educatio
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,630
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-570
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,2328
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,2142
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,4209
 Separations,Montgomery WIA,Maryland Separations by Industry,2023Q1,61,Educational Services,2311
@@ -6144,7 +6178,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance 
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance and Insurance,11961
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-46
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,-108
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,1096
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,1172
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,1024
@@ -6161,7 +6194,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,51,Informat
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,9
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,-275
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,51,Information,988
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,51,Information,799
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,51,Information,993
@@ -6178,7 +6210,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,55,Manageme
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,141
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,-42
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,442
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,408
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,520
@@ -6194,7 +6225,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,31-33,Manuf
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,31-33,Manufacturing,11258
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,18
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,123
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,911
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,1121
@@ -6212,7 +6242,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,21,"Mining,
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -6230,7 +6259,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,81,Other Se
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),304
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),390
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),2238
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),2415
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),2253
 Separations,Montgomery WIA,Maryland Separations by Industry,2023Q1,81,Other Services (except Public Administration),2258
@@ -6246,7 +6274,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,54,"Profess
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",278
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",426
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",8088
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",7751
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",7544
@@ -6263,7 +6290,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,92,Public A
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,255
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,660
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,615
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,1009
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,1052
@@ -6279,7 +6305,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,53,Real Est
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,53,Real Estate and Rental and Leasing,7623
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,-26
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,94
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,803
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,890
@@ -6296,7 +6321,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q1,44-45,Retai
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Retail Trade,0
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,44-45,Retail Trade,3969
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-1478
-Job change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,252
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,5438
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,6355
@@ -6314,7 +6338,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Trans
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,48-49,Transportation and Warehousing,5452
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-232
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,11
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,974
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,1108
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,1172
@@ -6331,7 +6354,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,22,Utilitie
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,-20
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,-12
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,21
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,23
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,23
@@ -6348,7 +6370,6 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesal
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-15
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,200
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,670
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,855
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,854
@@ -6361,26 +6382,19 @@ Workers,Montgomery WIA,Maryland Workers by Industry,2023Q1,42,Wholesale Trade,83
 Separations,Montgomery WIA,Maryland Separations by Industry,2023Q3,42,Wholesale Trade,0
 Workers,Montgomery WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,8541
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,985
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1828
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1902
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,3383
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1052
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3352
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,5973
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,5637
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,8864
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,7719
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,8778
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,10935
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,8255
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,10152
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q1,A01,14-18,8820
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q2,A01,14-18,8701
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q1,A02,19-21,13995
@@ -6425,10 +6439,8 @@ Separations,Montgomery WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Separations,Montgomery WIA,Maryland Separations by Age,2023Q2,A07,55-64,6378
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,9915
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,8248
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,6854
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,6054
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Montgomery WIA,Maryland Workers by Gender,2023Q1,1,Male,205288
 Workers,Montgomery WIA,Maryland Workers by Gender,2023Q2,1,Male,205308
 Workers,Montgomery WIA,Maryland Workers by Gender,2023Q3,1,Male,210009
@@ -6443,16 +6455,12 @@ Separations,Montgomery WIA,Maryland Separations by Gender,2023Q1,2,Female,29547
 Separations,Montgomery WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,13
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,375
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-185
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",35
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,-205
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,-362
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,-552
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-975
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Montgomery WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,6479
 New Hires,Montgomery WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,6366
 New Hires,Montgomery WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,6684
@@ -6476,8 +6484,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,312
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,4089
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,8276
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.081
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,7073
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.085
@@ -6496,10 +6502,8 @@ Workers,Montgomery WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,442915
 Workers,Montgomery WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,453239
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,550
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,3911
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,862
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,8000
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q1,A08,65-99,37018
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q2,A08,65-99,37532
 Workers,Montgomery WIA,Maryland Workers by Age,2023Q3,A08,65-99,38748
@@ -6514,9 +6518,7 @@ New Hires,Montgomery WIA,Maryland New Hires by Gender,2023Q2,2,Female,29149
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,7384
 New Hires,Montgomery WIA,Maryland New Hires by Gender,2023Q3,2,Female,30171
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,6567
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,8000
-Job change,Montgomery WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,862
 Separations,Montgomery WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,55503
 Separations,Montgomery WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,56283
@@ -6537,12 +6539,10 @@ Separations,Montgomery WIA,Maryland Separations by Education,2023Q1,E5,Education
 Separations,Montgomery WIA,Maryland Separations by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),12181
 Separations,Montgomery WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),1791
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),8926
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.189,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,8276
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,7073
 Separations,Montgomery WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,55503
 Separations,Montgomery WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,56283

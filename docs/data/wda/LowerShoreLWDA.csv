@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6025,7 +6066,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommo
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,72,Accommodation and Food Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,446
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,5070
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,7232
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,2206
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,4471
@@ -6042,7 +6082,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,62,Health 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Care and Social Assistance,5313
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,48
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,81
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,1245
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,1395
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,62,Health Care and Social Assistance,1536
@@ -6059,7 +6098,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,56,Adminis
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,80
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,225
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,901
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,813
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,1073
@@ -6076,7 +6114,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,11,"Agricu
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",11
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",96
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",56
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",101
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",86
@@ -6093,7 +6130,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",125
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",795
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",207
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",627
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",265
@@ -6110,7 +6146,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,23,Constru
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,58
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,289
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,23,Construction,500
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,23,Construction,601
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,23,Construction,595
@@ -6126,7 +6161,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,61,Educati
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,203
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-553
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,498
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,574
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,1110
@@ -6143,7 +6177,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-3
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,6
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,114
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,83
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,93
@@ -6160,7 +6193,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,51,Informa
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,14
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,-6
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,51,Information,78
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,51,Information,53
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,51,Information,67
@@ -6178,7 +6210,6 @@ Workers,Lower Shore WIA,Maryland Workers by Industry,2023Q3,23,Construction,3925
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,-11
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,14
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,88
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,69
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,115
@@ -6194,7 +6225,6 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manu
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,31-33,Manufacturing,4716
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,-71
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,488
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,31-33,Manufacturing,5960
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,417
@@ -6212,7 +6242,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,21,"Mining
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -6228,7 +6257,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,81,Other S
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,81,Other Services (except Public Administration),3855
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),29
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),137
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),355
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),373
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
@@ -6246,7 +6274,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,54,"Profes
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",43
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",305
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",254
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",478
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",323
@@ -6262,7 +6289,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,92,Public 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,92,Public Administration,4613
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,-15
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,379
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,297
 Separations,Lower Shore WIA,Maryland Separations by Industry,2023Q1,92,Public Administration,263
@@ -6280,7 +6306,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,53,Real Es
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,53,Real Estate and Rental and Leasing,4198
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,-5
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,361
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,244
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,151
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,394
@@ -6297,7 +6322,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,44-45,Reta
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Retail Trade,0
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-114
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,469
-Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,1124
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,1536
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,1739
@@ -6313,7 +6337,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,48-49,Tran
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,48-49,Transportation and Warehousing,4884
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-6
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,42
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,102
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,131
@@ -6331,7 +6354,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,22,Utiliti
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q1,22,Utilities,10006
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,-6
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,8
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,32
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,28
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,23
@@ -6348,7 +6370,6 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesa
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesale Trade,5797
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,12
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,-9
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,287
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,413
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,296
@@ -6362,27 +6383,20 @@ Workers,Lower Shore WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,3
 Workers,Lower Shore WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,3050
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1061
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,892
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1769
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1953
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,2677
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,2821
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,3966
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,3991
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,4993
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,5029
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,5660
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,5717
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,6002
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q1,A01,14-18,1988
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q2,A01,14-18,2050
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,5428
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q1,A02,19-21,3057
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q2,A02,19-21,3196
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q3,A01,14-18,3390
@@ -6425,10 +6439,8 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2023Q2,A07,55-64,1370
 Separations,Lower Shore WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,5111
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,5530
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4160
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,4071
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Lower Shore WIA,Maryland Workers by Gender,2023Q2,1,Male,33036
 Workers,Lower Shore WIA,Maryland Workers by Gender,2023Q1,1,Male,32476
 Workers,Lower Shore WIA,Maryland Workers by Gender,2023Q3,1,Male,36807
@@ -6443,15 +6455,11 @@ Separations,Lower Shore WIA,Maryland Separations by Gender,2023Q2,2,Female,7142
 Separations,Lower Shore WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,51
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,560
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",17
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",840
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,813
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,41
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,106
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,612
 New Hires,Lower Shore WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,1162
 New Hires,Lower Shore WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,1762
@@ -6475,10 +6483,8 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor'
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,501
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,3749
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,4547
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,4790
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.093
@@ -6498,8 +6504,6 @@ Workers,Lower Shore WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,79126
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,3939
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,7688
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,840
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q1,A08,65-99,6968
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q3,A08,65-99,7829
 Workers,Lower Shore WIA,Maryland Workers by Age,2023Q2,A08,65-99,7098
@@ -6514,10 +6518,8 @@ New Hires,Lower Shore WIA,Maryland New Hires by Gender,2023Q2,2,Female,8734
 New Hires,Lower Shore WIA,Maryland New Hires by Gender,2023Q3,2,Female,6763
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,3818
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,4611
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,840
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,7688
-Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Separations,Lower Shore WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,9454
 Separations,Lower Shore WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,13339
 Separations,Lower Shore WIA,Maryland Separations by Education All,2023Q3,E0,All Education Categories,0
@@ -6538,12 +6540,10 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2023Q1,E5,Educatio
 Separations,Lower Shore WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),626
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),4864
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.189,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,4547
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,4790
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Lower Shore WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,9454
 Separations,Lower Shore WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,13339
 Separations,Lower Shore WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

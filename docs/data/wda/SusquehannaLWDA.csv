@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Susquehanna WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6025,7 +6066,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommo
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,72,Accommodation and Food Services,2021
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,241
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,1349
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,3630
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,2462
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,2963
@@ -6041,7 +6081,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,62,Health 
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,62,Health Care and Social Assistance,5369
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,113
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,-41
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,1749
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,1640
@@ -6065,7 +6104,6 @@ Separations,Susquehanna WIA,Maryland Separations by Industry,2023Q3,56,Administr
 Separations,Susquehanna WIA,Maryland Separations by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,2086
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,13.900000000000002
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,2275
 Workers,Susquehanna WIA,Maryland Workers by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,6391
 Separations,Susquehanna WIA,Maryland Separations by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,2275
@@ -6076,7 +6114,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,11,"Agricu
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",93
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",130
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",153
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",155
@@ -6093,7 +6130,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, 
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",-90
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",1736
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",1994
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",290
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",1237
@@ -6109,7 +6145,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,23,Constru
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,23,Construction,5318
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,164
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,-42
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,23,Construction,820
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,23,Construction,933
@@ -6126,7 +6161,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,61,Educati
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,61,Educational Services,4996
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,188
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,714
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-583
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,623
@@ -6143,7 +6177,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,52,Finance
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance and Insurance,7389
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-12
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,-10
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,267
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,216
@@ -6161,7 +6194,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,51,Informa
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,12
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,44
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,51,Information,154
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,51,Information,200
 Separations,Susquehanna WIA,Maryland Separations by Industry,2023Q1,51,Information,205
@@ -6178,7 +6210,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,55,Managem
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,-5
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,-9
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,30
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,39
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,47
@@ -6195,7 +6226,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,31-33,Manu
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,113
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,40
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,790
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,871
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,31-33,Manufacturing,716
@@ -6210,7 +6240,6 @@ Workers,Susquehanna WIA,Maryland Workers by Industry,2023Q3,31-33,Manufacturing,
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6470
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6392
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",9
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",20
@@ -6228,7 +6257,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q1,81,Other S
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,81,Other Services (except Public Administration),3626
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),127
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),169
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),550
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),549
@@ -6246,7 +6274,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,54,"Profes
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",97
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",91
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",979
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",997
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",872
@@ -6263,7 +6290,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,92,Public 
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,16
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,-136
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,86
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,122
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,401
@@ -6280,7 +6306,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,53,Real Es
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,8
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,78
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,104
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,137
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,106
@@ -6297,7 +6322,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Reta
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,44-45,Retail Trade,3411
 Job change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-382
 Job change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,-96
-Job change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,2383
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,2862
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,2440
@@ -6314,7 +6338,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Tran
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-544
 Workers,Susquehanna WIA,Maryland Workers by Industry,2023Q1,44-45,Retail Trade,15453
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,-21
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,1129
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,1072
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,1290
@@ -6331,7 +6354,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,22,Utiliti
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,9
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,5
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,23
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,22
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,34
@@ -6348,7 +6370,6 @@ Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesa
 Earnings,Susquehanna WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesale Trade,5640
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-71
 Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,209
-Job Change,Susquehanna WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,825
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,869
 New Hires,Susquehanna WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,962
@@ -6362,24 +6383,17 @@ Workers,Susquehanna WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,5
 Workers,Susquehanna WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,5621
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,898
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,945
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1931
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,2035
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,3017
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3115
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,4544
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4578
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,5855
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,5799
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,6419
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,6067
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,6041
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Workers,Susquehanna WIA,Maryland Workers by Age,2023Q1,A01,14-18,4681
 Workers,Susquehanna WIA,Maryland Workers by Age,2023Q2,A01,14-18,4539
 Workers,Susquehanna WIA,Maryland Workers by Age,2023Q3,A01,14-18,5832
@@ -6425,10 +6439,8 @@ Separations,Susquehanna WIA,Maryland Separations by Age,2023Q2,A07,55-64,2015
 Separations,Susquehanna WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,5959
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,6042
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,4344
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4224
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Susquehanna WIA,Maryland Workers by Gender,2023Q2,1,Male,57389
 Workers,Susquehanna WIA,Maryland Workers by Gender,2023Q3,1,Male,60068
 Workers,Susquehanna WIA,Maryland Workers by Gender,2023Q1,2,Female,59503
@@ -6443,15 +6455,11 @@ Separations,Susquehanna WIA,Maryland Separations by Gender,2023Q2,2,Female,9480
 Separations,Susquehanna WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,184
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,-66
-Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",89
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",-329
-Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,-218
-Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,-64
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-41
-Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Susquehanna WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,2109
 New Hires,Susquehanna WIA,Maryland New Hires by Education,2023Q1,E2,"High school or equivalent, no college",3050
 New Hires,Susquehanna WIA,Maryland New Hires by Education,2023Q2,E2,"High school or equivalent, no college",3493
@@ -6475,10 +6483,8 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor'
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,-278
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,2291
-Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,5138
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,5120
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.089
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.098
@@ -6495,10 +6501,8 @@ Workers,Susquehanna WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,117096
 Workers,Susquehanna WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,121364
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,84
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,1452
-Job Change,Susquehanna WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,-194
 Job Change,Susquehanna WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,3743
-Job Change,Susquehanna WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 New Hires,Susquehanna WIA,Maryland New Hires by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),6553
 Workers,Susquehanna WIA,Maryland Workers by Age,2023Q1,A08,65-99,9593
 Workers,Susquehanna WIA,Maryland Workers by Age,2023Q2,A08,65-99,9725
@@ -6514,9 +6518,7 @@ New Hires,Susquehanna WIA,Maryland New Hires by Gender,2023Q1,2,Female,7569
 New Hires,Susquehanna WIA,Maryland New Hires by Gender,2023Q3,2,Female,9597
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,4397
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,4287
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Susquehanna WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,-194
-Job change,Susquehanna WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Job change,Susquehanna WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,3743
 Separations,Susquehanna WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,17552
 Separations,Susquehanna WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,18894
@@ -6538,12 +6540,10 @@ Separations,Susquehanna WIA,Maryland Separations by Education,2023Q2,E5,Educatio
 Separations,Susquehanna WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),483
 Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),3438
-Job Change,Susquehanna WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.18,
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,5120
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,5138
-Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Susquehanna WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,17552
 Separations,Susquehanna WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,18894
 Separations,Susquehanna WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

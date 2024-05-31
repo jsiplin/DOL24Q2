@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -5678,7 +5719,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,72,Accommo
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,72,Accommodation and Food Services,2504
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,-52
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,1340
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,1038
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,2228
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,1643
@@ -5695,7 +5735,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,62,Health 
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,25
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,62,Health Care and Social Assistance,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,174
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,962
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,921
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,62,Health Care and Social Assistance,1065
@@ -5712,7 +5751,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,56,Adminis
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,16
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,144
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,596
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,756
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,606
@@ -5730,7 +5768,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,11,"Agricu
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,3308
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",189
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",78
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",109
 Separations,Upper Shore WIA,Maryland Separations by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",81
@@ -5746,7 +5783,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,71,"Arts, 
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",366
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",72
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",196
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",403
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",273
@@ -5764,7 +5800,6 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q3,71,"Arts, Ent
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,78
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,199
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,23,Construction,469
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,23,Construction,545
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,23,Construction,426
 Separations,Upper Shore WIA,Maryland Separations by Industry,2023Q1,23,Construction,541
@@ -5780,7 +5815,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,61,Educati
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,61,Educational Services,4795
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,188
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-389
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,469
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,367
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,787
@@ -5797,7 +5831,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance and Insurance,7506
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-16
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,20
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,68
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,108
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,52,Finance and Insurance,84
@@ -5812,7 +5845,6 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q2,52,Finance and Insur
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,51,Information,7244
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,51,Information,7110
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,-23
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,-15
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,51,Information,51
@@ -5831,7 +5863,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,55,Managem
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,2
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,6
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,26
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,24
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,28
@@ -5847,7 +5878,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manu
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,31-33,Manufacturing,5102
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,-39
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,31-33,Manufacturing,4945
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,88
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,798
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,31-33,Manufacturing,1105
@@ -5864,7 +5894,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,21,"Mining
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-4
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",2
@@ -5881,7 +5910,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,81,Other S
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),182
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),62
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),252
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),370
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,81,Other Services (except Public Administration),308
@@ -5897,7 +5925,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,54,"Profes
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",6398
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",119
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",-13
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",426
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",341
@@ -5915,7 +5942,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,92,Public 
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,173
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,210
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,355
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,301
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,232
@@ -5948,7 +5974,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,44-45,Reta
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,44-45,Retail Trade,0
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,44-45,Retail Trade,-167
 Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,176
-Job change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,991
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,1277
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,1463
@@ -5959,14 +5984,12 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q1,44-45,Retail 
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Industry,2023Q3,44-45,Retail Trade,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q1,44-45,Retail Trade,7487
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q2,44-45,Retail Trade,7310
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q3,44-45,Retail Trade,7516
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,48-49,Transportation and Warehousing,6020
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,48-49,Transportation and Warehousing,5105
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,-33
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,29
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,164
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,192
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,246
@@ -5982,7 +6005,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,22,Utiliti
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q3,48-49,Transportation and Warehousing,1980
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,22,Utilities,7894
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,7
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,4
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,11
@@ -6000,7 +6022,6 @@ Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q1,42,Wholesa
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesale Trade,7697
 Earnings,Upper Shore WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,207
-Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,-31
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,198
 New Hires,Upper Shore WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,289
@@ -6015,24 +6036,17 @@ Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,2
 Workers,Upper Shore WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,2611
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,919
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1067
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1839
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,2009
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,2841
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3033
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,4209
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4231
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,5413
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,5286
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,5802
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,6001
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,5634
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,5369
 Workers,Upper Shore WIA,Maryland Workers by Age,2023Q1,A01,14-18,2115
 Workers,Upper Shore WIA,Maryland Workers by Age,2023Q2,A01,14-18,2053
@@ -6077,11 +6091,9 @@ Separations,Upper Shore WIA,Maryland Separations by Age,2023Q1,A07,55-64,870
 Separations,Upper Shore WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Separations,Upper Shore WIA,Maryland Separations by Age,2023Q2,A07,55-64,1059
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,5482
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,5367
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,4108
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4067
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Upper Shore WIA,Maryland Workers by Gender,2023Q1,1,Male,28650
 Workers,Upper Shore WIA,Maryland Workers by Gender,2023Q3,1,Male,30290
 Workers,Upper Shore WIA,Maryland Workers by Gender,2023Q1,2,Female,30878
@@ -6096,16 +6108,12 @@ Separations,Upper Shore WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Separations,Upper Shore WIA,Maryland Separations by Gender,2023Q2,2,Female,4708
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,303
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,32
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",266
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",4
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,34
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,258
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,62
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,156
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,909
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,1104
 New Hires,Upper Shore WIA,Maryland New Hires by Education,2023Q3,E1,Less than High school,1074
@@ -6128,10 +6136,8 @@ Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor'
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor's degree or advanced degree,0.072
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,255
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,1381
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,4766
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,4693
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.088
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.097
@@ -6149,10 +6155,8 @@ Workers,Upper Shore WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,60006
 Workers,Upper Shore WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,62883
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,153
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,1523
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,407
 Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,2904
-Job Change,Upper Shore WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Upper Shore WIA,Maryland Workers by Age,2023Q1,A08,65-99,6111
 Workers,Upper Shore WIA,Maryland Workers by Age,2023Q2,A08,65-99,6250
 Workers,Upper Shore WIA,Maryland Workers by Age,2023Q3,A08,65-99,6541
@@ -6167,9 +6171,7 @@ New Hires,Upper Shore WIA,Maryland New Hires by Gender,2023Q2,2,Female,4835
 New Hires,Upper Shore WIA,Maryland New Hires by Gender,2023Q3,2,Female,4816
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,3918
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,3956
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,407
-Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Job change,Upper Shore WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,2904
 Separations,Upper Shore WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,7974
 Separations,Upper Shore WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,9163
@@ -6190,11 +6192,9 @@ Separations,Upper Shore WIA,Maryland Separations by Education,2023Q1,E5,Educatio
 Separations,Upper Shore WIA,Maryland Separations by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),2512
 Separations,Upper Shore WIA,Maryland Separations by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),275
-Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Upper Shore WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),1921
 Turnover,Upper Shore WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.199,
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,4766
-Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Separations,Upper Shore WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,9163
 Earnings,Upper Shore WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,4693
 Separations,Upper Shore WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0

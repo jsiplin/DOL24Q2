@@ -1,4 +1,45 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,TBD
+Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,TBD
+Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,TBD
+Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,TBD
+Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
@@ -6025,7 +6066,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,72,A
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,72,Accommodation and Food Services,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,72,Accommodation and Food Services,502
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,72,Accommodation and Food Services,135
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,72,Accommodation and Food Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,72,Accommodation and Food Services,2507
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,72,Accommodation and Food Services,3002
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,72,Accommodation and Food Services,2819
@@ -6042,7 +6082,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,62,H
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q1,62,Health Care and Social Assistance,5304
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,62,Health Care and Social Assistance,965
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,62,Health Care and Social Assistance,137
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,62,Health Care and Social Assistance,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,62,Health Care and Social Assistance,1560
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,62,Health Care and Social Assistance,1736
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,62,Health Care and Social Assistance,2299
@@ -6059,7 +6098,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,56,A
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,5361
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,141
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,99
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,733
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,758
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,751
@@ -6077,7 +6115,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,11,"
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",3
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",37
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",13
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",36
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",30
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",14
@@ -6093,7 +6130,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,71,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",58
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",154
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",177
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",253
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",220
@@ -6110,7 +6146,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,23,C
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,23,Construction,141
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,23,Construction,284
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,23,Construction,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,23,Construction,954
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,23,Construction,917
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,23,Construction,917
@@ -6127,7 +6162,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,61,E
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,61,Educational Services,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,61,Educational Services,276
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,61,Educational Services,-296
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,61,Educational Services,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,61,Educational Services,780
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,61,Educational Services,648
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,61,Educational Services,1020
@@ -6143,7 +6177,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q1,52,F
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,52,Finance and Insurance,7285
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,52,Finance and Insurance,-12
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,52,Finance and Insurance,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,52,Finance and Insurance,-14
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,52,Finance and Insurance,99
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,52,Finance and Insurance,128
@@ -6161,7 +6194,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,51,I
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,51,Information,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,51,Information,10
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,51,Information,8
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,51,Information,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,51,Information,66
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,51,Information,85
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,51,Information,79
@@ -6178,7 +6210,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,55,M
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,55,Management of Companies and Enterprises,2
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,55,Management of Companies and Enterprises,50
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,55,Management of Companies and Enterprises,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,55,Management of Companies and Enterprises,53
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,130
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,55,Management of Companies and Enterprises,101
@@ -6195,7 +6226,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,31-3
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,31-33,Manufacturing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,31-33,Manufacturing,14
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,31-33,Manufacturing,49
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,31-33,Manufacturing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,31-33,Manufacturing,112
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,31-33,Manufacturing,129
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,31-33,Manufacturing,129
@@ -6212,7 +6242,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,21,"
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,31-33,Manufacturing,1322
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",1
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -6228,7 +6257,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,81,O
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q1,81,Other Services (except Public Administration),3666
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,81,Other Services (except Public Administration),107
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,81,Other Services (except Public Administration),0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,81,Other Services (except Public Administration),283
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,81,Other Services (except Public Administration),489
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,81,Other Services (except Public Administration),673
@@ -6246,7 +6274,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,54,"
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",9572
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",371
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",132
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",1337
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",1363
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",1283
@@ -6263,7 +6290,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,92,P
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,92,Public Administration,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,92,Public Administration,137
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,92,Public Administration,344
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,92,Public Administration,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,92,Public Administration,286
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,92,Public Administration,366
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,92,Public Administration,512
@@ -6280,7 +6306,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,53,R
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,53,Real Estate and Rental and Leasing,13
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,53,Real Estate and Rental and Leasing,35
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,53,Real Estate and Rental and Leasing,78
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,53,Real Estate and Rental and Leasing,119
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,53,Real Estate and Rental and Leasing,101
@@ -6299,7 +6324,6 @@ Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,44-4
 Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,44-45,Retail Trade,112
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,44-45,Retail Trade,2046
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,2622
-Job change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,44-45,Retail Trade,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,44-45,Retail Trade,2420
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,44-45,Retail Trade,2553
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,44-45,Retail Trade,2546
@@ -6314,7 +6338,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,48-4
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,48-49,Transportation and Warehousing,22
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,48-49,Transportation and Warehousing,-98
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,48-49,Transportation and Warehousing,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,48-49,Transportation and Warehousing,425
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,48-49,Transportation and Warehousing,300
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,48-49,Transportation and Warehousing,399
@@ -6331,7 +6354,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,22,U
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,22,Utilities,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,22,Utilities,-6
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,22,Utilities,23
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,22,Utilities,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,22,Utilities,336
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,22,Utilities,82
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,22,Utilities,106
@@ -6348,7 +6370,6 @@ Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,42,W
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q3,42,Wholesale Trade,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q1,42,Wholesale Trade,10
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q2,42,Wholesale Trade,113
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2023Q3,42,Wholesale Trade,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q1,42,Wholesale Trade,131
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,42,Wholesale Trade,178
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,42,Wholesale Trade,132
@@ -6361,26 +6382,19 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,42,Wholesale T
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,1408
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,1523
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A01,14-18,1041
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A01,14-18,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A01,14-18,986
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A02,19-21,1988
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A02,19-21,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A02,19-21,1908
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A03,22-24,3093
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A03,22-24,3123
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A03,22-24,0
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A04,25-34,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A04,25-34,4723
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A05,35-44,6377
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A05,35-44,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A05,35-44,5904
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A06,45-54,7142
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A06,45-54,6478
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A06,45-54,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A07,55-64,6898
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A04,25-34,4852
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A07,55-64,6328
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A07,55-64,0
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q2,A01,14-18,3591
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q3,A01,14-18,4261
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q1,A01,14-18,3668
@@ -6422,13 +6436,11 @@ Separations,Southern Maryland WIA,Maryland Separations by Age,2023Q2,A06,45-54,1
 Separations,Southern Maryland WIA,Maryland Separations by Age,2023Q3,A06,45-54,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2023Q2,A07,55-64,1542
 Separations,Southern Maryland WIA,Maryland Separations by Age,2023Q1,A07,55-64,1460
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,1,Male,0
 Separations,Southern Maryland WIA,Maryland Separations by Age,2023Q3,A07,55-64,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q1,2,Female,4601
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,2,Female,4387
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q1,1,Male,6786
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q2,1,Male,6272
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender,2023Q3,2,Female,0
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2023Q1,1,Male,42999
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2023Q2,1,Male,43953
 Workers,Southern Maryland WIA,Maryland Workers by Gender,2023Q3,1,Male,44876
@@ -6443,15 +6455,11 @@ Separations,Southern Maryland WIA,Maryland Separations by Gender,2023Q2,2,Female
 Separations,Southern Maryland WIA,Maryland Separations by Gender,2023Q3,2,Female,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q1,E1,Less than High school,253
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q2,E1,Less than High school,35
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E1,Less than High school,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q1,E2,"High school or equivalent, no college",336
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q2,E2,"High school or equivalent, no college",-13
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E2,"High school or equivalent, no college",0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q1,E3,Some college or Associate degree,460
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E3,Some college or Associate degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q2,E3,Some college or Associate degree,-68
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q1,E4,Bachelor's degree or advanced degree,394
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q2,E4,Bachelor's degree or advanced degree,-108
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q1,E1,Less than High school,1548
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q2,E1,Less than High school,1431
@@ -6475,10 +6483,8 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bac
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,881
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,1079
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,5622
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,5268
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.088
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.094
@@ -6496,10 +6502,8 @@ Workers,Southern Maryland WIA,Maryland Workers by Gender All,2023Q2,0,All Sexes,
 Workers,Southern Maryland WIA,Maryland Workers by Gender All,2023Q3,0,All Sexes,94634
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q1,2,Female,1190
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q2,2,Female,877
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q3,2,Female,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2023Q1,0,All,2071
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2023Q2,0,All,1956
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender All,2023Q3,0,All,0
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q1,A08,65-99,7313
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q2,A08,65-99,7549
 Workers,Southern Maryland WIA,Maryland Workers by Age,2023Q3,A08,65-99,7722
@@ -6514,10 +6518,8 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2023Q2,2,Female,690
 New Hires,Southern Maryland WIA,Maryland New Hires by Gender,2023Q3,2,Female,7206
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q1,A08,65-99,4878
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q2,A08,65-99,4684
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age,2023Q3,A08,65-99,0
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2023Q1,E0,All Education Categories,2071
 Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2023Q2,E0,All Education Categories,1956
-Job change,Southern Maryland WIA,Maryland Job Net Change by Education All,2023Q3,E0,All Education Categories,0
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2023Q1,E0,All Education Categories,12898
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2023Q2,E0,All Education Categories,13782
 Separations,Southern Maryland WIA,Maryland Separations by Education All,2023Q3,E0,All Education Categories,0
@@ -6541,11 +6543,9 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q1,E5,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.188,
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,5622
-Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,5268
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,12898
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,13782
-Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q1,E0,All Education Categories,0.091
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q3,E0,All Education Categories,0
