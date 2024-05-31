@@ -1,4 +1,33 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,TBD
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1659
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1697
 Earnings,Anne Arundel WIA,Maryland Average Earnings by Industry,2017Q1,72,Accommodation and Food Services,1798
@@ -6004,7 +6033,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,72,Accommod
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,72,Accommodation and Food Services,7631
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,72,Accommodation and Food Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,72,Accommodation and Food Services,14.099999999999998
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,72,Accommodation and Food Services,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,72,Accommodation and Food Services,29243
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,72,Accommodation and Food Services,28778
@@ -6021,7 +6049,6 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2023Q3,62,Health Care 
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,62,Health Care and Social Assistance,5624
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,62,Health Care and Social Assistance,3733
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,62,Health Care and Social Assistance,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,12.7
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,62,Health Care and Social Assistance,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,62,Health Care and Social Assistance,31841
@@ -6039,7 +6066,6 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2023Q3,56,Administrati
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,5373
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,5367
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,13.900000000000002
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,18900
@@ -6059,7 +6085,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,11,"Agricul
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",38
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",10.8
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",193
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",212
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",249
@@ -6076,7 +6101,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,71,"Arts, E
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",957
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",12.1
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",4324
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",5444
@@ -6093,7 +6117,6 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2023Q3,23,Construction
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,23,Construction,2498
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,23,Construction,2389
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,23,Construction,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,23,Construction,7.199999999999999
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,23,Construction,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,23,Construction,19628
@@ -6112,7 +6135,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,61,Educatio
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,61,Educational Services,659
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,61,Educational Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,61,Educational Services,9.700000000000001
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,61,Educational Services,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,61,Educational Services,5460
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,61,Educational Services,5947
@@ -6130,7 +6152,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,52,Finance 
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,52,Finance and Insurance,0
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,52,Finance and Insurance,567
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,52,Finance and Insurance,6.800000000000001
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,52,Finance and Insurance,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,52,Finance and Insurance,7186
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,52,Finance and Insurance,7207
@@ -6148,7 +6169,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,51,Informat
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,51,Information,322
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,51,Information,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,51,Information,8
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,51,Information,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,51,Information,2876
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,51,Information,2845
@@ -6165,7 +6185,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,55,Manageme
 New Hires,Anne Arundel WIA,Maryland New Hires by Industry,2023Q3,55,Management of Companies and Enterprises,152
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,55,Management of Companies and Enterprises,184
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,55,Management of Companies and Enterprises,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,55,Management of Companies and Enterprises,4.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,55,Management of Companies and Enterprises,2617
@@ -6184,7 +6203,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,31-33,Manuf
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,31-33,Manufacturing,933
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,31-33,Manufacturing,826
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,31-33,Manufacturing,4.3
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,31-33,Manufacturing,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,31-33,Manufacturing,15637
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,31-33,Manufacturing,15667
@@ -6202,7 +6220,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,21,"Mining,
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",9
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",148
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",135
@@ -6220,7 +6237,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,81,Other Se
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,81,Other Services (except Public Administration),1409
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,81,Other Services (except Public Administration),0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,81,Other Services (except Public Administration),8.6
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,81,Other Services (except Public Administration),0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,81,Other Services (except Public Administration),9719
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,81,Other Services (except Public Administration),9520
@@ -6238,7 +6254,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,54,"Profess
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",3193
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",7.1
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",33793
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",33381
@@ -6257,7 +6272,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,92,Public A
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,92,Public Administration,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,92,Public Administration,4.1000000000000005
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,92,Public Administration,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,92,Public Administration,17887
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,92,Public Administration,18170
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,92,Public Administration,18990
@@ -6275,7 +6289,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,53,Real Est
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,53,Real Estate and Rental and Leasing,572
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,53,Real Estate and Rental and Leasing,7.9
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,53,Real Estate and Rental and Leasing,4569
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q3,53,Real Estate and Rental and Leasing,4739
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,53,Real Estate and Rental and Leasing,4488
@@ -6292,7 +6305,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,44-45,Retai
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,44-45,Retail Trade,5866
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,44-45,Retail Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,44-45,Retail Trade,12.2
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,44-45,Retail Trade,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,44-45,Retail Trade,33064
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,44-45,Retail Trade,31519
@@ -6310,7 +6322,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,48-49,Trans
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,48-49,Transportation and Warehousing,9.5
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,48-49,Transportation and Warehousing,3321
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,48-49,Transportation and Warehousing,16159
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,48-49,Transportation and Warehousing,16288
@@ -6328,7 +6339,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,22,Utilitie
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,22,Utilities,0
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,22,Utilities,44
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,22,Utilities,5.6000000000000005
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,22,Utilities,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,22,Utilities,452
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,22,Utilities,659
@@ -6346,7 +6356,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q1,42,Wholesal
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q2,42,Wholesale Trade,1063
 Separations,Anne Arundel WIA,Maryland Separations by Industry,2023Q3,42,Wholesale Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q1,42,Wholesale Trade,8.1
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2023Q3,42,Wholesale Trade,0
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q1,42,Wholesale Trade,9498
 Workers,Anne Arundel WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,9397
@@ -6457,16 +6466,12 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Education,2023Q1,E4,Bachelor's 
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2023Q2,E4,Bachelor's degree or advanced degree,6154
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2023Q3,E4,Bachelor's degree or advanced degree,6373
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q1,E1,Less than High school,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q3,E1,Less than High school,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q1,E2,"High school or equivalent, no college",0.085
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q3,E2,"High school or equivalent, no college",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q1,E3,Some college or Associate degree,0.083
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q3,E3,Some college or Associate degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor's degree or advanced degree,0.075
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,-638
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q3,1,Male,0
@@ -6474,16 +6479,13 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,3700
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2023Q1,0,All,6731
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,6339
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.106
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,0
 Separations,Anne Arundel WIA,Maryland Separations by Gender All,2023Q1,0,All,41138
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q3,2,Female,0
 Separations,Anne Arundel WIA,Maryland Separations by Gender All,2023Q2,0,All,39514
 Separations,Anne Arundel WIA,Maryland Separations by Gender All,2023Q3,0,All,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q1,0,All,0.095
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2023Q3,0,All,0
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),9753
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),13829
@@ -6541,7 +6543,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q2,E5,Educa
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.189,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,6731
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,6339
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,6339
@@ -6550,6 +6551,5 @@ Separations,Anne Arundel WIA,Maryland Separations by Age All,2023Q3,A00,All Ages
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q1,E0,All Education Categories,0.095
 Separations,Anne Arundel WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,41138
 Separations,Anne Arundel WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,39514
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2023Q3,E0,All Education Categories,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.086

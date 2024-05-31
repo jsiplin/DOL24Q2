@@ -1,4 +1,33 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q2,TBD,All,TBD
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,TBD
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1883
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2019Q1,72,Accommodation and Food Services,2145
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1867
@@ -6018,7 +6047,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,62,Health
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,62,Health Care and Social Assistance,11109
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,62,Health Care and Social Assistance,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,7.1
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,62,Health Care and Social Assistance,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,62,Health Care and Social Assistance,73580
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,62,Health Care and Social Assistance,72074
@@ -6037,7 +6065,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,56,Admini
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,17.9
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,24151
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,23674
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,23425
@@ -6053,12 +6080,10 @@ New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q3,11,"Agricultu
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.103
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",6
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,72,Accommodation and Food Services,0
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Care and Social Assistance,5871
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",18.2
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",30
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",22
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",44
@@ -6075,7 +6100,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,71,"Arts,
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",1247
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",8.9
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",5609
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",7104
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q1,23,Construction,6805
@@ -6090,7 +6114,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,23,Constr
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,23,Construction,1398
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,23,Construction,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,23,Construction,8
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,23,Construction,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,23,Construction,9506
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,23,Construction,9419
@@ -6140,12 +6163,10 @@ New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q1,51,Informatio
 New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q2,51,Information,494
 New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q3,51,Information,534
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q3,23,Construction,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,51,Information,802
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,51,Information,592
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,51,Information,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,51,Information,7.3
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,51,Information,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,51,Information,6629
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,51,Information,6632
@@ -6164,7 +6185,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,55,Manage
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,55,Management of Companies and Enterprises,7.8
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,55,Management of Companies and Enterprises,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,55,Management of Companies and Enterprises,7362
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,55,Management of Companies and Enterprises,7618
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,55,Management of Companies and Enterprises,7617
@@ -6181,7 +6201,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,31-33,Man
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,31-33,Manufacturing,1272
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,31-33,Manufacturing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,31-33,Manufacturing,6.9
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,31-33,Manufacturing,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,31-33,Manufacturing,10622
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,31-33,Manufacturing,10616
@@ -6192,7 +6211,6 @@ Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q2,21,"Min
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,52,Finance and Insurance,5.4
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,52,Finance and Insurance,0
 New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -6201,7 +6219,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,21,"Minin
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -6218,7 +6235,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,81,Other 
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,81,Other Services (except Public Administration),1457
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,81,Other Services (except Public Administration),0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,81,Other Services (except Public Administration),8.9
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,81,Other Services (except Public Administration),0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,81,Other Services (except Public Administration),10747
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,81,Other Services (except Public Administration),10517
@@ -6237,7 +6253,6 @@ New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q1,21,"Mining, Q
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",3480
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",2657
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",24425
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",24242
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q1,92,Public Administration,6240
@@ -6254,7 +6269,6 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,92,Public
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,92,Public Administration,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,92,Public Administration,4
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,92,Public Administration,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,92,Public Administration,31548
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,92,Public Administration,32313
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q1,53,Real Estate and Rental and Leasing,7364
@@ -6275,7 +6289,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,53,Real Es
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,53,Real Estate and Rental and Leasing,830
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,53,Real Estate and Rental and Leasing,5292
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,53,Real Estate and Rental and Leasing,5210
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,53,Real Estate and Rental and Leasing,5286
@@ -6295,7 +6308,6 @@ Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,44-45,Reta
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q2,44-45,Retail Trade,13688
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q3,44-45,Retail Trade,13663
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,44-45,Retail Trade,13882
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,0
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q1,48-49,Transportation and Warehousing,3630
 New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q3,44-45,Retail Trade,2944
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q2,48-49,Transportation and Warehousing,3880
@@ -6309,7 +6321,6 @@ New Hires,Baltimore City WIA,Maryland New Hires by Industry,2023Q3,48-49,Transpo
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,48-49,Transportation and Warehousing,5092
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,48-49,Transportation and Warehousing,4307
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,48-49,Transportation and Warehousing,9.5
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,48-49,Transportation and Warehousing,27089
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,48-49,Transportation and Warehousing,0
@@ -6342,10 +6353,8 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q1,42,Wholes
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q2,42,Wholesale Trade,771
 Separations,Baltimore City WIA,Maryland Separations by Industry,2023Q3,42,Wholesale Trade,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q1,42,Wholesale Trade,6.4
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q3,42,Wholesale Trade,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,42,Wholesale Trade,7626
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,0
 Workers,Baltimore City WIA,Maryland Workers by Industry,2023Q1,22,Utilities,2642
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q2,42,Wholesale Trade,8002
 Earnings,Baltimore City WIA,Maryland Average Earnings by Industry,2023Q1,42,Wholesale Trade,8741
@@ -6457,16 +6466,12 @@ New Hires,Baltimore City WIA,Maryland New Hires by Education,2023Q1,E4,Bachelor'
 New Hires,Baltimore City WIA,Maryland New Hires by Education,2023Q2,E4,Bachelor's degree or advanced degree,7884
 New Hires,Baltimore City WIA,Maryland New Hires by Education,2023Q3,E4,Bachelor's degree or advanced degree,9061
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q1,E1,Less than High school,0.09
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q3,E1,Less than High school,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q1,E2,"High school or equivalent, no college",0.08
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q3,E2,"High school or equivalent, no college",0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q1,E3,Some college or Associate degree,0.076
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q3,E3,Some college or Associate degree,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor's degree or advanced degree,0.064
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,-970
 Job Change,Baltimore City WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,3092
@@ -6475,16 +6480,13 @@ Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Gender All,2023
 Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,6153
 Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.081
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.086
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender,2023Q3,2,Female,0
 Separations,Baltimore City WIA,Maryland Separations by Gender All,2023Q1,0,All,45112
 Separations,Baltimore City WIA,Maryland Separations by Gender All,2023Q2,0,All,51975
 Separations,Baltimore City WIA,Maryland Separations by Gender All,2023Q3,0,All,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q1,0,All,0.084
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Gender All,2023Q3,0,All,0
 New Hires,Baltimore City WIA,Maryland New Hires by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),8150
 New Hires,Baltimore City WIA,Maryland New Hires by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),11913
@@ -6536,7 +6538,6 @@ Separations,Baltimore City WIA,Maryland Separations by Education,2023Q2,E5,Educa
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),881
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
 Job Change,Baltimore City WIA,Maryland Job Net Change by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),4377
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),0.198,
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Age All,2023Q1,A00,All Ages,6801
@@ -6546,7 +6547,6 @@ Separations,Baltimore City WIA,Maryland Separations by Age All,2023Q1,A00,All Ag
 Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Age All,2023Q3,A00,All Ages,0
 Earnings,Baltimore City WIA,Maryland Average Monthly Earnings by Age All,2023Q2,A00,All Ages,6153
 Separations,Baltimore City WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0
-Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,0
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q1,E0,All Education Categories,0.084
 Turnover,Baltimore City WIA,Maryland Turnover Rate by Education All,2023Q3,E0,All Education Categories,0
 Workers,Baltimore City WIA,Maryland Workers by Age All,2023Q1,A00,All Ages,336967

@@ -14,5 +14,16 @@ Description of project
 - set NODE_OPTIONS=--openssl-legacy-provider
 
 Regex for TBDs
-\bTurnover\b.*?\b2022Q3\b.*?\,0
+
+WDAs
+\bTurnover\b.*?\b2023Q1\b.*?\,0
+\bChange\b.*?\b2023Q1\b.*?\,0
+\bMonthly\b.*?\b2023Q1\b.*?\,0
+
+
+Marylands
+\b2023Q2\b.*\bTurnover\b.*\b,0
+\b2023Q2\b.*\bJob Net Change\b.*\b,0
+\b2023Q2\b.*\bMaryland Average Monthly Earnings\b.*\b,0
+
 

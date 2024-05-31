@@ -1,4 +1,33 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,TBD
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1401
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2016Q1,72,Accommodation and Food Services,1452
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2017Q1,72,Accommodation and Food Services,1527
@@ -6004,7 +6033,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,72,Acc
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,72,Accommodation and Food Services,2760
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,72,Accommodation and Food Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,72,Accommodation and Food Services,15.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,72,Accommodation and Food Services,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,72,Accommodation and Food Services,10714
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,72,Accommodation and Food Services,11380
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,62,Health Care and Social Assistance,4946
@@ -6022,7 +6050,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,62,Hea
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,62,Health Care and Social Assistance,1582
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,62,Health Care and Social Assistance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,62,Health Care and Social Assistance,9.5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,62,Health Care and Social Assistance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,62,Health Care and Social Assistance,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,62,Health Care and Social Assistance,12108
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,62,Health Care and Social Assistance,11241
@@ -6039,7 +6066,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,56,Adminis
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,761
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,782
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,10.2
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,56,Administrative and Support and Waste Management and Remediation Services,3724
@@ -6058,7 +6084,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,11,"Ag
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",7.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,11,"Agriculture, Forestry, Fishing and Hunting",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,11,"Agriculture, Forestry, Fishing and Hunting",96
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,11,"Agriculture, Forestry, Fishing and Hunting",98
@@ -6075,7 +6100,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,71,"Arts, 
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",157
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",278
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,71,"Arts, Entertainment, and Recreation",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,71,"Arts, Entertainment, and Recreation",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",16.900000000000002
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,71,"Arts, Entertainment, and Recreation",829
@@ -6094,7 +6118,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,23,Con
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,23,Construction,0
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q3,23,Construction,887
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,23,Construction,7.5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,23,Construction,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,23,Construction,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,23,Construction,7017
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,23,Construction,7155
@@ -6112,7 +6135,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,61,Edu
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,61,Educational Services,1161
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,61,Educational Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,61,Educational Services,6.4
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,61,Educational Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,61,Educational Services,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,61,Educational Services,11196
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,61,Educational Services,11498
@@ -6130,7 +6152,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,52,Fin
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,52,Finance and Insurance,0
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,52,Finance and Insurance,150
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,52,Finance and Insurance,7.199999999999999
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,52,Finance and Insurance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,52,Finance and Insurance,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,52,Finance and Insurance,1596
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,52,Finance and Insurance,1593
@@ -6148,7 +6169,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,51,Inf
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,51,Information,82
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,51,Information,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,51,Information,8.200000000000001
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,51,Information,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,51,Information,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,51,Information,725
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,51,Information,749
@@ -6166,7 +6186,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,55,Man
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,55,Management of Companies and Enterprises,56
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,55,Management of Companies and Enterprises,8.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,55,Management of Companies and Enterprises,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,55,Management of Companies and Enterprises,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,55,Management of Companies and Enterprises,462
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,55,Management of Companies and Enterprises,394
@@ -6186,7 +6205,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,31-33,
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,31-33,Manufacturing,7.199999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,31-33,Manufacturing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,31-33,Manufacturing,1240
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,31-33,Manufacturing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,31-33,Manufacturing,1256
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8983
 Earnings,Southern Maryland WIA,Maryland Average Earnings by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",7946
@@ -6203,7 +6221,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,21,"Mi
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",12
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",12
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",13
@@ -6220,7 +6237,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,81,Oth
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,81,Other Services (except Public Administration),527
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,81,Other Services (except Public Administration),0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,81,Other Services (except Public Administration),9.4
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,81,Other Services (except Public Administration),0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,81,Other Services (except Public Administration),0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,81,Other Services (except Public Administration),3226
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,81,Other Services (except Public Administration),3136
@@ -6238,7 +6254,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,54,"Pr
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",1395
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",7.199999999999999
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,54,"Professional, Scientific, and Technical Services",0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,54,"Professional, Scientific, and Technical Services",12845
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,54,"Professional, Scientific, and Technical Services",13889
@@ -6257,7 +6272,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,92,Pub
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,92,Public Administration,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,92,Public Administration,5.8999999999999995
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,92,Public Administration,5608
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,92,Public Administration,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,92,Public Administration,5759
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,92,Public Administration,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,92,Public Administration,6100
@@ -6275,7 +6289,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,53,Rea
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,53,Real Estate and Rental and Leasing,7.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,53,Real Estate and Rental and Leasing,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,53,Real Estate and Rental and Leasing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,53,Real Estate and Rental and Leasing,794
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,53,Real Estate and Rental and Leasing,805
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,53,Real Estate and Rental and Leasing,830
@@ -6291,7 +6304,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2023Q2,44-45,Reta
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,44-45,Retail Trade,2553
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,44-45,Retail Trade,2546
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,44-45,Retail Trade,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,44-45,Retail Trade,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,44-45,Retail Trade,12.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,44-45,Retail Trade,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,44-45,Retail Trade,13219
@@ -6311,7 +6323,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,48-49,
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,48-49,Transportation and Warehousing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,48-49,Transportation and Warehousing,8.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,48-49,Transportation and Warehousing,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,48-49,Transportation and Warehousing,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,48-49,Transportation and Warehousing,3198
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,48-49,Transportation and Warehousing,2582
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,48-49,Transportation and Warehousing,2486
@@ -6328,7 +6339,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,22,Uti
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,22,Utilities,90
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q3,22,Utilities,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,22,Utilities,3.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,22,Utilities,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,22,Utilities,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,22,Utilities,1530
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,22,Utilities,1537
@@ -6347,7 +6357,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q2,42,Who
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2023Q1,42,Wholesale Trade,132
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q1,42,Wholesale Trade,5.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q3,42,Wholesale Trade,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2023Q2,42,Wholesale Trade,0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q1,42,Wholesale Trade,1425
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q2,42,Wholesale Trade,1408
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2023Q3,42,Wholesale Trade,1523
@@ -6456,17 +6465,13 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q2,E2,"High 
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q1,E4,Bachelor's degree or advanced degree,2146
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q3,E4,Bachelor's degree or advanced degree,2014
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q2,E4,Bachelor's degree or advanced degree,1886
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E1,Less than High school,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E1,Less than High school,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E1,Less than High school,0.09
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E2,"High school or equivalent, no college",0.077
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E2,"High school or equivalent, no college",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E2,"High school or equivalent, no college",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E3,Some college or Associate degree,0.076
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E3,Some college or Associate degree,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E3,Some college or Associate degree,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q1,E4,Bachelor's degree or advanced degree,0.066
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E4,Bachelor's degree or advanced degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q1,1,Male,881
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q3,E4,Bachelor's degree or advanced degree,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Gender,2023Q2,1,Male,1079
@@ -6475,15 +6480,12 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q2,0,All,5268
 Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Gender All,2023Q3,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,1,Male,0.088
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q2,1,Male,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q3,1,Male,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q1,2,Female,0.094
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q3,2,Female,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender,2023Q2,2,Female,0
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2023Q1,0,All,12898
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2023Q2,0,All,13782
 Separations,Southern Maryland WIA,Maryland Separations by Gender All,2023Q3,0,All,0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2023Q2,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2023Q3,0,All,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Gender All,2023Q1,0,All,0.091
 New Hires,Southern Maryland WIA,Maryland New Hires by Education,2023Q1,E5,Educational attainment not available (workers aged 24 or younger),3722
@@ -6544,10 +6546,8 @@ Earnings,Southern Maryland WIA,Maryland Average Monthly Earnings by Age All,2023
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q1,A00,All Ages,12898
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q2,A00,All Ages,13782
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Education,2023Q3,E5,Educational attainment not available (workers aged 24 or younger),0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education,2023Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
 Separations,Southern Maryland WIA,Maryland Separations by Age All,2023Q3,A00,All Ages,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q1,E0,All Education Categories,0.091
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q2,E0,All Education Categories,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Education All,2023Q3,E0,All Education Categories,0
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2023Q1,A00,All Ages,90882
 Workers,Southern Maryland WIA,Maryland Workers by Age All,2023Q2,A00,All Ages,93042
