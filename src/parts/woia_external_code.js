@@ -223,7 +223,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
                ${!workData2022Q4[1] ? '' : displayAvgQuarterTab1('2022Q4', workData2022Q4, workDatg2022Q4, averageData2022Q4, averageDatg2022Q4)}
 			         ${!workData2023Q1[1] ? '' : displayAvgQuarterTab1('2023Q1', workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1)}
                ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q2', workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2)}
-               ${!workData2023Q2[1] ? '' : displayAvgQuarterTab1('2023Q3', workData2023Q3, workDatg2023Q3, averageData2023Q3, averageDatg2023Q3)}            
+               ${!workData2023Q3[1] ? '' : displayAvgQuarterTab1('2023Q3', workData2023Q3, workDatg2023Q3, averageData2023Q3, averageDatg2023Q3)}            
 
   `
     // Tab 2  
@@ -1048,6 +1048,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pwChart, pavgChart],
         'svgName': '#Chart3',
         'data': {
+            data23q3: [workData2023Q3, workDatg2023Q3, averageData2023Q3, averageDatg2023Q3],
             data23q2: [workData2023Q2, workDatg2023Q2, averageData2023Q2, averageDatg2023Q2],
             data23q1: [workData2023Q1, workDatg2023Q1, averageData2023Q1, averageDatg2023Q1],
             data22q4: [workData2022Q4, workDatg2022Q4, averageData2022Q4, averageDatg2022Q4],
@@ -1086,6 +1087,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
+            data23q3: [newHireDatc2023Q3, newHireDatg2023Q3, jobDatc2023Q3, jobDatg2023Q3],
             data23q2: [newHireDatc2023Q2, newHireDatg2023Q2, jobDatc2023Q2, jobDatg2023Q2],
             data23q1: [newHireDatc2023Q1, newHireDatg2023Q1, jobDatc2023Q1, jobDatg2023Q1],
             data22q4: [newHireDatc2022Q4, newHireDatg2022Q4, jobDatc2022Q4, jobDatg2022Q4],
