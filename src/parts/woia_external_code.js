@@ -1163,6 +1163,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
+            data23q2: [iwdata2023Q2, avgdata2023Q2, netdata2023Q2, turndata2023Q2, hiredata2023Q2],
             data23q1: [iwdata2023Q1, avgdata2023Q1, netdata2023Q1, turndata2023Q1, hiredata2023Q1],
             data22q4: [iwdata2022Q4, avgdata2022Q4, netdata2022Q4, turndata2022Q4, hiredata2022Q4],
             data22q3: [iwdata2022Q3, avgdata2022Q3, netdata2022Q3, turndata2022Q3, hiredata2022Q3],
