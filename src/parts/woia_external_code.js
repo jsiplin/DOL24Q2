@@ -1201,6 +1201,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart61],
         'svgName': '#Chart17',
         'data': {
+                data23q2: [isepdata2023Q2, asepdata2023Q2, gsepdata2023Q2, esepdata2023Q2],
                 data23q1: [isepdata2023Q1, asepdata2023Q1, gsepdata2023Q1, esepdata2023Q1],
                 data22q4: [isepdata2022Q4, asepdata2022Q4, gsepdata2022Q4, esepdata2022Q4],
                 data22q3: [isepdata2022Q3, asepdata2022Q3, gsepdata2022Q3, esepdata2022Q3],
